@@ -19,5 +19,5 @@ jobs:
         pip install starred
     - name: update repo
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username dotiful --repository starred --sort --token ${GITHUB_TOKEN} --message 'update stars'
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      run: starred --username dotiful --repository starred --sort --token ${TOKEN} --message 'update stars'
