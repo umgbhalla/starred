@@ -106,6 +106,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
 - [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
 - [LichKing112/portfolio.old](https://github.com/LichKing112/portfolio.old) - ❖ Legacy code for my personal website/portfolio.
@@ -163,7 +164,7 @@
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
-- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more.
+- [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
 
 ## Markdown 
 
@@ -264,6 +265,7 @@
 
 ## Shell 
 
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [piroor/tweet.sh](https://github.com/piroor/tweet.sh) - Twitter client written in simple Bash script
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
@@ -280,7 +282,7 @@
 - [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [mahmoudk1000/Dotfiles](https://github.com/mahmoudk1000/Dotfiles) - files that define my linux box. Much awesome
-- [thwidge/thoughts](https://github.com/thwidge/thoughts) - MIRRORED from https://git.sr.ht/~thwidge/thoughts
+- [thwidge/thoughts](https://github.com/thwidge/thoughts) - A portable pal for putting your thoughts on the internet
 - [ChocolateBread799/Simple](https://github.com/ChocolateBread799/Simple) - 
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - My repo of polybar themes
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
