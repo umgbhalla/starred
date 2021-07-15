@@ -21,6 +21,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -218,6 +219,10 @@
 
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 
+## PowerShell 
+
+- [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+
 ## Python 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -265,6 +270,7 @@
 
 ## Shell 
 
+- [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [piroor/tweet.sh](https://github.com/piroor/tweet.sh) - Twitter client written in simple Bash script
