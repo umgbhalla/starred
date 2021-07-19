@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [mTvare6/htBrowser](https://github.com/mTvare6/htBrowser) - A hotkey browser made for developers to have easy doc access on any screen
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [wooosh/themewiki](https://github.com/wooosh/themewiki) - 
 - [muhammed/vue-interactive-paycard](https://github.com/muhammed/vue-interactive-paycard) - Credit card form with smooth and sweet micro-interactions
@@ -227,6 +228,7 @@
 
 ## Python 
 
+- [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -261,6 +263,7 @@
 
 ## Rust 
 
+- [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
