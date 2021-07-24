@@ -58,7 +58,7 @@
 
 ## C++ 
 
-- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, debugger, tests enabler - high performance
+- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [adishavit/simple-svg](https://github.com/adishavit/simple-svg) - Easy to use SVG library for C++ (fork of legacy Google code project archive)
