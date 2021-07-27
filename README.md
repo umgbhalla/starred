@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -67,7 +68,6 @@
 ## CSS 
 
 - [Vftdan/dotfiles](https://github.com/Vftdan/dotfiles) - 
-- [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
 - [Gitleptune/lantern-theme](https://github.com/Gitleptune/lantern-theme) - Brown-Orange colour theme, and userCSS styles for different websites and services.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [adipopbv/dotfiles](https://github.com/adipopbv/dotfiles) - My linux dotfiles.
@@ -88,6 +88,10 @@
 ## Dart 
 
 - [Kennygunderman/snack_chat](https://github.com/Kennygunderman/snack_chat) - Spicy chatting app
+
+## GLSL 
+
+- [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
 
 ## Go 
 
@@ -181,6 +185,7 @@
 
 ## Others 
 
+- [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - My custom wallpapers to show my love for Doom Emacs
 - [neos-20/neos-20](https://github.com/neos-20/neos-20) - About
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -271,7 +276,7 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [Kethku/neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
