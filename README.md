@@ -36,7 +36,7 @@
 
 ## C 
 
-- [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++ and Rust library to draw graphics with pixels in the terminal
+- [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++, Rust and COBOL library to draw graphics with pixels in the terminal
 - [MaxFork/MegaTools](https://github.com/MaxFork/MegaTools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [wmutils/opt](https://github.com/wmutils/opt) - optional addons to wmutils
 - [sdothum/dotfiles](https://github.com/sdothum/dotfiles) - 
