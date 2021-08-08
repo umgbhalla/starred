@@ -67,6 +67,7 @@
 
 ## CSS 
 
+- [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [Vftdan/dotfiles](https://github.com/Vftdan/dotfiles) - 
 - [Gitleptune/lantern-theme](https://github.com/Gitleptune/lantern-theme) - Brown-Orange colour theme, and userCSS styles for different websites and services.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
@@ -287,7 +288,7 @@
 ## Shell 
 
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [piroor/tweet.sh](https://github.com/piroor/tweet.sh) - Twitter client written in simple Bash script
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
