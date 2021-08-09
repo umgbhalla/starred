@@ -287,6 +287,7 @@
 
 ## Shell 
 
+- [jayden-chan/dotfiles](https://github.com/jayden-chan/dotfiles) - Holy smokes, these are some ballin dotfiles!
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
