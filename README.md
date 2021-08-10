@@ -165,6 +165,7 @@
 
 ## Lua 
 
+- [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - nii-nvim is a minimal neovim lua config with sane defaults and extensibility in mind.
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
@@ -174,7 +175,8 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [yashguptaz/dotfiles](https://github.com/yashguptaz/dotfiles) - Personal Dotfiles.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
+- [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
 
@@ -321,7 +323,6 @@
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
 - [tonijarjour/autorice](https://github.com/tonijarjour/autorice) - Autorice 9001 ~ Simple and fast arch setup in minutes
 - [RoyalEagle73/dotfiles](https://github.com/RoyalEagle73/dotfiles) - 
-- [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
