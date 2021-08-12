@@ -298,7 +298,7 @@
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [Praxylmx/dotFiles](https://github.com/Praxylmx/dotFiles) - Repository for my linux config files.
-- [6gk/shnippets](https://github.com/6gk/shnippets) - *sh script collection
+- [6gk/shnippets](https://github.com/6gk/shnippets) - collection of small snippets
 - [lharding/lsh-bin](https://github.com/lharding/lsh-bin) - Shell utilities toolkit
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
