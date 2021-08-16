@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [mTvare6/htBrowser](https://github.com/mTvare6/htBrowser) - A hotkey browser made for developers to have easy doc access on any screen
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -177,7 +178,7 @@
 - [yashguptaz/dotfiles](https://github.com/yashguptaz/dotfiles) - Personal Dotfiles.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
 
