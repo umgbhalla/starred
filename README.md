@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Mustache](#mustache)
@@ -164,6 +165,10 @@
 - [ridarf/raythis](https://github.com/ridarf/raythis) - Instantly deploy code snippets to Ray.so without leaving your coding environment. 🚀📷
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+## Kotlin 
+
+- [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 
 ## Lua 
 
