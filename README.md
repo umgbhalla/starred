@@ -124,6 +124,7 @@
 - [mollerjorge/gulpie-web](https://github.com/mollerjorge/gulpie-web) - This is the marketing site for a fictitious company called Gulpie
 - [30DaysofWebDEV/DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) - 
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 
 ## Java 
@@ -135,6 +136,7 @@
 
 ## JavaScript 
 
+- [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [mTvare6/htBrowser](https://github.com/mTvare6/htBrowser) - A hotkey browser made for developers to have easy doc access on any screen
@@ -292,7 +294,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
-- [elkowar/eww](https://github.com/elkowar/eww) - ElKowar's wacky widgets
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 
 ## Shell 
 
@@ -371,7 +373,6 @@
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
 - [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 
 
 ## License
