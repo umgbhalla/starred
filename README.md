@@ -117,7 +117,6 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
 - [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
-- [LichKing112/portfolio.old](https://github.com/LichKing112/portfolio.old) - ❖ Legacy code for my personal website/portfolio.
 - [TheRealKizu/therealkizu.github.io](https://github.com/TheRealKizu/therealkizu.github.io) - My personal website.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -199,6 +198,7 @@
 
 ## Others 
 
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - My custom wallpapers to show my love for Doom Emacs
 - [neos-20/neos-20](https://github.com/neos-20/neos-20) - About
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
