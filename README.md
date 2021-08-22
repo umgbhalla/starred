@@ -37,6 +37,7 @@
 
 ## C 
 
+- [tmplt/fuzzywuzzy](https://github.com/tmplt/fuzzywuzzy) - A C++ port of the Python module under the same name
 - [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++, Rust and COBOL library to draw graphics with pixels in the terminal
 - [MaxFork/MegaTools](https://github.com/MaxFork/MegaTools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [wmutils/opt](https://github.com/wmutils/opt) - optional addons to wmutils
@@ -298,6 +299,7 @@
 
 ## Shell 
 
+- [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [jayden-chan/dotfiles](https://github.com/jayden-chan/dotfiles) - Holy smokes, these are some ballin dotfiles!
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
