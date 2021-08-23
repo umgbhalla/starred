@@ -114,6 +114,7 @@
 
 ## HTML 
 
+- [technext/100-template-list](https://github.com/technext/100-template-list) - 
 - [gaurav147-star/neos-20.github.io](https://github.com/gaurav147-star/neos-20.github.io) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
@@ -124,7 +125,6 @@
 - [mollerjorge/gulpie-web](https://github.com/mollerjorge/gulpie-web) - This is the marketing site for a fictitious company called Gulpie
 - [30DaysofWebDEV/DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) - 
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 
 ## Java 
@@ -188,6 +188,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
+- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 
 ## Markdown 
 
@@ -199,6 +200,7 @@
 
 ## Others 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - My custom wallpapers to show my love for Doom Emacs
 - [neos-20/neos-20](https://github.com/neos-20/neos-20) - About
