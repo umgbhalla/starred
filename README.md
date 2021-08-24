@@ -219,7 +219,7 @@
 - [Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [logeshpaul/Frontend-Cheat-Sheets](https://github.com/logeshpaul/Frontend-Cheat-Sheets) - Collection of cheat sheets(HTML, CSS, JS, Git, Gulp, etc.,) for your frontend development needs & reference
 - [TorchedSammy/fetches](https://github.com/TorchedSammy/fetches) - hell
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [IIITians-Network/Network](https://github.com/IIITians-Network/Network) - 
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [TheNaoX/vimtutor](https://github.com/TheNaoX/vimtutor) - Vimtutor text
