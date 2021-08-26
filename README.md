@@ -301,6 +301,8 @@
 
 ## Shell 
 
+- [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
+- [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [jayden-chan/dotfiles](https://github.com/jayden-chan/dotfiles) - Holy smokes, these are some ballin dotfiles!
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
@@ -351,7 +353,6 @@
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 
 ## TypeScript 
 
