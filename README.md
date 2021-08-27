@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -301,6 +302,7 @@
 
 ## Shell 
 
+- [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
