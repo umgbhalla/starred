@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
@@ -92,6 +93,10 @@
 ## Dart 
 
 - [Kennygunderman/snack_chat](https://github.com/Kennygunderman/snack_chat) - Spicy chatting app
+
+## Dockerfile 
+
+- [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
 
 ## GLSL 
 
@@ -201,6 +206,7 @@
 
 ## Others 
 
+- [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - My custom wallpapers to show my love for Doom Emacs
