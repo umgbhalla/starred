@@ -209,7 +209,7 @@
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
-- [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - My custom wallpapers to show my love for Doom Emacs
+- [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - Custom wallpapers to show love for Doom Emacs and Org Mode
 - [neos-20/neos-20](https://github.com/neos-20/neos-20) - About
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
