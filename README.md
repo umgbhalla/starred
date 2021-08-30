@@ -142,6 +142,7 @@
 
 ## JavaScript 
 
+- [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
