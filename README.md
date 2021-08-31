@@ -92,6 +92,7 @@
 
 ## Dart 
 
+- [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [Kennygunderman/snack_chat](https://github.com/Kennygunderman/snack_chat) - Spicy chatting app
 
 ## Dockerfile 
@@ -207,6 +208,7 @@
 
 ## Others 
 
+- [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
