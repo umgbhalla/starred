@@ -340,7 +340,6 @@
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
 - [ChocolateBread799/Awespwm](https://github.com/ChocolateBread799/Awespwm) - 
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
-- [ChocolateBread799/Beige](https://github.com/ChocolateBread799/Beige) - 
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - My dotfiles / config files I use on my daily driver.
