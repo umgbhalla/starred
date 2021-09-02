@@ -230,9 +230,11 @@
 - [logeshpaul/Frontend-Cheat-Sheets](https://github.com/logeshpaul/Frontend-Cheat-Sheets) - Collection of cheat sheets(HTML, CSS, JS, Git, Gulp, etc.,) for your frontend development needs & reference
 - [TorchedSammy/fetches](https://github.com/TorchedSammy/fetches) - hell
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [IIITians-Network/Network](https://github.com/IIITians-Network/Network) - 
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [TheNaoX/vimtutor](https://github.com/TheNaoX/vimtutor) - Vimtutor text
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [learn-anything/command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
 - [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
@@ -271,7 +273,6 @@
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [atharva-lipare/MS-Teams-Auto-Joiner](https://github.com/atharva-lipare/MS-Teams-Auto-Joiner) - Python script to automatically join Microsoft Teams meetings appearing in your calendar.
-- [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -349,7 +350,6 @@
 - [tonijarjour/autorice](https://github.com/tonijarjour/autorice) - Autorice 9001 ~ Simple and fast arch setup in minutes
 - [RoyalEagle73/dotfiles](https://github.com/RoyalEagle73/dotfiles) - 
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [BachoSeven/dotfiles](https://github.com/BachoSeven/dotfiles) - rice repo
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
