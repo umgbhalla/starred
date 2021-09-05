@@ -312,6 +312,7 @@
 
 ## Shell 
 
+- [Shubham-Vy/sauce-finder](https://github.com/Shubham-Vy/sauce-finder) - 
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
