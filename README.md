@@ -312,6 +312,7 @@
 
 ## Shell 
 
+- [Manas140/sh](https://github.com/Manas140/sh) - Collection of sh scripts i made
 - [Shubham-Vy/sauce-finder](https://github.com/Shubham-Vy/sauce-finder) - 
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
