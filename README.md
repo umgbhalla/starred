@@ -121,6 +121,7 @@
 
 ## HTML 
 
+- [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 - [technext/100-template-list](https://github.com/technext/100-template-list) - 
 - [gaurav147-star/neos-20.github.io](https://github.com/gaurav147-star/neos-20.github.io) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
