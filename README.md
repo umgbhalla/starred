@@ -15,6 +15,7 @@
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
@@ -71,6 +72,7 @@
 
 ## CSS 
 
+- [mohittk/React-Weather-App](https://github.com/mohittk/React-Weather-App) - 
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [Vftdan/dotfiles](https://github.com/Vftdan/dotfiles) - 
 - [Gitleptune/lantern-theme](https://github.com/Gitleptune/lantern-theme) - Brown-Orange colour theme, and userCSS styles for different websites and services.
@@ -134,6 +136,10 @@
 - [30DaysofWebDEV/DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) - 
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+
+## Haskell 
+
+- [Alonely0/dotfiles-2.0](https://github.com/Alonely0/dotfiles-2.0) - My dotfiles but better
 
 ## Java 
 
@@ -313,6 +319,7 @@
 
 ## Shell 
 
+- [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection of sh scripts i made
 - [Shubham-Vy/sauce-finder](https://github.com/Shubham-Vy/sauce-finder) - 
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
