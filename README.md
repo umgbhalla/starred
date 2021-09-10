@@ -304,6 +304,7 @@
 
 ## Rust 
 
+- [mazznoer/gradient-rs](https://github.com/mazznoer/gradient-rs) - A command line tool for playing with color gradients
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -320,6 +321,7 @@
 
 ## Shell 
 
+- [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection of sh scripts i made
 - [Shubham-Vy/sauce-finder](https://github.com/Shubham-Vy/sauce-finder) - 
@@ -377,6 +379,7 @@
 
 ## TypeScript 
 
+- [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [elianiva/umaru-chat](https://github.com/elianiva/umaru-chat) - Realtime chat app built using React and Firebase. My first fullstack app.
