@@ -124,6 +124,7 @@
 
 ## HTML 
 
+- [P0WEX/Gesko](https://github.com/P0WEX/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 - [technext/100-template-list](https://github.com/technext/100-template-list) - 
 - [gaurav147-star/neos-20.github.io](https://github.com/gaurav147-star/neos-20.github.io) - 
@@ -216,6 +217,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
@@ -321,6 +323,7 @@
 
 ## Shell 
 
+- [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection of sh scripts i made
