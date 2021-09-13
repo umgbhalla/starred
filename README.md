@@ -217,6 +217,7 @@
 
 ## Others 
 
+- [divyanshkhetan/dsa-notes](https://github.com/divyanshkhetan/dsa-notes) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
