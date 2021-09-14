@@ -87,7 +87,7 @@
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
 - [caffeine01/arch-monochrome](https://github.com/caffeine01/arch-monochrome) - My monochromatic rice for BSPWM on arch linux
 - [nekonako/dotfiles](https://github.com/nekonako/dotfiles) - 🏡 Comfy home for linux user
-- [sainnhe/gruvbox-material-gtk](https://github.com/sainnhe/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
+- [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
 - [siduck76/dotfiles](https://github.com/siduck76/dotfiles) - dotfiles for my beautiful rices!
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [astroryan12/VerticalTabs](https://github.com/astroryan12/VerticalTabs) - Replaces the old horizontal tab layout with an attractive new Vertical Tabs layout for Windows.
@@ -217,6 +217,8 @@
 
 ## Others 
 
+- [notescs/notes](https://github.com/notescs/notes) - Notes on OOPS and Computer Networks
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [divyanshkhetan/dsa-notes](https://github.com/divyanshkhetan/dsa-notes) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
@@ -324,6 +326,8 @@
 
 ## Shell 
 
+- [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
+- [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
 - [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
