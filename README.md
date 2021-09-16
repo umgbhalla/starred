@@ -152,6 +152,7 @@
 
 ## JavaScript 
 
+- [PremKarira/shinchanBot](https://github.com/PremKarira/shinchanBot) - a bot which will be used clone msg of a channel.
 - [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
