@@ -152,7 +152,7 @@
 
 ## JavaScript 
 
-- [PremKarira/shinchanBot](https://github.com/PremKarira/shinchanBot) - a bot which will be used clone msg of a channel.
+- [PremKarira/shinchanBot](https://github.com/PremKarira/shinchanBot) - 
 - [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
@@ -192,7 +192,7 @@
 
 ## Lua 
 
-- [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - nii-nvim is a minimal neovim lua config with sane defaults and extensibility in mind.
+- [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
@@ -218,6 +218,7 @@
 
 ## Others 
 
+- [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [notescs/notes](https://github.com/notescs/notes) - Notes on OOPS and Computer Networks
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [divyanshkhetan/dsa-notes](https://github.com/divyanshkhetan/dsa-notes) - 
