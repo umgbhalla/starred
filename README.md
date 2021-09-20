@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [IIITB-IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IIITB-IT-CS-ECE-2024Batch/OOPsAssign) - 
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
@@ -152,7 +153,6 @@
 
 ## JavaScript 
 
-- [PremKarira/shinchanBot](https://github.com/PremKarira/shinchanBot) - 
 - [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
@@ -234,7 +234,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [furkun/ProtectorHosts](https://github.com/furkun/ProtectorHosts) - Protect your IP address and some personal data with the hosts file.
 - [L04DB4L4NC3R/groff-cheatsheet](https://github.com/L04DB4L4NC3R/groff-cheatsheet) - GNU typesetting runoff ms macro cheatsheet with examples
-- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - 
+- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I've been curating this for the past 7 years.
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -328,6 +329,7 @@
 
 ## Shell 
 
+- [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
 - [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script. Don't use if you use LUKS.
