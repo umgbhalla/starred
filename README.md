@@ -125,6 +125,7 @@
 
 ## HTML 
 
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [P0WEX/Gesko](https://github.com/P0WEX/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 - [technext/100-template-list](https://github.com/technext/100-template-list) - 
