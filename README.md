@@ -277,6 +277,7 @@
 
 ## Python 
 
+- [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
 - [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
