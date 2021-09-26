@@ -219,6 +219,7 @@
 
 ## Others 
 
+- [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) - Curated list of beginner-friendly issues for Hacktoberfest 2021 | Raise PR to add your issues
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [notescs/notes](https://github.com/notescs/notes) - Notes on OOPS and Computer Networks
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
