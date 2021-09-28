@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [IIITB-IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IIITB-IT-CS-ECE-2024Batch/OOPsAssign) - 
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
@@ -96,6 +97,7 @@
 
 ## Dart 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [Kennygunderman/snack_chat](https://github.com/Kennygunderman/snack_chat) - Spicy chatting app
 
@@ -233,7 +235,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - Custom wallpapers to show love for Doom Emacs and Org Mode
-- [neos-20/neos-20](https://github.com/neos-20/neos-20) - About
+- [neos-20/.github](https://github.com/neos-20/.github) - About
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -281,6 +283,7 @@
 
 ## Python 
 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
 - [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
@@ -336,6 +339,7 @@
 
 ## Shell 
 
+- [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
