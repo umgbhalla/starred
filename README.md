@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AsciiDoc](#asciidoc)
   - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
@@ -32,6 +33,10 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -75,6 +80,7 @@
 
 ## CSS 
 
+- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [mohittk/React-Weather-App](https://github.com/mohittk/React-Weather-App) - 
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [Vftdan/dotfiles](https://github.com/Vftdan/dotfiles) - 
@@ -283,6 +289,7 @@
 
 ## Python 
 
+- [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW 😍💻
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
 - [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
@@ -312,7 +319,6 @@
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Ruby 
 
