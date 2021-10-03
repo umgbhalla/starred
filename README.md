@@ -162,6 +162,8 @@
 
 ## JavaScript 
 
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [space-voyager-21/space-voyager](https://github.com/space-voyager-21/space-voyager) - Interactive Space App (under construction). Attention Contributers! join discord server for discussion of Issues, Pull requests https://discord.gg/FpEK9AqbCf
 - [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
 - [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
 - [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog
@@ -353,7 +355,7 @@
 - [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script. Don't use if you use LUKS.
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
-- [Manas140/sh](https://github.com/Manas140/sh) - Collection of sh scripts i made
+- [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
 - [Shubham-Vy/sauce-finder](https://github.com/Shubham-Vy/sauce-finder) - 
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
