@@ -230,6 +230,7 @@
 
 ## Others 
 
+- [umgbhalla/stowthemer](https://github.com/umgbhalla/stowthemer) - A quick script to manage and change my bspwm themes using GNU stow
 - [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
 - [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) - A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge | Curated list of beginner-friendly issues for Hacktoberfest 2021 | Raise PR to add your issues
@@ -352,7 +353,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script. Don't use if you use LUKS.
+- [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - A Manjaro to Arch conversion script.
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
