@@ -32,6 +32,7 @@
   - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vim script](#vim-script)
 
 ## AsciiDoc 
@@ -133,6 +134,7 @@
 
 ## HTML 
 
+- [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [P0WEX/Gesko](https://github.com/P0WEX/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
@@ -204,6 +206,8 @@
 
 ## Lua 
 
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
+- [RishabhRD/rdconfig](https://github.com/RishabhRD/rdconfig) - all my configs at a single place
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
 - [undefinedDarkness/rice](https://github.com/undefinedDarkness/rice) - Home Sweet Home
@@ -292,6 +296,7 @@
 
 ## Python 
 
+- [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW 😍💻
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
@@ -423,6 +428,10 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
+
+## V 
+
+- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - An easy to use systems programming language with Python-like syntax.
 
 ## Vim script 
 
