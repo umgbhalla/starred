@@ -222,7 +222,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 
 ## Markdown 
 
@@ -277,6 +276,7 @@
 - [umgbhalla/gitignore](https://github.com/umgbhalla/gitignore) - A collection of useful .gitignore templates
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [nodes-io/nodes-io](https://github.com/nodes-io/nodes-io) - A new way to create with code.
+- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [undiabler/nord-rofi-theme](https://github.com/undiabler/nord-rofi-theme) - An arctic, north-bluish clean and elegant rofi color theme.
@@ -417,6 +417,7 @@
 
 ## TypeScript 
 
+- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
