@@ -432,7 +432,7 @@
 
 ## V 
 
-- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - An easy to use systems programming language with Python-like syntax.
+- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - A blazing fast language for the blazing fast world
 
 ## Vim script 
 
