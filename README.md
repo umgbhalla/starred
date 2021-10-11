@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [michaeljclark/rv8](https://github.com/michaeljclark/rv8) - RISC-V simulator for x86-64
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [IIITB-IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IIITB-IT-CS-ECE-2024Batch/OOPsAssign) - 
@@ -387,10 +388,8 @@
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [mahmoudk1000/Dotfiles](https://github.com/mahmoudk1000/Dotfiles) - files that define my linux box. Much awesome
 - [thwidge/thoughts](https://github.com/thwidge/thoughts) - A portable pal for putting your thoughts on the internet
-- [ChocolateBread799/Simple](https://github.com/ChocolateBread799/Simple) - 
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - My repo of polybar themes
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
-- [ChocolateBread799/Awespwm](https://github.com/ChocolateBread799/Awespwm) - 
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
