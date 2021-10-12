@@ -234,6 +234,7 @@
 
 ## Others 
 
+- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [umgbhalla/stowthemer](https://github.com/umgbhalla/stowthemer) - A quick script to manage and change my bspwm themes using GNU stow
 - [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
