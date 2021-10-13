@@ -45,6 +45,7 @@
 
 ## C 
 
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [tmplt/fuzzywuzzy](https://github.com/tmplt/fuzzywuzzy) - A C++ port of the Python module under the same name
 - [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++, Rust and COBOL library to draw graphics with pixels in the terminal
 - [MaxFork/MegaTools](https://github.com/MaxFork/MegaTools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
@@ -128,7 +129,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🎀 a nice lil shell for lua people made with go and lua
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 The flower shell. A comfy and nice little shell for Lua users and fans!
 - [unixporn/trup](https://github.com/unixporn/trup) - Discord bot for the Unixporn community
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -355,6 +356,7 @@
 
 ## Shell 
 
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
