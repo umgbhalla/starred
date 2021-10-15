@@ -302,7 +302,7 @@
 
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW 😍💻
-- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - 
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
 - [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
@@ -439,6 +439,7 @@
 
 ## Vim script 
 
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [Tanish2002/dot-files](https://github.com/Tanish2002/dot-files) - Dotfiles for Linux, managed by GNU stow.
