@@ -357,6 +357,7 @@
 
 ## Shell 
 
+- [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube Rss Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
