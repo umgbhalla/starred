@@ -237,7 +237,6 @@
 ## Others 
 
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
-- [umgbhalla/oxide](https://github.com/umgbhalla/oxide) - A quick script to manage and change my bspwm themes using GNU stow
 - [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
 - [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) - A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge | Curated list of beginner-friendly issues for Hacktoberfest 2021 | Raise PR to add your issues
@@ -358,8 +357,9 @@
 
 ## Shell 
 
-- [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Minimal Rofi-Based YouTube Rss Reader
+- [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube Rss Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
+- [umgbhalla/oxide](https://github.com/umgbhalla/oxide) - A quick script to manage and change my bspwm themes using GNU stow
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
