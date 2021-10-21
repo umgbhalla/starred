@@ -339,13 +339,13 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [azur1s/octofetch](https://github.com/azur1s/octofetch) - A command-line system information tool written in rust :D
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [mazznoer/gradient-rs](https://github.com/mazznoer/gradient-rs) - A command line tool for playing with color gradients
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [o2sh/miro](https://github.com/o2sh/miro) - My terminal emulator
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -358,7 +358,7 @@
 
 ## Shell 
 
-- [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube Rss Reader
+- [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube RSS Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [umgbhalla/oxide](https://github.com/umgbhalla/oxide) - A quick script to manage and change my bspwm themes using GNU stow
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
