@@ -236,6 +236,7 @@
 
 ## Others 
 
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
