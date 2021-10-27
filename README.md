@@ -167,6 +167,8 @@
 
 ## JavaScript 
 
+- [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
+- [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [space-voyager-21/space-voyager](https://github.com/space-voyager-21/space-voyager) - Interactive Space App (under construction). Attention Contributers! join discord server for discussion of Issues, Pull requests https://discord.gg/FpEK9AqbCf
 - [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
@@ -360,6 +362,8 @@
 
 ## Shell 
 
+- [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
+- [uncomfyhalomacro/river-matcha-theme](https://github.com/uncomfyhalomacro/river-matcha-theme) - Matcha Theme for river
 - [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube RSS Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [umgbhalla/oxide](https://github.com/umgbhalla/oxide) - A quick script to manage and change my bspwm themes using GNU stow
