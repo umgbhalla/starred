@@ -34,6 +34,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vim script](#vim-script)
+  - [Zig](#zig)
 
 ## AsciiDoc 
 
@@ -56,7 +57,7 @@
 - [wolkykim/qlibc](https://github.com/wolkykim/qlibc) - qLibc is a simple and yet powerful C library providing generic data structures and algorithms
 - [zarc1411/dotfiles](https://github.com/zarc1411/dotfiles) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [siduck76/bspwm-dotfiles](https://github.com/siduck76/bspwm-dotfiles) - bspwm dotfiles with a bspwm newbie friendly tutorial
+- [siduck/bspwm-dotfiles](https://github.com/siduck/bspwm-dotfiles) - bspwm dotfiles with a bspwm newbie friendly tutorial
 - [Federico-abss/CS50-intro-course](https://github.com/Federico-abss/CS50-intro-course) - Harvard's cs50: Introduction To CS 2020 - solutions to every pset plus final project!
 - [phillipberndt/pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -100,7 +101,7 @@
 - [caffeine01/arch-monochrome](https://github.com/caffeine01/arch-monochrome) - My monochromatic rice for BSPWM on arch linux
 - [nekonako/dotfiles](https://github.com/nekonako/dotfiles) - 🏡 Comfy home for linux user
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
-- [siduck76/dotfiles](https://github.com/siduck76/dotfiles) - dotfiles for my beautiful rices!
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [astroryan12/VerticalTabs](https://github.com/astroryan12/VerticalTabs) - Replaces the old horizontal tab layout with an attractive new Vertical Tabs layout for Windows.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
@@ -186,7 +187,7 @@
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [vedant-jain03/certificate-generator](https://github.com/vedant-jain03/certificate-generator) - This is Certificate Generator which you can use to make e-certificate and download as a pdf and then you can distribute the certificates to the students.
-- [siduck76/personal-notes](https://github.com/siduck76/personal-notes) - 
+- [siduck/personal-notes](https://github.com/siduck/personal-notes) - 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
@@ -346,7 +347,7 @@
 
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [azur1s/octofetch](https://github.com/azur1s/octofetch) - A command-line system information tool written in rust :D
+- [azur1s/octofetch](https://github.com/azur1s/octofetch) - Github user information on terminal :D
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [mazznoer/gradient-rs](https://github.com/mazznoer/gradient-rs) - A command line tool for playing with color gradients
 - [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
@@ -402,7 +403,7 @@
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [mahmoudk1000/Dotfiles](https://github.com/mahmoudk1000/Dotfiles) - files that define my linux box. Much awesome
 - [thwidge/thoughts](https://github.com/thwidge/thoughts) - A portable pal for putting your thoughts on the internet
-- [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - My repo of polybar themes
+- [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
@@ -449,6 +450,7 @@
 
 ## Vim script 
 
+- [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
@@ -459,6 +461,10 @@
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
 - [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 
 
 ## License
