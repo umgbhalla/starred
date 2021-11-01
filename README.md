@@ -47,6 +47,9 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [tmplt/fuzzywuzzy](https://github.com/tmplt/fuzzywuzzy) - A C++ port of the Python module under the same name
 - [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++, Rust and COBOL library to draw graphics with pixels in the terminal
@@ -121,6 +124,7 @@
 
 ## Go 
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [L04DB4L4NC3R/spotify-downloader](https://github.com/L04DB4L4NC3R/spotify-downloader) - Download songs, playlists & albums with the right amount of concurrency
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Golang, using a Golang qt backend
@@ -346,6 +350,7 @@
 
 ## Rust 
 
+- [justjavac/postcss-rs](https://github.com/justjavac/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [azur1s/octofetch](https://github.com/azur1s/octofetch) - Github user information on terminal :D
