@@ -48,6 +48,7 @@
 
 ## C 
 
+- [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
@@ -356,6 +357,8 @@
 
 ## Rust 
 
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [justjavac/postcss-rs](https://github.com/justjavac/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
