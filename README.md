@@ -384,6 +384,7 @@
 
 ## Shell 
 
+- [joni22u/dotfiles](https://github.com/joni22u/dotfiles) - my configuration files
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - Dotfiles for Unix/Linux stuff
 - [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
