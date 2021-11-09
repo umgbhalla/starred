@@ -397,7 +397,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - Manjaro to Arch Linux conversion script
+- [sugkiy/ManjarotoArch](https://github.com/sugkiy/ManjarotoArch) - Covert Manjaro Linux to Arch Linux with a script
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
