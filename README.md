@@ -253,6 +253,7 @@
 
 ## Others 
 
+- [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [DevSnowflake/conventional-commit-messages](https://github.com/DevSnowflake/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -361,6 +362,7 @@
 
 ## Rust 
 
+- [mitnk/cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [justjavac/postcss-rs](https://github.com/justjavac/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
