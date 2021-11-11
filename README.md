@@ -320,6 +320,7 @@
 
 ## Python 
 
+- [Stonksbunker/optionchain-visualizer](https://github.com/Stonksbunker/optionchain-visualizer) - 
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
