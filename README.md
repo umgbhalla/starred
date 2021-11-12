@@ -177,6 +177,8 @@
 
 ## JavaScript 
 
+- [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
+- [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -273,7 +275,7 @@
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - Custom wallpapers to show love for Doom Emacs and Org Mode
 - [neos-20/.github](https://github.com/neos-20/.github) - About
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [furkun/ProtectorHosts](https://github.com/furkun/ProtectorHosts) - Protect your IP address with the hosts file.
 - [L04DB4L4NC3R/groff-cheatsheet](https://github.com/L04DB4L4NC3R/groff-cheatsheet) - GNU typesetting runoff ms macro cheatsheet with examples
@@ -387,7 +389,6 @@
 
 ## Shell 
 
-- [joni22u/dotfiles](https://github.com/joni22u/dotfiles) - my configuration files
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - Dotfiles for Unix/Linux stuff
 - [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
