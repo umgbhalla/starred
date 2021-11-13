@@ -365,6 +365,8 @@
 
 ## Rust 
 
+- [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed compiler based on Rust
+- [vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks) - A Collection of Rust Tips and Tricks
 - [mitnk/cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -389,6 +391,7 @@
 
 ## Shell 
 
+- [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - Dotfiles for Unix/Linux stuff
 - [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
