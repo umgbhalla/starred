@@ -366,6 +366,7 @@
 
 ## Rust 
 
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed compiler based on Rust
@@ -407,7 +408,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [tty71/Manjaro_to_Arch_Linux](https://github.com/tty71/Manjaro_to_Arch_Linux) - Covert Manjaro Linux to Arch Linux with a script
+- [sugarykeytone/Manjaro_to_Arch_Linux](https://github.com/sugarykeytone/Manjaro_to_Arch_Linux) - Manjaro Linux to Arch Linux
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
