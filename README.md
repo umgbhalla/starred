@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [L04DB4L4NC3R/spotify-downloader](https://github.com/L04DB4L4NC3R/spotify-downloader) - Download songs, playlists & albums with the right amount of concurrency
@@ -256,6 +257,7 @@
 
 ## Others 
 
+- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [DevSnowflake/conventional-commit-messages](https://github.com/DevSnowflake/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
@@ -323,7 +325,6 @@
 
 ## Python 
 
-- [Stonksbunker/optionchain-visualizer](https://github.com/Stonksbunker/optionchain-visualizer) - 
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -374,7 +375,7 @@
 - [mitnk/cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-- [justjavac/postcss-rs](https://github.com/justjavac/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
+- [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [azur1s/octofetch](https://github.com/azur1s/octofetch) - Github user information on terminal :D
@@ -464,6 +465,7 @@
 
 ## TeX 
 
+- [Stonksbunker/optionchain-visualizer](https://github.com/Stonksbunker/optionchain-visualizer) - 
 - [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
 
 ## TypeScript 
