@@ -435,7 +435,7 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-- [mahmoudk1000/Dotfiles](https://github.com/mahmoudk1000/Dotfiles) - files that define my linux box. Much awesome
+- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
 - [thwidge/thoughts](https://github.com/thwidge/thoughts) - A portable pal for putting your thoughts on the internet
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
