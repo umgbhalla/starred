@@ -49,6 +49,7 @@
 
 ## C 
 
+- [r1ri/minifm](https://github.com/r1ri/minifm) - A terminal based visual file manager, used similar to programs like fzf, and fzy
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -257,6 +258,7 @@
 
 ## Others 
 
+- [thomas-lowry/figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) - A list of Figma Plugins that have been shared on Github.
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -396,6 +398,7 @@
 
 ## Shell 
 
+- [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
 - [uncomfyhalomacro/dotfiles.old](https://github.com/uncomfyhalomacro/dotfiles.old) - Dotfiles for Unix/Linux stuff
