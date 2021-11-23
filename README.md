@@ -49,6 +49,7 @@
 
 ## C 
 
+- [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors (WIP: https://github.com/vilhalmer/oguri/milestone/1)
 - [r1ri/minifm](https://github.com/r1ri/minifm) - A terminal based visual file manager, used similar to programs like fzf, and fzy
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
@@ -244,7 +245,7 @@
 - [yashguptaz/dotfiles](https://github.com/yashguptaz/dotfiles) - Personal Dotfiles.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
 
@@ -258,6 +259,7 @@
 
 ## Others 
 
+- [uncomfyhalomacro/waterfall](https://github.com/uncomfyhalomacro/waterfall) - a curation of all rice and configs for https://github.com/riverwm/river
 - [thomas-lowry/figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) - A list of Figma Plugins that have been shared on Github.
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
