@@ -494,6 +494,7 @@
 
 ## Vim script 
 
+- [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
