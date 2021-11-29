@@ -93,6 +93,7 @@
 
 ## CSS 
 
+- [ashzero2/dotfiles](https://github.com/ashzero2/dotfiles) - 
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [mohittk/React-Weather-App](https://github.com/mohittk/React-Weather-App) - 
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
@@ -400,6 +401,7 @@
 
 ## Shell 
 
+- [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - A mnemonist cd command.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
