@@ -20,11 +20,13 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Mustache](#mustache)
+  - [Nim](#nim)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -50,6 +52,8 @@
 
 ## C 
 
+- [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
+- [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -85,6 +89,8 @@
 
 ## C++ 
 
+- [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [michaeljclark/rv8](https://github.com/michaeljclark/rv8) - RISC-V simulator for x86-64
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
@@ -143,6 +149,7 @@
 
 ## Go 
 
+- [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
@@ -234,8 +241,14 @@
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
+## Julia 
+
+- [TheAlgorithms/Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language. We're collaborating with the Humans of Julia community!
+- [JuliaBooks/Books.jl](https://github.com/JuliaBooks/Books.jl) - Create books with Julia
+
 ## Jupyter Notebook 
 
+- [soumyadip007/Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -271,8 +284,13 @@
 
 - [hisbaan/dotfiles-laptop](https://github.com/hisbaan/dotfiles-laptop) - There's no place like ~/... A dotfiles repo for my laptop because of some different settings for HiDPI screens
 
+## Nim 
+
+- [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
+
 ## Others 
 
+- [Manjaro-Sway/manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -348,6 +366,7 @@
 
 ## Python 
 
+- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
@@ -394,6 +413,18 @@
 
 ## Rust 
 
+- [bluss/matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
+- [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust
+- [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
+- [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
+- [drahnr/cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling and grammar mistakes with hunspell and a nlprule based checker for grammar
+- [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
+- [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
+- [amethyst/rustrogueliketutorial](https://github.com/amethyst/rustrogueliketutorial) - Roguelike Tutorial in Rust - using RLTK
+- [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -530,6 +561,8 @@
 
 ## Vim script 
 
+- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
