@@ -34,6 +34,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -52,6 +53,7 @@
 
 ## C 
 
+- [emersion/hello-wayland](https://github.com/emersion/hello-wayland) - A hello world Wayland client, 2018 edition
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
@@ -89,6 +91,7 @@
 
 ## C++ 
 
+- [swharden/code-notes](https://github.com/swharden/code-notes) - notes and reusable code for various programming languages
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
@@ -168,6 +171,7 @@
 
 ## HTML 
 
+- [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the YouTube channel "julia for talented amateurs".
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
@@ -201,6 +205,7 @@
 
 ## JavaScript 
 
+- [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
 - [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
@@ -243,6 +248,7 @@
 
 ## Julia 
 
+- [iamed2/Rust.jl](https://github.com/iamed2/Rust.jl) - Write Rust code in Julia
 - [TheAlgorithms/Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language. We're collaborating with the Humans of Julia community!
 - [JuliaBooks/Books.jl](https://github.com/JuliaBooks/Books.jl) - Create books with Julia
 
@@ -258,6 +264,7 @@
 
 ## Lua 
 
+- [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [RishabhRD/rdconfig](https://github.com/RishabhRD/rdconfig) - all my configs at a single place
@@ -366,6 +373,7 @@
 
 ## Python 
 
+- [salt-die/Advent-of-Code](https://github.com/salt-die/Advent-of-Code) - My solutions or attempts at solutions to the Advent of Code event.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -413,6 +421,10 @@
 
 ## Rust 
 
+- [JoshMcguigan/bubble-shell](https://github.com/JoshMcguigan/bubble-shell) - A simple shell
+- [russelltg/web-mic](https://github.com/russelltg/web-mic) - Use your phone as a microphone
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
+- [psinghal20/rush](https://github.com/psinghal20/rush) - Rusty Shell - A experimental shell written in rust :smile:
 - [bluss/matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 - [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust
 - [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
@@ -461,8 +473,13 @@
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 
+## Scheme 
+
+- [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
+
 ## Shell 
 
+- [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [uncomfyhalomacro/river-gruvbox-theme](https://github.com/uncomfyhalomacro/river-gruvbox-theme) - A sample configuration and theming for river tiling window manager
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - My portable configuration files for GNU/Linux distributions
@@ -470,7 +487,6 @@
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
 - [pixxel8/dotfiles](https://github.com/pixxel8/dotfiles) - self-contained dotfiles • sh -c "$(curl -fsSL git.io/pixinit)"
-- [uncomfyhalomacro/dotfiles.old](https://github.com/uncomfyhalomacro/dotfiles.old) - Dotfiles for Unix/Linux stuff
 - [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
 - [uncomfyhalomacro/river-matcha-theme](https://github.com/uncomfyhalomacro/river-matcha-theme) - Matcha Theme for river
 - [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube RSS Reader
