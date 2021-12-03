@@ -321,7 +321,6 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Courses and lesson content for linuxjourney.com
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [ProbablyPinata/Wallpapers](https://github.com/ProbablyPinata/Wallpapers) - Custom wallpapers to show love for Doom Emacs and Org Mode
 - [neos-20/.github](https://github.com/neos-20/.github) - About
@@ -532,7 +531,7 @@
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dootfiles on my daily driver.
+- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
@@ -562,6 +561,7 @@
 
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [elianiva/umaru-chat](https://github.com/elianiva/umaru-chat) - Realtime chat app built using React and Firebase. My first fullstack app.
