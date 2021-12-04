@@ -34,7 +34,6 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -255,6 +254,7 @@
 
 ## Jupyter Notebook 
 
+- [parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning](https://github.com/parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning) - 
 - [soumyadip007/Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -421,8 +421,10 @@
 
 ## Rust 
 
+- [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [JoshMcguigan/bubble-shell](https://github.com/JoshMcguigan/bubble-shell) - A simple shell
 - [russelltg/web-mic](https://github.com/russelltg/web-mic) - Use your phone as a microphone
+- [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [psinghal20/rush](https://github.com/psinghal20/rush) - Rusty Shell - A experimental shell written in rust :smile:
 - [bluss/matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
@@ -472,10 +474,6 @@
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-
-## Scheme 
-
-- [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
 
 ## Shell 
 
