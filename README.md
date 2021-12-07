@@ -175,6 +175,7 @@
 
 ## HTML 
 
+- [ayroui/free-ui-components](https://github.com/ayroui/free-ui-components) - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
 - [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the YouTube channel "julia for talented amateurs".
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -210,6 +211,7 @@
 
 ## JavaScript 
 
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
@@ -434,6 +436,7 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [yubrot/llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
