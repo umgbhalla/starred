@@ -24,6 +24,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nim](#nim)
@@ -296,6 +297,10 @@
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - .dotfiles :rocket:. Includes configs for neovim, tmux, zsh, alacrity, kitty and more | Managed by GNU stow
 
+## Makefile 
+
+- [SmartFinn/Dockerfiles](https://github.com/SmartFinn/Dockerfiles) - My collection of Dockerfiles (FlexGet, Monitorrent, ReleaseBell, Transmission, VPNBook2proxy  ...)
+
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -388,6 +393,7 @@
 
 ## Python 
 
+- [it-is-wednesday/cute-sway-recorder](https://github.com/it-is-wednesday/cute-sway-recorder) - SwayWM screen recorder; a GUI for wf-recorder
 - [ErickMwazonga/sifu](https://github.com/ErickMwazonga/sifu) - Data Structures and Algorithms(DSA)
 - [salt-die/Advent-of-Code](https://github.com/salt-die/Advent-of-Code) - My solutions or attempts at solutions to the Advent of Code event.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
@@ -497,6 +503,8 @@
 
 ## Shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+- [SmartFinn/dotfiles](https://github.com/SmartFinn/dotfiles) - Dotfiles on my laptop. Feel free to steal something
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
 - [csivanich/dotfiles](https://github.com/csivanich/dotfiles) - Configuration repository containing most customized home folder dotfiles.
 - [b0o/zfzf](https://github.com/b0o/zfzf) - zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy
