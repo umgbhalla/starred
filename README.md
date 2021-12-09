@@ -276,6 +276,7 @@
 
 ## Lua 
 
+- [TheRealKizu/neodots](https://github.com/TheRealKizu/neodots) - My neovim config. Now using packer.nvim!
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
@@ -393,6 +394,7 @@
 
 ## Python 
 
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [it-is-wednesday/cute-sway-recorder](https://github.com/it-is-wednesday/cute-sway-recorder) - SwayWM screen recorder; a GUI for wf-recorder
 - [ErickMwazonga/sifu](https://github.com/ErickMwazonga/sifu) - Data Structures and Algorithms(DSA)
 - [salt-die/Advent-of-Code](https://github.com/salt-die/Advent-of-Code) - My solutions or attempts at solutions to the Advent of Code event.
@@ -442,6 +444,8 @@
 
 ## Rust 
 
+- [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
+- [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [yubrot/llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -503,6 +507,8 @@
 
 ## Shell 
 
+- [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
+- [calendso/docker](https://github.com/calendso/docker) - The Docker configuration for Calendso is an effort powered by people within the community. Calendso does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [SmartFinn/dotfiles](https://github.com/SmartFinn/dotfiles) - Dotfiles on my laptop. Feel free to steal something
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
@@ -529,7 +535,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [sugarykeytone/Manjaro_to_Arch_Linux](https://github.com/sugarykeytone/Manjaro_to_Arch_Linux) - Manjaro Linux to Arch Linux
+- [sugarykeytone/manjaro-to-arch.sh](https://github.com/sugarykeytone/manjaro-to-arch.sh) - A script for converting a Manjaro installation to an Arch installation with a single command
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
@@ -626,6 +632,7 @@
 
 ## Zig 
 
+- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 
