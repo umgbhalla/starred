@@ -11,6 +11,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Common Lisp](#common-lisp)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -136,6 +137,11 @@
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [astroryan12/VerticalTabs](https://github.com/astroryan12/VerticalTabs) - Replaces the old horizontal tab layout with an attractive new Vertical Tabs layout for Windows.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+
+## Common Lisp 
+
+- [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - mostly practical and reasonably fast 2d, 3d vector operations with some broadcasting.
+- [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
 
 ## Dart 
 
@@ -359,7 +365,7 @@
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Alonely0/Wallpapers](https://github.com/Alonely0/Wallpapers) - A couple of wallpapers that I've made or modified.
 - [Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
@@ -450,6 +456,7 @@
 
 ## Rust 
 
+- [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
@@ -540,7 +547,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [kskeigrshi/manjaro-to-archlinux.sh](https://github.com/kskeigrshi/manjaro-to-archlinux.sh) - A script for converting a Manjaro installation to an Arch installation with a single command
+- [kskeigrshi/manjaro-to-archlinux.sh](https://github.com/kskeigrshi/manjaro-to-archlinux.sh) - Manjaro+this=arch
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
