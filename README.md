@@ -644,6 +644,7 @@
 
 ## Vim script 
 
+- [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - A beautiful and dark vim colorscheme.
