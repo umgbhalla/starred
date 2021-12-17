@@ -295,7 +295,7 @@
 
 ## Lua 
 
-- [TheRealKizu/neodots](https://github.com/TheRealKizu/neodots) - My neovim config. Now using packer.nvim!
+- [KizuWasTaken/neodots](https://github.com/KizuWasTaken/neodots) - 💻 my neovim config.
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
@@ -335,6 +335,7 @@
 
 ## Others 
 
+- [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
 - [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
@@ -596,7 +597,7 @@
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [TheRealKizu/dotfiles](https://github.com/TheRealKizu/dotfiles) - 🍚 my dotfiles on my daily driver.
+- [KizuWasTaken/dotfiles](https://github.com/KizuWasTaken/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
