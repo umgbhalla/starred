@@ -283,6 +283,7 @@
 
 ## Jupyter Notebook 
 
+- [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - 
 - [amitkaps/recommendation](https://github.com/amitkaps/recommendation) - Recommendation System using ML and DL
 - [parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning](https://github.com/parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning) - 
 - [soumyadip007/Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)
@@ -295,7 +296,9 @@
 
 ## Lua 
 
-- [KizuWasTaken/neodots](https://github.com/KizuWasTaken/neodots) - 💻 my neovim config.
+- [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
+- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
+- [janleigh/neodots](https://github.com/janleigh/neodots) - 💻 my neovim config.
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
@@ -597,7 +600,7 @@
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [KizuWasTaken/dotfiles](https://github.com/KizuWasTaken/dotfiles) - 🍚 my dotfiles on my daily driver.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my dotfiles on my daily driver.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
@@ -648,7 +651,7 @@
 - [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - A beautiful and dark vim colorscheme.
+- [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - 🎨 A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
