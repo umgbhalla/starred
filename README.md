@@ -55,6 +55,7 @@
 
 ## C 
 
+- [Barsukov-m/dotfiles](https://github.com/Barsukov-m/dotfiles) - System settings, backups, etc.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [soveran/clac](https://github.com/soveran/clac) - Command-line, stack-based calculator with postfix notation
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
@@ -187,6 +188,7 @@
 
 ## HTML 
 
+- [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [ayroui/free-ui-components](https://github.com/ayroui/free-ui-components) - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
@@ -330,7 +332,7 @@
 
 ## Mustache 
 
-- [hisbaan/dotfiles-laptop](https://github.com/hisbaan/dotfiles-laptop) - There's no place like ~/... A dotfiles repo for my laptop because of some different settings for HiDPI screens
+- [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
 
@@ -338,6 +340,7 @@
 
 ## Others 
 
+- [metacall/gsoc-2022](https://github.com/metacall/gsoc-2022) - List of project ideas for students applying to the Google Summer of Code program in 2022 (GSoC 2022).
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
 - [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
