@@ -340,7 +340,6 @@
 
 ## Others 
 
-- [metacall/gsoc-2022](https://github.com/metacall/gsoc-2022) - List of project ideas for students applying to the Google Summer of Code program in 2022 (GSoC 2022).
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
 - [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
@@ -519,7 +518,7 @@
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed compiler based on Rust
 - [vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks) - A Collection of Rust Tips and Tricks
-- [mitnk/cicada](https://github.com/mitnk/cicada) - A bash-like Unix shell written in Rust
+- [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
