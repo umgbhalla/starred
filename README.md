@@ -475,6 +475,8 @@
 
 ## Rust 
 
+- [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [withoutboats/cargo-add](https://github.com/withoutboats/cargo-add) - A utility for adding cargo dependencies from the command line.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [paritytech/wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust
