@@ -545,6 +545,7 @@
 
 ## Shell 
 
+- [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [calendso/docker](https://github.com/calendso/docker) - The Docker configuration for Calendso is an effort powered by people within the community. Calendso does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
