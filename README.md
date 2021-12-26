@@ -40,7 +40,6 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [V](#v)
   - [Vim script](#vim-script)
   - [Zig](#zig)
 
@@ -106,9 +105,10 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [michaeljclark/rv8](https://github.com/michaeljclark/rv8) - RISC-V simulator for x86-64
+- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - A blazing fast language for the blazing fast world(WIP)
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [IIITB-IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IIITB-IT-CS-ECE-2024Batch/OOPsAssign) - 
+- [IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IT-CS-ECE-2024Batch/OOPsAssign) - 
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -442,7 +442,7 @@
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW 😍💻
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
-- [IIITB-IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IIITB-IT-CS-ECE-2024Batch/Numerical-Methods) - 
+- [IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -648,10 +648,6 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
-
-## V 
-
-- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - A blazing fast language for the blazing fast world(WIP)
 
 ## Vim script 
 
