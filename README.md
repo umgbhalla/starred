@@ -110,7 +110,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IT-CS-ECE-2024Batch/OOPsAssign) - 
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
-- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
+- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [adishavit/simple-svg](https://github.com/adishavit/simple-svg) - Easy to use SVG library for C++ (fork of legacy Google code project archive)
@@ -359,7 +359,7 @@
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [DevSnowflake/conventional-commit-messages](https://github.com/DevSnowflake/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
+- [CesiumLabs/conventional-commit-messages](https://github.com/CesiumLabs/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
