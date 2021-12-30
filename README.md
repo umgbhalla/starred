@@ -439,7 +439,7 @@
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
-- [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW 😍💻
+- [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [ramesaliyev/numerica](https://github.com/ramesaliyev/numerica) - Numerical analysis methods implemented in Python.
 - [IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IT-CS-ECE-2024Batch/Numerical-Methods) - 
@@ -477,6 +477,9 @@
 
 ## Rust 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [withoutboats/cargo-add](https://github.com/withoutboats/cargo-add) - A utility for adding cargo dependencies from the command line.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
@@ -575,7 +578,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [kskeigrshi/manjaro-to-archlinux.sh](https://github.com/kskeigrshi/manjaro-to-archlinux.sh) - Manjaro+this=arch
+- [kskeigrshi/manjaro-to-archlinux.sh](https://github.com/kskeigrshi/manjaro-to-archlinux.sh) - Manjaro/Endeavour+this=Arch
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
