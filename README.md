@@ -326,6 +326,7 @@
 ## Makefile 
 
 - [SmartFinn/Dockerfiles](https://github.com/SmartFinn/Dockerfiles) - My collection of Dockerfiles (FlexGet, Monitorrent, ReleaseBell, Transmission, VPNBook2proxy  ...)
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
 ## Markdown 
 
@@ -477,6 +478,8 @@
 
 ## Rust 
 
+- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -578,7 +581,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [kskeigrshi/manjaro-to-archlinux.sh](https://github.com/kskeigrshi/manjaro-to-archlinux.sh) - Manjaro/Endeavour+this=Arch
+- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Manjaro/EndeavourOS+this=Arch
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
@@ -601,7 +604,6 @@
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [jain-aayush/dotfiles-bspwm](https://github.com/jain-aayush/dotfiles-bspwm) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
