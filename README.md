@@ -326,7 +326,6 @@
 ## Makefile 
 
 - [SmartFinn/Dockerfiles](https://github.com/SmartFinn/Dockerfiles) - My collection of Dockerfiles (FlexGet, Monitorrent, ReleaseBell, Transmission, VPNBook2proxy  ...)
-- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
 ## Markdown 
 
@@ -436,6 +435,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -478,6 +478,9 @@
 
 ## Rust 
 
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+- [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -566,7 +569,6 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [uncomfyhalomacro/river-gruvbox-theme](https://github.com/uncomfyhalomacro/river-gruvbox-theme) - A sample configuration and theming for river tiling window manager
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - My portable configuration files for GNU/Linux distributions
-- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - Expedite your navigation of Linux filesystem.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
@@ -604,6 +606,7 @@
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [jain-aayush/dotfiles-bspwm](https://github.com/jain-aayush/dotfiles-bspwm) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
