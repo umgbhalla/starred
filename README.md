@@ -11,6 +11,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -141,6 +142,10 @@
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [astroryan12/VerticalTabs](https://github.com/astroryan12/VerticalTabs) - Replaces the old horizontal tab layout with an attractive new Vertical Tabs layout for Windows.
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+
+## Clojure 
+
+- [genmeblog/genuary](https://github.com/genmeblog/genuary) - Generative Art in January - Generative Artists Club
 
 ## Common Lisp 
 
@@ -341,6 +346,7 @@
 
 ## Others 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - 
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
@@ -436,6 +442,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -478,6 +485,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
 - [ockam-network/ockam](https://github.com/ockam-network/ockam) - End-to-end encryption and mutual authentication for distributed applications.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -557,6 +565,7 @@
 
 ## Shell 
 
+- [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
@@ -572,7 +581,6 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [uncomfyhalomacro/river-gruvbox-theme](https://github.com/uncomfyhalomacro/river-gruvbox-theme) - A sample configuration and theming for river tiling window manager
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - My portable configuration files for GNU/Linux distributions
-- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - Expedite your navigation of Linux filesystem.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
