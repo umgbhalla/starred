@@ -16,6 +16,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
+  - [Fennel](#fennel)
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
@@ -161,6 +162,7 @@
 
 ## Dart 
 
+- [creativecreatorormaybenot/funvas](https://github.com/creativecreatorormaybenot/funvas) - Fun canvas animations in Flutter based on time and math functions.
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [Kennygunderman/snack_chat](https://github.com/Kennygunderman/snack_chat) - Spicy chatting app
@@ -175,6 +177,10 @@
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 
+## Fennel 
+
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+
 ## GLSL 
 
 - [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
@@ -182,6 +188,7 @@
 ## Go 
 
 - [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
@@ -288,7 +295,7 @@
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
 - [flow-typed/flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [ridarf/raythis](https://github.com/ridarf/raythis) - Instantly deploy code snippets to Ray.so without leaving your coding environment. 🚀📷
+- [ridafkih/raythis](https://github.com/ridafkih/raythis) - Instantly deploy code snippets to Ray.so without leaving your coding environment. 🚀📷
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
@@ -358,7 +365,6 @@
 
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
