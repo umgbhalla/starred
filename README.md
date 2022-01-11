@@ -208,6 +208,7 @@
 
 ## HTML 
 
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [ayroui/free-ui-components](https://github.com/ayroui/free-ui-components) - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
@@ -250,6 +251,7 @@
 
 ## JavaScript 
 
+- [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
@@ -320,6 +322,8 @@
 
 ## Lua 
 
+- [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repos.
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
@@ -448,6 +452,7 @@
 
 ## Python 
 
+- [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/pymica](https://github.com/martinet101/pymica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
@@ -504,6 +509,7 @@
 
 ## Rust 
 
+- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
@@ -694,6 +700,7 @@
 
 ## TypeScript 
 
+- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
