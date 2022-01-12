@@ -58,7 +58,6 @@
 
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
-- [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [Arian8j2/picom-jonaburg-fix](https://github.com/Arian8j2/picom-jonaburg-fix) - fork of junaburg's picom fork with a patch for rounded corners and shadows
 - [Barsukov-m/dotfiles](https://github.com/Barsukov-m/dotfiles) - System settings, backups, etc.
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -187,6 +186,7 @@
 
 ## Go 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
@@ -251,6 +251,7 @@
 
 ## JavaScript 
 
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -309,6 +310,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
 - [amitkaps/recommendation](https://github.com/amitkaps/recommendation) - Recommendation System using ML and DL
 - [parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning](https://github.com/parikshit223933/Coding-ninjas--Data-Science-and-Machine-Learning) - 
@@ -322,6 +324,7 @@
 
 ## Lua 
 
+- [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repos.
@@ -509,6 +512,7 @@
 
 ## Rust 
 
+- [rustkas/Traits-from-the-Ground-Up](https://github.com/rustkas/Traits-from-the-Ground-Up) - This is a source code which I implemented while study presentation material with is at https://media.ccc.de/v/rustcologne.2018.09.generalists-view-traits#t=24 (Traits from the Ground Up)
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
@@ -605,9 +609,12 @@
 
 ## Shell 
 
+- [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - BSPWM -  Aesthetic Nordic
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
