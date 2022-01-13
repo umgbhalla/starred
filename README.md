@@ -32,6 +32,7 @@
   - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nim](#nim)
+  - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -208,6 +209,7 @@
 
 ## HTML 
 
+- [ECE-webdev-Bootcamp/techtronics](https://github.com/ECE-webdev-Bootcamp/techtronics) - A website to be designed especially for ECE students of IIITB, to get in touch with proper study material resource in a smoother way.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
@@ -324,6 +326,7 @@
 
 ## Lua 
 
+- [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
@@ -367,6 +370,10 @@
 ## Nim 
 
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
+
+## Nix 
+
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Others 
 
@@ -455,6 +462,8 @@
 
 ## Python 
 
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/pymica](https://github.com/martinet101/pymica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
@@ -512,6 +521,7 @@
 
 ## Rust 
 
+- [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [rustkas/Traits-from-the-Ground-Up](https://github.com/rustkas/Traits-from-the-Ground-Up) - This is a source code which I implemented while study presentation material with is at https://media.ccc.de/v/rustcologne.2018.09.generalists-view-traits#t=24 (Traits from the Ground Up)
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
@@ -544,7 +554,7 @@
 - [withoutboats/cargo-add](https://github.com/withoutboats/cargo-add) - A utility for adding cargo dependencies from the command line.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 Building a federated link aggregator in rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
-- [paritytech/wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust
+- [paritytech/wasmi](https://github.com/paritytech/wasmi) - WebAssembly (Wasm) interpreter.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
