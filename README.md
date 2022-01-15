@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -128,6 +129,7 @@
 
 ## CSS 
 
+- [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - 
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [ashzero2/dotfiles](https://github.com/ashzero2/dotfiles) - 
@@ -622,6 +624,7 @@
 
 ## Shell 
 
+- [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for Ubuntu, Raspbian, or Manjaro(with arch elements)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - BSPWM -  Aesthetic Nordic
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
