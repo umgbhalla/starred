@@ -38,6 +38,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [Gbox4/tstock](https://github.com/Gbox4/tstock) - 
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -331,6 +333,7 @@
 
 ## Lua 
 
+- [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
@@ -518,6 +521,10 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
 
+## R 
+
+- [georgemsavva/genuary2022](https://github.com/georgemsavva/genuary2022) - Code for some selected genuary 2022 experiments
+
 ## Ruby 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -526,6 +533,9 @@
 
 ## Rust 
 
+- [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
+- [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [rustkas/Traits-from-the-Ground-Up](https://github.com/rustkas/Traits-from-the-Ground-Up) - This is a source code which I implemented while study presentation material with is at https://media.ccc.de/v/rustcologne.2018.09.generalists-view-traits#t=24 (Traits from the Ground Up)
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
