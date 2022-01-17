@@ -59,7 +59,6 @@
 ## C 
 
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-- [Gbox4/tstock](https://github.com/Gbox4/tstock) - 
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
@@ -470,6 +469,7 @@
 
 ## Python 
 
+- [Gbox4/tstock](https://github.com/Gbox4/tstock) - 
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
@@ -533,6 +533,30 @@
 
 ## Rust 
 
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code to follow along the "Zero To Production" book on API development in Rust.
+- [batbin-org/previewer](https://github.com/batbin-org/previewer) - 🚀  An over-engineered and blazing fast preview image generator with syntax highlighting.
+- [buster/rrun](https://github.com/buster/rrun) - minimalistic command launcher in rust
+- [vrmiguel/bustd](https://github.com/vrmiguel/bustd) - Process killer daemon for out-of-memory scenarios
+- [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [b23r0/yaftp](https://github.com/b23r0/yaftp) - Yet another File Transfer Protocol support with resume broken transfer & reverse mode & largefile implementation by Rust.
+- [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
+- [b23r0/abcdict](https://github.com/b23r0/abcdict) - A better customization password dictionary generator implementation by Rust.
+- [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
+- [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
+- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [imager-io/imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+- [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) - A toy ray tracer in Rust
+- [turnage/valora](https://github.com/turnage/valora) - painting by functions
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - An SVG rendering library.
+- [Limeth/euclider](https://github.com/Limeth/euclider) - A higher dimensional raytracing prototype with non-euclidean-like features
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
+- [PaddiM8/kalker](https://github.com/PaddiM8/kalker) - Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
+- [cch123/asm-cli-rust](https://github.com/cch123/asm-cli-rust) - interative assembly shell written in rust
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -634,6 +658,8 @@
 
 ## Shell 
 
+- [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for Ubuntu, Raspbian, or Manjaro(with arch elements)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - BSPWM -  Aesthetic Nordic
