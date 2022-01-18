@@ -192,6 +192,7 @@
 
 ## Go 
 
+- [jensoncs/go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero) - Golang Learning doc + programs
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
@@ -214,6 +215,7 @@
 
 ## HTML 
 
+- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [ECE-webdev-Bootcamp/techtronics](https://github.com/ECE-webdev-Bootcamp/techtronics) - A website to be designed especially for ECE students of IIITB, to get in touch with proper study material resource in a smoother way.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -384,6 +386,7 @@
 
 ## Others 
 
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
@@ -533,6 +536,7 @@
 
 ## Rust 
 
+- [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code to follow along the "Zero To Production" book on API development in Rust.
 - [batbin-org/previewer](https://github.com/batbin-org/previewer) - 🚀  An over-engineered and blazing fast preview image generator with syntax highlighting.
 - [buster/rrun](https://github.com/buster/rrun) - minimalistic command launcher in rust
