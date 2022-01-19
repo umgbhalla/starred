@@ -472,7 +472,7 @@
 
 ## Python 
 
-- [Gbox4/tstock](https://github.com/Gbox4/tstock) - 
+- [Gbox4/tstock](https://github.com/Gbox4/tstock) - A command line tool to view stock charts in the terminal.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
@@ -550,7 +550,7 @@
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [imager-io/imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 - [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) - A toy ray tracer in Rust
 - [turnage/valora](https://github.com/turnage/valora) - painting by functions
@@ -573,7 +573,7 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
@@ -636,7 +636,7 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-- [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed compiler based on Rust
+- [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed, general purpose programming language based on Rust
 - [vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks) - A Collection of Rust Tips and Tricks
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -666,7 +666,7 @@
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for Ubuntu, Raspbian, or Manjaro(with arch elements)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - BSPWM -  Aesthetic Nordic
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
