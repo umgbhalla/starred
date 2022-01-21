@@ -472,6 +472,7 @@
 
 ## Python 
 
+- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [Gbox4/tstock](https://github.com/Gbox4/tstock) - A command line tool to view stock charts in the terminal.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
@@ -735,7 +736,7 @@
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my dotfiles on my daily driver.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my personal configuration files.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
@@ -758,11 +759,13 @@
 
 ## TeX 
 
+- [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [Stonksbunker/optionchain-visualizer](https://github.com/Stonksbunker/optionchain-visualizer) - 
 - [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
 
 ## TypeScript 
 
+- [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
