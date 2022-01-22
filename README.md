@@ -504,6 +504,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [rafaqz/.dotfiles](https://github.com/rafaqz/.dotfiles) - 
+- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
@@ -537,6 +538,7 @@
 
 ## Rust 
 
+- [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code to follow along the "Zero To Production" book on API development in Rust.
 - [batbin-org/previewer](https://github.com/batbin-org/previewer) - 🚀  An over-engineered and blazing fast preview image generator with syntax highlighting.
@@ -729,7 +731,6 @@
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
 - [thwidge/thoughts](https://github.com/thwidge/thoughts) - A portable pal for putting your thoughts on the internet
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
 - [arcolinux/arcolinux-bspwm](https://github.com/arcolinux/arcolinux-bspwm) - 
@@ -786,7 +787,7 @@
 
 - [hxyro/doom-one.vim](https://github.com/hxyro/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
 - [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
-- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - 🎨 A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
