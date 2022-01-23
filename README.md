@@ -254,6 +254,7 @@
 
 ## Java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - Discord Android app mod inspired by desktop Discord client mods.
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -538,6 +539,7 @@
 
 ## Rust 
 
+- [hxyro/noob](https://github.com/hxyro/noob) - 
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code to follow along the "Zero To Production" book on API development in Rust.
