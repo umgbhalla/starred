@@ -58,6 +58,7 @@
 
 ## C 
 
+- [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -541,6 +542,8 @@
 
 ## Rust 
 
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
+- [frehberg/wasm-sign](https://github.com/frehberg/wasm-sign) - WebAssembly signing and verification tool
 - [Shinyzenith/swhkd](https://github.com/Shinyzenith/swhkd) - sxhkd clone for Wayland (works on TYY and X11 too)
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
