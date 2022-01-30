@@ -108,6 +108,7 @@
 
 ## C++ 
 
+- [coder137/build_in_cpp](https://github.com/coder137/build_in_cpp) - Build C, C++ and ASM files in C++
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders shaders
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
@@ -132,7 +133,7 @@
 ## CSS 
 
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - 
+- [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - My personal website showcasing my experiences, projects and skillsets.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [ashzero2/dotfiles](https://github.com/ashzero2/dotfiles) - 
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
@@ -217,6 +218,7 @@
 
 ## HTML 
 
+- [sachinl0har/JS-Animation](https://github.com/sachinl0har/JS-Animation) - Js Animation on Cursor Move
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [ECE-webdev-Bootcamp/techtronics](https://github.com/ECE-webdev-Bootcamp/techtronics) - A website to be designed especially for ECE students of IIITB, to get in touch with proper study material resource in a smoother way.
@@ -272,7 +274,6 @@
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
 - [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -337,6 +338,7 @@
 
 ## Lua 
 
+- [Manas140/Conscious](https://github.com/Manas140/Conscious) - Why not?
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -400,6 +402,7 @@
 - [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Manjaro-Sway/manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
