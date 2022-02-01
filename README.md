@@ -53,6 +53,7 @@
 
 ## Assembly 
 
+- [dipankardas011/Operating-System](https://github.com/dipankardas011/Operating-System) - Just a abstract layer OS just for fun
 - [slowy07/asmSourceCode](https://github.com/slowy07/asmSourceCode) - everything i learn about assembly
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 
@@ -196,7 +197,7 @@
 
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [jensoncs/go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero) - Golang Learning doc + programs
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
@@ -266,6 +267,7 @@
 
 ## JavaScript 
 
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
@@ -338,8 +340,9 @@
 
 ## Lua 
 
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
-- [Manas140/Conscious](https://github.com/Manas140/Conscious) - Why not?
+- [Manas140/Conscious](https://github.com/Manas140/Conscious) - 
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -483,6 +486,7 @@
 
 ## Python 
 
+- [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [Gbox4/tstock](https://github.com/Gbox4/tstock) - 📈A command line tool to view stock charts in the terminal.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -549,6 +553,12 @@
 
 ## Rust 
 
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [joone/rust-animation](https://github.com/joone/rust-animation) - OpenGL based animation toolkit written in Rust
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [frehberg/wasm-sign](https://github.com/frehberg/wasm-sign) - WebAssembly signing and verification tool
@@ -698,7 +708,7 @@
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
-- [calendso/docker](https://github.com/calendso/docker) - The Docker configuration for Calendso is an effort powered by people within the community. Calendso does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
+- [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Calendso is an effort powered by people within the community. Calendso does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [SmartFinn/dotfiles](https://github.com/SmartFinn/dotfiles) - Dotfiles on my laptop. Feel free to steal something
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
@@ -724,7 +734,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Manjaro/EndeavourOS+this=Arch
+- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Arch derivative+this=Arch
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
@@ -785,6 +795,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
