@@ -343,6 +343,7 @@
 
 ## Lua 
 
+- [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
@@ -558,6 +559,7 @@
 
 ## Rust 
 
+- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [khonsulabs/nebari](https://github.com/khonsulabs/nebari) - A pure Rust database implementation using an append-only B-Tree file format.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
@@ -568,7 +570,7 @@
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [frehberg/wasm-sign](https://github.com/frehberg/wasm-sign) - WebAssembly signing and verification tool
-- [Shinyzenith/swhkd](https://github.com/Shinyzenith/swhkd) - sxhkd clone for Wayland (works on TYY and X11 too)
+- [waycrate/swhkd](https://github.com/waycrate/swhkd) - sxhkd clone for Wayland (works on TYY and X11 too)
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [ryanmcgrath/alchemy](https://github.com/ryanmcgrath/alchemy) - An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P
@@ -700,6 +702,7 @@
 
 ## Shell 
 
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
