@@ -492,6 +492,7 @@
 
 ## Python 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [Gbox4/tstock](https://github.com/Gbox4/tstock) - 📈A command line tool to view stock charts in the terminal.
