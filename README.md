@@ -134,7 +134,6 @@
 ## CSS 
 
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - My personal website showcasing my experiences, projects and skillsets.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [ashzero2/dotfiles](https://github.com/ashzero2/dotfiles) - 
@@ -560,6 +559,7 @@
 
 ## Rust 
 
+- [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [khonsulabs/nebari](https://github.com/khonsulabs/nebari) - A pure Rust database implementation using an append-only B-Tree file format.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
@@ -709,6 +709,7 @@
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for Ubuntu, Raspbian, or Manjaro(with arch elements)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -776,7 +777,7 @@
 - [corusm/dotfiles](https://github.com/corusm/dotfiles) - Sør-Helgeland dotfiles
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - 🍚 my personal configuration files.
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
@@ -826,6 +827,7 @@
 
 ## Vim script 
 
+- [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [hxyro/doom-one.vim](https://github.com/hxyro/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
 - [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
