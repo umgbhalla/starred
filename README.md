@@ -342,6 +342,7 @@
 
 ## Lua 
 
+- [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
@@ -511,6 +512,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -730,7 +732,6 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [uncomfyhalomacro/river-gruvbox-theme](https://github.com/uncomfyhalomacro/river-gruvbox-theme) - A sample configuration and theming for river tiling window manager
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - My portable configuration files for GNU/Linux distributions
-- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - Expedite your navigation of Linux filesystem.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
@@ -806,6 +807,7 @@
 
 ## TypeScript 
 
+- [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
 - [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
