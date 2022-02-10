@@ -342,6 +342,7 @@
 
 ## Lua 
 
+- [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -534,7 +535,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [atharva-lipare/MS-Teams-Auto-Joiner](https://github.com/atharva-lipare/MS-Teams-Auto-Joiner) - Python script to automatically join Microsoft Teams meetings appearing in your calendar.
 - [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
@@ -561,6 +561,10 @@
 
 ## Rust 
 
+- [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
+- [sitkevij/hex](https://github.com/sitkevij/hex) - 🔮 Futuristic take on hexdump, made in Rust.
+- [sstadick/crabz](https://github.com/sstadick/crabz) - Like pigz, but rust
+- [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [PureArtistry/oi](https://github.com/PureArtistry/oi) - trivia on the command line
 - [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [khonsulabs/nebari](https://github.com/khonsulabs/nebari) - A pure Rust database implementation using an append-only B-Tree file format.
@@ -721,7 +725,7 @@
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - various configurations for various packages
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
-- [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Calendso is an effort powered by people within the community. Calendso does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
+- [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [SmartFinn/dotfiles](https://github.com/SmartFinn/dotfiles) - Dotfiles on my laptop. Feel free to steal something
 - [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
@@ -829,6 +833,7 @@
 
 ## Vim script 
 
+- [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [hxyro/doom-one.vim](https://github.com/hxyro/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
 - [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
