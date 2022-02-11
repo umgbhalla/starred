@@ -58,6 +58,7 @@
 
 ## C 
 
+- [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
 - [dipankardas011/Operating-System](https://github.com/dipankardas011/Operating-System) - Just a abstract layer OS just for fun
 - [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
@@ -145,7 +146,7 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [adipopbv/dotfiles](https://github.com/adipopbv/dotfiles) - My linux dotfiles.
 - [Plunne/plunne_dotfiles](https://github.com/Plunne/plunne_dotfiles) - dotfiles
-- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalist two-column hugo theme based on farbox-theme-Anatole.
+- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [divyanshkhetan/Colour-Flipper](https://github.com/divyanshkhetan/Colour-Flipper) - This is just a practice project to get started with Front-end.
 - [JavaCafe01/javacafe01.github.io](https://github.com/JavaCafe01/javacafe01.github.io) - My website
@@ -377,7 +378,7 @@
 - [yashguptaz/dotfiles](https://github.com/yashguptaz/dotfiles) - Personal Dotfiles.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - ~/.dotfiles. Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 
@@ -513,7 +514,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
-- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -561,6 +561,9 @@
 
 ## Rust 
 
+- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
+- [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
+- [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [sitkevij/hex](https://github.com/sitkevij/hex) - 🔮 Futuristic take on hexdump, made in Rust.
 - [sstadick/crabz](https://github.com/sstadick/crabz) - Like pigz, but rust
@@ -736,6 +739,7 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [uncomfyhalomacro/river-gruvbox-theme](https://github.com/uncomfyhalomacro/river-gruvbox-theme) - A sample configuration and theming for river tiling window manager
 - [uncomfyhalomacro/dotfiles](https://github.com/uncomfyhalomacro/dotfiles) - My portable configuration files for GNU/Linux distributions
+- [Shinyzenith/.dotfiles](https://github.com/Shinyzenith/.dotfiles) - My ArtixLinux rice with wayland using the river compositor.
 - [CodesOfRishi/smartcd](https://github.com/CodesOfRishi/smartcd) - Expedite your navigation of Linux filesystem.
 - [mitchweaver/dots](https://github.com/mitchweaver/dots) - ⚫ ⚫ ⚫
 - [strafe/grumi](https://github.com/strafe/grumi) - 🖼️ Upload an image, video or album to Imgur via the command line
