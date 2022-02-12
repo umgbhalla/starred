@@ -45,6 +45,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
   - [Zig](#zig)
 
 ## AsciiDoc 
@@ -343,6 +344,8 @@
 
 ## Lua 
 
+- [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
@@ -404,6 +407,7 @@
 
 ## Others 
 
+- [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
@@ -561,6 +565,11 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent end-to-end data streaming platform that combines connectors, distributed streaming and state processing.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
@@ -593,7 +602,6 @@
 - [vrmiguel/bustd](https://github.com/vrmiguel/bustd) - Process killer daemon for out-of-memory scenarios
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [b23r0/yaftp](https://github.com/b23r0/yaftp) - Yet another File Transfer Protocol support with resume broken transfer & reverse mode & largefile implementation by Rust.
 - [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
 - [b23r0/abcdict](https://github.com/b23r0/abcdict) - A better customization password dictionary generator implementation by Rust.
@@ -854,6 +862,10 @@
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
 - [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+
+## Vue 
+
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
 ## Zig 
 
