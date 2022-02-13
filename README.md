@@ -270,6 +270,7 @@
 
 ## JavaScript 
 
+- [taniarascia/mvc](https://github.com/taniarascia/mvc) - A simple MVC application in plain JavaScript.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -378,7 +379,6 @@
 - [DanCarzano/dotfiles](https://github.com/DanCarzano/dotfiles) - All my Dotfiles
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
-- [yashguptaz/dotfiles](https://github.com/yashguptaz/dotfiles) - Personal Dotfiles.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
@@ -475,7 +475,6 @@
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [larryhynes/oh-my-zsh-themes](https://github.com/larryhynes/oh-my-zsh-themes) - Images to make your theme choice easier.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [umgbhalla/gitignore](https://github.com/umgbhalla/gitignore) - A collection of useful .gitignore templates
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [nodes-io/nodes-io](https://github.com/nodes-io/nodes-io) - A new way to create with code.
 - [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
@@ -486,6 +485,7 @@
 
 ## PHP 
 
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 
 ## Perl 
