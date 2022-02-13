@@ -363,7 +363,7 @@
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repos.
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
-- [janleigh/neodots](https://github.com/janleigh/neodots) - 💻 my neovim config.
+- [janleigh/neodots](https://github.com/janleigh/neodots) - My neovim configuration.
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [jgreco/mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
@@ -407,6 +407,7 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -565,6 +566,8 @@
 
 ## Rust 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
+- [hxyro/oi](https://github.com/hxyro/oi) - trivia on the command line
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -720,6 +723,7 @@
 
 ## Shell 
 
+- [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
