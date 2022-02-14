@@ -59,6 +59,7 @@
 
 ## C 
 
+- [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
 - [dipankardas011/Operating-System](https://github.com/dipankardas011/Operating-System) - Just a abstract layer OS just for fun
 - [mszoek/airyx](https://github.com/mszoek/airyx) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
@@ -198,6 +199,7 @@
 
 ## Go 
 
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [jensoncs/go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero) - Golang Learning doc + programs
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
@@ -407,6 +409,7 @@
 
 ## Others 
 
+- [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -566,6 +569,7 @@
 
 ## Rust 
 
+- [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
 - [hxyro/oi](https://github.com/hxyro/oi) - trivia on the command line
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -760,7 +764,6 @@
 - [uncomfyhalomacro/river-matcha-theme](https://github.com/uncomfyhalomacro/river-matcha-theme) - Matcha Theme for river
 - [two-six/YT-Feeder](https://github.com/two-six/YT-Feeder) - Rofi-Based YouTube RSS Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
-- [umgbhalla/oxide](https://github.com/umgbhalla/oxide) - A quick script to manage and change my bspwm themes using GNU stow
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
@@ -849,6 +852,7 @@
 
 ## Vim script 
 
+- [arecarn/vim-fold-cycle](https://github.com/arecarn/vim-fold-cycle) - 
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [hxyro/doom-one.vim](https://github.com/hxyro/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
