@@ -224,6 +224,7 @@
 
 ## HTML 
 
+- [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) - Hugo Shell theme : Terminal-like theme with selectable color schemes.
 - [sachinl0har/JS-Animation](https://github.com/sachinl0har/JS-Animation) - Js Animation on Cursor Move
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -347,11 +348,11 @@
 
 ## Lua 
 
+- [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
-- [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
@@ -569,6 +570,7 @@
 
 ## Rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
 - [hxyro/oi](https://github.com/hxyro/oi) - trivia on the command line
@@ -727,7 +729,6 @@
 
 ## Shell 
 
-- [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
