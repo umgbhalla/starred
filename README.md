@@ -102,7 +102,6 @@
 - [phillipberndt/pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [CaptainDaVinci/File-Formatting](https://github.com/CaptainDaVinci/File-Formatting) - Uses C file handling functions to edit files.
 - [brainhub/SHA3IUF](https://github.com/brainhub/SHA3IUF) - C implementation of the SHA-3 and Keccak with Init/Update/Finalize hashing API (NIST FIPS 202/Etherium)
 
 ## C# # 
@@ -191,6 +190,7 @@
 
 ## Fennel 
 
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GLSL 
@@ -200,6 +200,7 @@
 
 ## Go 
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [jensoncs/go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero) - Golang Learning doc + programs
@@ -412,6 +413,8 @@
 
 ## Others 
 
+- [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
@@ -572,6 +575,7 @@
 
 ## Rust 
 
+- [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) - use zig code in rust - a medium effort shitpost
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
