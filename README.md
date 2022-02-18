@@ -280,7 +280,6 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
-- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -516,6 +515,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
+- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -575,6 +575,7 @@
 
 ## Rust 
 
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) - use zig code in rust - a medium effort shitpost
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
