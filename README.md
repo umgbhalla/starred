@@ -412,6 +412,7 @@
 
 ## Others 
 
+- [pwittchen/learning-linux](https://github.com/pwittchen/learning-linux) - learning Linux (Unix) and collecting resources about it
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
@@ -515,7 +516,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
-- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 
+- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - ⚙️ Configuration files to build a Desktop Environment with @qtile.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -788,7 +789,7 @@
 - [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [jayden-chan/dotfiles](https://github.com/jayden-chan/dotfiles) - Holy smokes, these are some ballin dotfiles!
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 15+ Git scenarios. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 17+ git scenarios.
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [piroor/tweet.sh](https://github.com/piroor/tweet.sh) - Twitter client written in simple Bash script
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
@@ -868,7 +869,7 @@
 - [s4dr0t1/dotFiles](https://github.com/s4dr0t1/dotFiles) - Configuration files for the tools I use.
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [Mangeshrex/uwu.vim](https://github.com/Mangeshrex/uwu.vim) - 🎨 A beautiful and dark vim colorscheme.
+- [Mangeshrex/everblush.vim](https://github.com/Mangeshrex/everblush.vim) - 🎨 A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
