@@ -386,7 +386,7 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - ~/.dotfiles. Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 
@@ -412,6 +412,7 @@
 
 ## Others 
 
+- [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [pwittchen/learning-linux](https://github.com/pwittchen/learning-linux) - learning Linux (Unix) and collecting resources about it
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -723,7 +724,7 @@
 - [azur1s/octofetch](https://github.com/azur1s/octofetch) - Github user information on terminal :D
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [mazznoer/gradient-rs](https://github.com/mazznoer/gradient-rs) - A command line tool for playing with color gradients
-- [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.
+- [Misterio77/flavours](https://github.com/Misterio77/flavours) - 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [o2sh/miro](https://github.com/o2sh/miro) - My terminal emulator
