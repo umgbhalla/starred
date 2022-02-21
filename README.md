@@ -32,7 +32,6 @@
   - [Markdown](#markdown)
   - [Mustache](#mustache)
   - [Nim](#nim)
-  - [Nix](#nix)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -180,10 +179,12 @@
 
 ## Dockerfile 
 
+- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
 
 ## Emacs Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
@@ -405,10 +406,6 @@
 ## Nim 
 
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
-
-## Nix 
-
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Others 
 
