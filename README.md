@@ -38,6 +38,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
+  - [ReScript](#rescript)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -147,7 +148,6 @@
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [adipopbv/dotfiles](https://github.com/adipopbv/dotfiles) - My linux dotfiles.
 - [Plunne/plunne_dotfiles](https://github.com/Plunne/plunne_dotfiles) - dotfiles
-- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [divyanshkhetan/Colour-Flipper](https://github.com/divyanshkhetan/Colour-Flipper) - This is just a practice project to get started with Front-end.
 - [JavaCafe01/javacafe01.github.io](https://github.com/JavaCafe01/javacafe01.github.io) - My website
@@ -251,6 +251,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [muhammed/mini-player](https://github.com/muhammed/mini-player) - 
 - [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
+- [lxndrblz/anatole](https://github.com/lxndrblz/anatole) - Anatole is a minimalistic two-column theme for Hugo.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [mollerjorge/gulpie-web](https://github.com/mollerjorge/gulpie-web) - This is the marketing site for a fictitious company called Gulpie
@@ -566,6 +567,10 @@
 
 - [georgemsavva/genuary2022](https://github.com/georgemsavva/genuary2022) - Code for some selected genuary 2022 experiments
 
+## ReScript 
+
+- [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
+
 ## Ruby 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -574,6 +579,7 @@
 
 ## Rust 
 
+- [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) - use zig code in rust - a medium effort shitpost
@@ -736,6 +742,7 @@
 
 ## Shell 
 
+- [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
@@ -839,7 +846,6 @@
 ## TypeScript 
 
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
-- [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
