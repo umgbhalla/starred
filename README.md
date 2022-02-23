@@ -59,6 +59,7 @@
 
 ## C 
 
+- [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
 - [dipankardas011/Operating-System](https://github.com/dipankardas011/Operating-System) - Just a abstract layer OS just for fun
