@@ -852,6 +852,7 @@
 
 ## TypeScript 
 
+- [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
 - [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
