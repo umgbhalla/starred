@@ -747,6 +747,7 @@
 
 ## Shell 
 
+- [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
