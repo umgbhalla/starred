@@ -584,6 +584,7 @@
 
 ## Rust 
 
+- [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [EFanZh/LeetCode](https://github.com/EFanZh/LeetCode) - Solutions to LeetCode algorithm problems.
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
 - [EstebanBorai/fluxcap](https://github.com/EstebanBorai/fluxcap) - HackerNews UI built in Rust using the Official HackerNews API. The Name "FluxCap" comes from the Flux Capacitor used in "Back to the Future" as it has a "Y" shape.
