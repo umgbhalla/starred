@@ -38,7 +38,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
-  - [ReScript](#rescript)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -279,6 +278,7 @@
 
 ## JavaScript 
 
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 - [taniarascia/mvc](https://github.com/taniarascia/mvc) - A simple MVC application in plain JavaScript.
@@ -355,6 +355,7 @@
 
 ## Lua 
 
+- [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
 - [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
 - [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
@@ -520,7 +521,6 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
-- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -572,10 +572,6 @@
 
 - [georgemsavva/genuary2022](https://github.com/georgemsavva/genuary2022) - Code for some selected genuary 2022 experiments
 
-## ReScript 
-
-- [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
-
 ## Ruby 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -584,6 +580,8 @@
 
 ## Rust 
 
+- [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
+- [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [EFanZh/LeetCode](https://github.com/EFanZh/LeetCode) - Solutions to LeetCode algorithm problems.
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
@@ -762,6 +760,7 @@
 - [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for EndavourO and my dotfiles
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
+- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -861,6 +860,7 @@
 - [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
 - [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
+- [ThePrimeagen/tyrone-biggums](https://github.com/ThePrimeagen/tyrone-biggums) - Clearly a repo about websockets and their comparison...
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
