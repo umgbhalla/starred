@@ -521,6 +521,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [martinet101/win32mica](https://github.com/martinet101/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
+- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -580,6 +581,9 @@
 
 ## Rust 
 
+- [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
+- [sigoden/argc](https://github.com/sigoden/argc) - A handy way to handle sh/bash cli parameters.
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
@@ -760,7 +764,6 @@
 - [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for EndavourO and my dotfiles
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
-- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
