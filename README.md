@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
