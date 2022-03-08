@@ -582,6 +582,7 @@
 
 ## Rust 
 
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
 - [sigoden/argc](https://github.com/sigoden/argc) - A handy way to handle sh/bash cli parameters.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
