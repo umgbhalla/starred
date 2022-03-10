@@ -415,6 +415,7 @@
 
 ## Others 
 
+- [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [pwittchen/learning-linux](https://github.com/pwittchen/learning-linux) - learning Linux (Unix) and collecting resources about it
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
@@ -582,6 +583,7 @@
 
 ## Rust 
 
+- [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin.
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
