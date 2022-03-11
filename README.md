@@ -296,6 +296,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
 - [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -583,6 +584,7 @@
 
 ## Rust 
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
 - [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin.
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
@@ -628,7 +630,7 @@
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [frehberg/wasm-sign](https://github.com/frehberg/wasm-sign) - WebAssembly signing and verification tool
-- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd
+- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [ryanmcgrath/alchemy](https://github.com/ryanmcgrath/alchemy) - An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P
@@ -916,7 +918,6 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 
 
 ## License
