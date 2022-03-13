@@ -271,7 +271,7 @@
 
 ## Java 
 
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - Discord Android app mod inspired by desktop Discord client mods.
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -291,7 +291,6 @@
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
 - [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
@@ -590,6 +589,8 @@
 
 ## Rust 
 
+- [aylei/leetcode-rust](https://github.com/aylei/leetcode-rust) - my leetcode solutions in rust
+- [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.
@@ -708,6 +709,7 @@
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [yubrot/llrl](https://github.com/yubrot/llrl) - Lisp-like programming language powered by Rust + LLVM
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
