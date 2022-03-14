@@ -876,6 +876,7 @@
 
 ## TypeScript 
 
+- [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
 - [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
 - [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
