@@ -297,7 +297,6 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
 - [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -929,6 +928,7 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - 
 
 
 ## License
