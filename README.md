@@ -59,6 +59,7 @@
 
 ## C 
 
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
@@ -366,7 +367,7 @@
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
-- [Manas140/Conscious](https://github.com/Manas140/Conscious) - 
+- [Manas140/Conscious](https://github.com/Manas140/Conscious) - Nvim dotfiles
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -588,6 +589,8 @@
 
 ## Rust 
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+- [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [aylei/leetcode-rust](https://github.com/aylei/leetcode-rust) - my leetcode solutions in rust
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -645,7 +648,7 @@
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
 - [sunshowers-code/rust-cli-recommendations](https://github.com/sunshowers-code/rust-cli-recommendations) - Rust CLI design tips and best practices
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code to follow along the "Zero To Production" book on API development in Rust.
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [batbin-org/previewer](https://github.com/batbin-org/previewer) - 🚀  An over-engineered and blazing fast preview image generator with syntax highlighting.
 - [buster/rrun](https://github.com/buster/rrun) - minimalistic command launcher in rust
 - [vrmiguel/bustd](https://github.com/vrmiguel/bustd) - Process killer daemon for out-of-memory scenarios
@@ -776,7 +779,7 @@
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [chebro/calendar-notification](https://github.com/chebro/calendar-notification) - calendar notification for linux desktops using dunst
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
-- [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for EndavourO and my dotfiles
+- [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for EndeavourOS and my dotfiles
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
