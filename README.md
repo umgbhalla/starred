@@ -59,6 +59,7 @@
 
 ## C 
 
+- [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - 
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
@@ -519,6 +520,7 @@
 
 ## Python 
 
+- [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -589,6 +591,8 @@
 
 ## Rust 
 
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [aylei/leetcode-rust](https://github.com/aylei/leetcode-rust) - my leetcode solutions in rust
