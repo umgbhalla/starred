@@ -354,7 +354,7 @@
 
 ## Kotlin 
 
-- [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
+- [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
 ## Lua 
 
@@ -591,6 +591,8 @@
 
 ## Rust 
 
+- [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
+- [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
