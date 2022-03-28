@@ -102,7 +102,7 @@
 - [wolkykim/qlibc](https://github.com/wolkykim/qlibc) - qLibc is a simple and yet powerful C library providing generic data structures and algorithms
 - [zarc1411/dotfiles](https://github.com/zarc1411/dotfiles) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
+- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
 - [Federico-abss/CS50-intro-course](https://github.com/Federico-abss/CS50-intro-course) - Harvard's cs50: Introduction To CS 2020 - solutions to every pset plus final project!
 - [phillipberndt/pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
