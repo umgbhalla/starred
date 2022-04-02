@@ -349,6 +349,7 @@
 
 ## Jupyter Notebook 
 
+- [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
 - [amitkaps/recommendation](https://github.com/amitkaps/recommendation) - Recommendation System using ML and DL
