@@ -677,7 +677,7 @@
 - [vrmiguel/bustd](https://github.com/vrmiguel/bustd) - Process killer daemon for out-of-memory scenarios
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [b23r0/yaftp](https://github.com/b23r0/yaftp) - Yet another File Transfer Protocol support with resume broken transfer & reverse mode & largefile implementation by Rust.
+- [b23r0/yaftp](https://github.com/b23r0/yaftp) - Yet another File Transfer Protocol support with resume broken transfer & reverse mode & largefile.
 - [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
 - [b23r0/abcdict](https://github.com/b23r0/abcdict) - A better customization password dictionary generator implementation by Rust.
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
@@ -840,7 +840,7 @@
 - [dawidd6/minifetch](https://github.com/dawidd6/minifetch) - Minimal system info fetcher
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [kenielf/dotfiles](https://github.com/kenielf/dotfiles) - My personal dotfiles
-- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/
+- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Convert Arch-based distros into vanilla Arch. Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/ .
 - [msaitz/polybar-bluetooth](https://github.com/msaitz/polybar-bluetooth) - A fully functional bluetooth module for polybar
 - [philippnormann/xrandr-brightness-script](https://github.com/philippnormann/xrandr-brightness-script) - 🔆 Script for adjusting the brightness and color temperature of displays on a software level using xrandr.
 - [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
