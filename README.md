@@ -601,6 +601,7 @@
 
 ## Rust 
 
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
@@ -680,7 +681,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [b23r0/yaftp](https://github.com/b23r0/yaftp) - Yet another File Transfer Protocol support with resume broken transfer & reverse mode & largefile.
 - [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
-- [b23r0/abcdict](https://github.com/b23r0/abcdict) - A better customization password dictionary generator implementation by Rust.
+- [b23r0/abcdict](https://github.com/b23r0/abcdict) - A better customization password dictionary generator
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
 - [simeg/eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
