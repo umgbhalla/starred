@@ -204,6 +204,7 @@
 
 ## GLSL 
 
+- [Apeiros-46B/hlwm-dots](https://github.com/Apeiros-46B/hlwm-dots) - Config files for my herbstluftwm setup (partially finished)
 - [patriciogonzalezvivo/.glslScreenSaver](https://github.com/patriciogonzalezvivo/.glslScreenSaver) - Make your own custom ScreenSaver in linux using GlslViewer
 - [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
 
@@ -427,6 +428,8 @@
 
 ## Others 
 
+- [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies
+- [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
@@ -529,6 +532,7 @@
 
 ## Python 
 
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Tempest20/sorti-py](https://github.com/Tempest20/sorti-py) - 
 - [FlynnOwen/Python-utils](https://github.com/FlynnOwen/Python-utils) - A folder to be used for working through intermediate / advanced Python concepts.
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
@@ -601,6 +605,7 @@
 
 ## Rust 
 
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
