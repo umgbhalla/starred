@@ -204,12 +204,13 @@
 
 ## GLSL 
 
-- [Apeiros-46B/hlwm-dots](https://github.com/Apeiros-46B/hlwm-dots) - Config files for my herbstluftwm setup (partially finished)
+- [Apeiros-46B/hlwm-dots](https://github.com/Apeiros-46B/hlwm-dots) - Config files for my herbstluftwm setup (mostly finished)
 - [patriciogonzalezvivo/.glslScreenSaver](https://github.com/patriciogonzalezvivo/.glslScreenSaver) - Make your own custom ScreenSaver in linux using GlslViewer
 - [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
 
 ## Go 
 
+- [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF editor tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -605,6 +606,7 @@
 
 ## Rust 
 
+- [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
@@ -901,6 +903,7 @@
 
 ## TeX 
 
+- [Gankra/thesis](https://github.com/Gankra/thesis) - My Master's Thesis??
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [Stonksbunker/optionchain-visualizer](https://github.com/Stonksbunker/optionchain-visualizer) - 
 - [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) - Cheat sheet for x86-64 Unix systems programming
