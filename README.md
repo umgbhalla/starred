@@ -607,6 +607,7 @@
 
 ## Rust 
 
+- [me-diru/anime-pls](https://github.com/me-diru/anime-pls) - Cli for anime content
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
@@ -960,6 +961,7 @@
 
 ## Vue 
 
+- [hxyro/frizzle](https://github.com/hxyro/frizzle) - Frizzle - A decentralized social media app
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
 ## Zig 
