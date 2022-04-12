@@ -607,6 +607,7 @@
 
 ## Rust 
 
+- [greyblake/ta-rs](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust language
 - [me-diru/anime-pls](https://github.com/me-diru/anime-pls) - Cli for anime content
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
