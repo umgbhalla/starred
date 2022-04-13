@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
 - [coder137/build_in_cpp](https://github.com/coder137/build_in_cpp) - Build C, C++ and ASM files in C++
@@ -430,6 +431,7 @@
 
 ## Others 
 
+- [mattdesl/promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
 - [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies
 - [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -607,6 +609,7 @@
 
 ## Rust 
 
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [greyblake/ta-rs](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust language
 - [me-diru/anime-pls](https://github.com/me-diru/anime-pls) - Cli for anime content
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
