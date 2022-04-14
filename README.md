@@ -369,7 +369,6 @@
 
 - [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
 - [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
-- [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Neovim plugin with collection of minimal, independent, and fast Lua modules dedicated to improve Neovim (version 0.5 and higher) experience
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
@@ -542,6 +541,7 @@
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [jbuchermn/newm](https://github.com/jbuchermn/newm) - Wayland compositor
+- [Gbox4/dotfiles](https://github.com/Gbox4/dotfiles) - dotfiles for arch config
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -609,6 +609,7 @@
 
 ## Rust 
 
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [greyblake/ta-rs](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust language
 - [me-diru/anime-pls](https://github.com/me-diru/anime-pls) - Cli for anime content
@@ -631,7 +632,7 @@
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2021
 - [aylei/leetcode-rust](https://github.com/aylei/leetcode-rust) - my leetcode solutions in rust
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
-- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin.
@@ -659,7 +660,7 @@
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent data streaming platform
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - An intelligent event streaming platform
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
