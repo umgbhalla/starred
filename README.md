@@ -288,6 +288,7 @@
 
 ## JavaScript 
 
+- [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
@@ -536,6 +537,7 @@
 
 ## Python 
 
+- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Tempest20/sorti-py](https://github.com/Tempest20/sorti-py) - 
 - [FlynnOwen/Python-utils](https://github.com/FlynnOwen/Python-utils) - A folder to be used for working through intermediate / advanced Python concepts.
@@ -614,6 +616,7 @@
 
 ## Rust 
 
+- [stevedonovan/gentle-intro](https://github.com/stevedonovan/gentle-intro) - A gentle Rust tutorial
 - [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - Single dependency Kubernetes clusters for local testing, experimenting and development
 - [steadylearner/Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Rust projects here are easy to use. There are blog posts for them also.
 - [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - CSML is an easy-to-use chatbot programming language and framework.
