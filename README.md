@@ -288,6 +288,7 @@
 
 ## JavaScript 
 
+- [dwyl/learn-tdd](https://github.com/dwyl/learn-tdd) - :white_check_mark: A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [mattdesl/subscapes](https://github.com/mattdesl/subscapes) - generative artwork hosted on Ethereum
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
@@ -434,6 +435,7 @@
 
 ## Others 
 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [Synkevych/developer-roadmap](https://github.com/Synkevych/developer-roadmap) - Roadmap to becoming a better web developer  in 2021
 - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) - DevOps methodology & roadmap for a devops developer in 2019. Interesting books to learn new technologies.
@@ -542,6 +544,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Tempest20/sorti-py](https://github.com/Tempest20/sorti-py) - 
@@ -939,6 +942,7 @@
 
 ## TypeScript 
 
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
