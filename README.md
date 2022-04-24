@@ -38,7 +38,6 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
-  - [R](#r)
   - [ReScript](#rescript)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -608,10 +607,6 @@
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
-
-## R 
-
-- [georgemsavva/genuary2022](https://github.com/georgemsavva/genuary2022) - Code for some selected genuary 2022 experiments
 
 ## ReScript 
 
