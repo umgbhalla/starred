@@ -19,6 +19,7 @@
   - [Fennel](#fennel)
   - [GLSL](#glsl)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -211,7 +212,6 @@
 
 ## Go 
 
-- [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF editor tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -234,6 +234,10 @@
 - [unixporn/trup](https://github.com/unixporn/trup) - Discord bot for the Unixporn community
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+
+## HCL 
+
+- [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF editor tool
 
 ## HTML 
 
