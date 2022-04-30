@@ -19,7 +19,6 @@
   - [Fennel](#fennel)
   - [GLSL](#glsl)
   - [Go](#go)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -214,6 +213,7 @@
 
 ## Go 
 
+- [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF editor tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -236,10 +236,6 @@
 - [unixporn/trup](https://github.com/unixporn/trup) - Discord bot for the Unixporn community
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-
-## HCL 
-
-- [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF editor tool
 
 ## HTML 
 
@@ -445,6 +441,7 @@
 
 ## Others 
 
+- [mtdvio/going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [Synkevych/developer-roadmap](https://github.com/Synkevych/developer-roadmap) - Roadmap to becoming a better web developer  in 2021
@@ -554,6 +551,9 @@
 
 ## Python 
 
+- [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
+- [NiklasTiede/Github-Trending-API](https://github.com/NiklasTiede/Github-Trending-API) - 📈 This API provides Data about Trending Repositories and Developers on Github.
+- [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -634,6 +634,7 @@
 
 ## Rust 
 
+- [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer) - Tool for remote builds. Sync project to remote machine, execute command, sync back.
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
@@ -762,7 +763,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 - [tteeoo/rco](https://github.com/tteeoo/rco) - 📂 A tool for managing configuration files in Linux.
 - [Shadow53/hoard](https://github.com/Shadow53/hoard) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -954,12 +955,15 @@
 
 ## TypeScript 
 
+- [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
+- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
+- [r-spacex/spacexstats-react](https://github.com/r-spacex/spacexstats-react) - SpaceXStats, with React and using the SpaceX API
 - [karanpratapsingh/portfolio](https://github.com/karanpratapsingh/portfolio) - My portfolio website with built-in blogs and courses support
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
-- [Miodec/monkeytype](https://github.com/Miodec/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
 - [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
