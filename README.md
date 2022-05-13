@@ -544,6 +544,7 @@
 
 ## Perl 
 
+- [bcrowell/when](https://github.com/bcrowell/when) - an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 
 ## PowerShell 
@@ -637,6 +638,7 @@
 
 ## Rust 
 
+- [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) - Machine learning crate for Rust
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - 😱 Panic messages for humans.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
