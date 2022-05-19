@@ -241,7 +241,7 @@
 ## HTML 
 
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
-- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal, self-hosted search engine
+- [a5huynh/spyglass](https://github.com/a5huynh/spyglass) - A personal search engine
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) - Hugo Shell theme : Terminal-like theme with selectable color schemes.
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
