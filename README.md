@@ -446,6 +446,7 @@
 
 ## Others 
 
+- [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [Gitleptune/notes-cli](https://github.com/Gitleptune/notes-cli) - A collection of notes I make about programs I use
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -790,7 +791,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 - [tteeoo/rco](https://github.com/tteeoo/rco) - 📂 A tool for managing configuration files in Linux.
 - [Shadow53/hoard](https://github.com/Shadow53/hoard) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -982,6 +983,7 @@
 
 ## TypeScript 
 
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [r-spacex/spacexstats-react](https://github.com/r-spacex/spacexstats-react) - SpaceXStats, with React and using the SpaceX API
