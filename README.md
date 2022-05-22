@@ -446,6 +446,7 @@
 
 ## Others 
 
+- [lrlna/smol-zines](https://github.com/lrlna/smol-zines) - sketching out concepts one 📝 at a time
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [not-yet-awesome-rust/not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 - [Gitleptune/notes-cli](https://github.com/Gitleptune/notes-cli) - A collection of notes I make about programs I use
@@ -648,6 +649,7 @@
 
 ## Rust 
 
+- [m-ou-se/auto-import](https://github.com/m-ou-se/auto-import) - Please do not use this.
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
 - [zkat/miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
