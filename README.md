@@ -949,7 +949,7 @@
 - [jain-aayush/dotfiles-bspwm](https://github.com/jain-aayush/dotfiles-bspwm) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
-- [il-mich/asus-health-charging](https://github.com/il-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
+- [le-mich/asus-health-charging](https://github.com/le-mich/asus-health-charging) - Trying to provide the functionality of the infamous Windows only official tool by Asus
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [dimriver/thoughts](https://github.com/dimriver/thoughts) - A portable pal for putting your thoughts on the internet
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
