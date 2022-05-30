@@ -882,6 +882,7 @@
 
 ## Shell 
 
+- [Wint3rmute/arch-linux-on-kindle](https://github.com/Wint3rmute/arch-linux-on-kindle) - Arch Linux on a Kindle ebook (via Proot)
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
@@ -987,6 +988,7 @@
 
 ## TypeScript 
 
+- [zijie0/cloud_ml_platform](https://github.com/zijie0/cloud_ml_platform) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
