@@ -577,6 +577,7 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [DemonKingSwarn/flix-cli](https://github.com/DemonKingSwarn/flix-cli) - A high efficient, powerful and fast movie scraper.
 - [beaucarnes/herocool](https://github.com/beaucarnes/herocool) - 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
@@ -905,6 +906,7 @@
 
 ## Shell 
 
+- [javaducky/k6-office-hours-047](https://github.com/javaducky/k6-office-hours-047) - k6 Office Hours session 47, https://www.youtube.com/watch?v=IW7I_vWV93A
 - [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [Wint3rmute/arch-linux-on-kindle](https://github.com/Wint3rmute/arch-linux-on-kindle) - Arch Linux on a Kindle ebook (via Proot)
 - [neg-serg/dotfiles](https://github.com/neg-serg/dotfiles) - My configs with whistles and bells
