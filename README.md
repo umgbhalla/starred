@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF Editor tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -300,6 +301,7 @@
 
 ## JavaScript 
 
+- [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
 - [aayushrathor/docker-prep](https://github.com/aayushrathor/docker-prep) - 
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -741,7 +743,7 @@
 - [softprops/shiplift](https://github.com/softprops/shiplift) - 🐳 🦀 rust interface for maneuvering docker containers
 - [EFanZh/LeetCode](https://github.com/EFanZh/LeetCode) - Solutions to LeetCode algorithm problems.
 - [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) - Rust Programming Fundamentals - one course to rule them all, one course to find them...
-- [EstebanBorai/fluxcap](https://github.com/EstebanBorai/fluxcap) - HackerNews UI built in Rust using the Official HackerNews API. The Name "FluxCap" comes from the Flux Capacitor used in "Back to the Future" as it has a "Y" shape.
+- [EstebanBorai/rusty-hackernews](https://github.com/EstebanBorai/rusty-hackernews) - HackerNews UI built in Rust using the Official HackerNews API. The Name "FluxCap" comes from the Flux Capacitor used in "Back to the Future" as it has a "Y" shape.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
@@ -1068,7 +1070,7 @@
 
 ## Vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hxyro/frizzle](https://github.com/hxyro/frizzle) - Frizzle - A decentralized social media app
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
