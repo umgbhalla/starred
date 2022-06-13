@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [frol/completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) - Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada, Lua, Ruby)
@@ -517,7 +518,7 @@
 - [CesiumLabs/conventional-commit-messages](https://github.com/CesiumLabs/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
-- [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - Free VPN/proxy,server,account,link list.,实时更新免费的代理,科学上网,翻墙,梯子,服务器,客户端,账号
+- [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - At least the Internet is free 至少互联网是自由的
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
 - [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) - A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge | Curated list of beginner-friendly issues for Hacktoberfest 202
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
@@ -670,6 +671,9 @@
 
 ## Rust 
 
+- [thatvegandev/fsrx](https://github.com/thatvegandev/fsrx) - 📚 flow state reading in the terminal
+- [wycats/rust-activesupport](https://github.com/wycats/rust-activesupport) - Small demos that illustrate Rust's expressiveness
+- [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [Eoin-McMahon/blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
@@ -908,6 +912,8 @@
 
 ## Shell 
 
+- [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
+- [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [javaducky/k6-office-hours-047](https://github.com/javaducky/k6-office-hours-047) - k6 Office Hours session 47, https://www.youtube.com/watch?v=IW7I_vWV93A
 - [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [Wint3rmute/arch-linux-on-kindle](https://github.com/Wint3rmute/arch-linux-on-kindle) - Arch Linux on a Kindle ebook (via Proot)
