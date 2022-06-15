@@ -260,7 +260,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
 - [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
-- [ayroui/free-ui-components](https://github.com/ayroui/free-ui-components) - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
+- [ayroui/bootstrap-ui-components](https://github.com/ayroui/bootstrap-ui-components) - Bootstrap UI Components - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
 - [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the YouTube channel "julia for talented amateurs".
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -518,7 +518,7 @@
 - [CesiumLabs/conventional-commit-messages](https://github.com/CesiumLabs/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
-- [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - At least the Internet is free 至少互联网是自由的
+- [hugetiny/awesome-vpn](https://github.com/hugetiny/awesome-vpn) - At least the Internet is free 至少互联网是自由而且免费的
 - [nomsi/docker-discordjs-tutorial](https://github.com/nomsi/docker-discordjs-tutorial) - WIP Tutorial for running your Discord.JS bot inside Docker containers
 - [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) - A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge | Curated list of beginner-friendly issues for Hacktoberfest 202
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
