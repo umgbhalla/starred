@@ -32,6 +32,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
+- [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -446,6 +447,10 @@
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
+## NSIS 
+
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+
 ## Nim 
 
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
@@ -460,6 +465,7 @@
 
 ## Others 
 
+- [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -913,7 +919,6 @@
 ## Shell 
 
 - [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
-- [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [javaducky/k6-office-hours-047](https://github.com/javaducky/k6-office-hours-047) - k6 Office Hours session 47, https://www.youtube.com/watch?v=IW7I_vWV93A
 - [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [Wint3rmute/arch-linux-on-kindle](https://github.com/Wint3rmute/arch-linux-on-kindle) - Arch Linux on a Kindle ebook (via Proot)
@@ -1049,7 +1054,6 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 
