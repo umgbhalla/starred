@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [grafana/xk6-output-prometheus-remote](https://github.com/grafana/xk6-output-prometheus-remote) - K6 extension for Prometheus remote write
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A free web-based PDF Editor tool
@@ -672,6 +673,7 @@
 
 ## Rust 
 
+- [sohnryang/rustlings](https://github.com/sohnryang/rustlings) - I'm doing rustlings course.
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 - [murarth/ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs
 - [thatvegandev/fsrx](https://github.com/thatvegandev/fsrx) - 📚 flow state reading in the terminal
