@@ -917,6 +917,7 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [eathtespagheti/bash-things](https://github.com/eathtespagheti/bash-things) - Custom bash prompt and scripts
 - [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
