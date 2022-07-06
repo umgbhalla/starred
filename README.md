@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [aws-quickstart/quickstart-amazon-eks](https://github.com/aws-quickstart/quickstart-amazon-eks) - Amazon EKS Quick Start
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [DemonKingSwarn/flix-cli](https://github.com/DemonKingSwarn/flix-cli) - A high efficient, powerful and fast movie scraper.
 - [beaucarnes/herocool](https://github.com/beaucarnes/herocool) - 
@@ -1101,6 +1102,7 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
