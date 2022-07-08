@@ -306,6 +306,7 @@
 
 ## JavaScript 
 
+- [yuriatgoogle/stack-doctor](https://github.com/yuriatgoogle/stack-doctor) - Repository for Stackdriver demos supporting the Stack Doctor series of videos and blog posts
 - [QAInsights/Learn-k6-Series](https://github.com/QAInsights/Learn-k6-Series) - Learn k6 Series
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
