@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [grafana/xk6-output-prometheus-remote](https://github.com/grafana/xk6-output-prometheus-remote) - K6 extension for Prometheus remote write
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -306,6 +307,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [yuriatgoogle/stack-doctor](https://github.com/yuriatgoogle/stack-doctor) - Repository for Stackdriver demos supporting the Stack Doctor series of videos and blog posts
 - [QAInsights/Learn-k6-Series](https://github.com/QAInsights/Learn-k6-Series) - Learn k6 Series
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
@@ -472,7 +474,6 @@
 ## Others 
 
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
-- [archcraft-os/archcraft-hyprland](https://github.com/archcraft-os/archcraft-hyprland) - // Configuration : Hyprland
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -648,6 +649,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [rafaqz/.dotfiles](https://github.com/rafaqz/.dotfiles) - 
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
@@ -930,6 +932,7 @@
 
 ## Shell 
 
+- [Gwynsav/messydots](https://github.com/Gwynsav/messydots) - Good Luck.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [eathtespagheti/bash-things](https://github.com/eathtespagheti/bash-things) - Custom bash prompt and scripts
@@ -997,7 +1000,6 @@
 - [Praxylmx/dotFiles](https://github.com/Praxylmx/dotFiles) - Repository for my linux config files.
 - [6gk/shnippets](https://github.com/6gk/shnippets) - collection of small snippets
 - [lharding/lsh-bin](https://github.com/lharding/lsh-bin) - Shell utilities toolkit
-- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [jain-aayush/dotfiles-bspwm](https://github.com/jain-aayush/dotfiles-bspwm) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
@@ -1039,6 +1041,7 @@
 
 ## TypeScript 
 
+- [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [zijie0/cloud_ml_platform](https://github.com/zijie0/cloud_ml_platform) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
@@ -1103,7 +1106,7 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
