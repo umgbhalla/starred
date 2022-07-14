@@ -200,6 +200,7 @@
 
 ## Dockerfile 
 
+- [zenika-open-source/terraform-aws-cli](https://github.com/zenika-open-source/terraform-aws-cli) - Minimal & lightweight docker image including AWS and Terraform CLI
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
 
@@ -740,7 +741,7 @@
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
-- [arctic-hen7/perseus](https://github.com/arctic-hen7/perseus) - A high-level web development framework for Rust with full support for server-side rendering and static generation.
+- [arctic-hen7/perseus](https://github.com/arctic-hen7/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust
 - [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
