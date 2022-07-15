@@ -470,7 +470,7 @@
 
 ## OCaml 
 
-- [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
 ## Others 
 
