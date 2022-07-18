@@ -20,6 +20,7 @@
 - [Fennel](#fennel)
 - [GLSL](#glsl)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -151,7 +152,6 @@
 
 ## CSS 
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [abhijith0505/GoChat](https://github.com/abhijith0505/GoChat) - Command Line Chatting utility
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - My personal website showcasing my experiences, projects and skillsets.
@@ -251,6 +251,10 @@
 - [unixporn/trup](https://github.com/unixporn/trup) - Discord bot for the Unixporn community
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+
+## Groovy 
+
+- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 
 ## HTML 
 
@@ -406,6 +410,7 @@
 ## Lua 
 
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
 - [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
 - [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
@@ -687,6 +692,7 @@
 
 ## Rust 
 
+- [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [sohnryang/rustlings](https://github.com/sohnryang/rustlings) - I'm doing rustlings course.
@@ -933,6 +939,7 @@
 
 ## Shell 
 
+- [rv178/.dotfiles](https://github.com/rv178/.dotfiles) - My Arch Linux installation's dotfiles!
 - [Gwynsav/messydots](https://github.com/Gwynsav/messydots) - Good Luck.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
@@ -1042,6 +1049,7 @@
 
 ## TypeScript 
 
+- [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuous K6 load tests on K8s.
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [zijie0/cloud_ml_platform](https://github.com/zijie0/cloud_ml_platform) - 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
