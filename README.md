@@ -21,6 +21,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -224,6 +225,7 @@
 
 ## Go 
 
+- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [grafana/xk6-output-prometheus-remote](https://github.com/grafana/xk6-output-prometheus-remote) - K6 extension for Prometheus remote write
@@ -255,6 +257,10 @@
 ## Groovy 
 
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
+
+## HCL 
+
+- [darkn3rd/eks-basic](https://github.com/darkn3rd/eks-basic) - This creates a basic EKS Cluster similiar to `eksclt create cluster` command
 
 ## HTML 
 
@@ -420,7 +426,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
-- [Manas140/Conscious](https://github.com/Manas140/Conscious) - Nvim dotfiles
+- [Manas140/Conscious](https://github.com/Manas140/Conscious) - Neovim config
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
