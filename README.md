@@ -66,7 +66,7 @@
 ## C 
 
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
-- [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - 
+- [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - Snake game that plays itself
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
