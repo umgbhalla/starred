@@ -165,7 +165,6 @@
 - [Gitleptune/lantern-theme](https://github.com/Gitleptune/lantern-theme) - Brown-Orange colour theme, and userCSS styles for different websites and services.
 - [obliviousofcraps/mf-dots](https://github.com/obliviousofcraps/mf-dots) - These are some of my ridiculously shit dotfiles that I use in my unproductive daily life.
 - [adipopbv/dotfiles](https://github.com/adipopbv/dotfiles) - My linux dotfiles.
-- [Plunne/plunne_dotfiles](https://github.com/Plunne/plunne_dotfiles) - dotfiles
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [divyanshkhetan/Colour-Flipper](https://github.com/divyanshkhetan/Colour-Flipper) - This is just a practice project to get started with Front-end.
 - [JavaCafe01/javacafe01.github.io](https://github.com/JavaCafe01/javacafe01.github.io) - My website
@@ -213,7 +212,7 @@
 
 ## Fennel 
 
-- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel and Rust. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GLSL 
@@ -348,7 +347,6 @@
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
 - [zenorocha/zenorocha.com](https://github.com/zenorocha/zenorocha.com) - My personal website ❤️
 - [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
@@ -478,6 +476,7 @@
 
 ## Nix 
 
+- [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
@@ -703,6 +702,7 @@
 
 ## Rust 
 
+- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
 - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) - rust design patterns
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use.
@@ -780,7 +780,7 @@
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
-- [sigoden/argc](https://github.com/sigoden/argc) - Make beautiful bash cli with comments, also a command runner using bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - A bash cli framework, also a task runner.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
@@ -952,6 +952,7 @@
 
 ## Shell 
 
+- [1995parham/dotfiles](https://github.com/1995parham/dotfiles) - :rocket: @1995parham Linux / OSx configurations files
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [rv178/.dotfiles](https://github.com/rv178/.dotfiles) - My Arch Linux installation's dotfiles!
 - [Gwynsav/messydots](https://github.com/Gwynsav/messydots) - Good Luck.
@@ -1063,6 +1064,7 @@
 
 ## TypeScript 
 
+- [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuous K6 load tests on K8s.
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [zijie0/cloud_ml_platform](https://github.com/zijie0/cloud_ml_platform) - 
@@ -1077,12 +1079,13 @@
 - [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
-- [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
+- [traverse1984/oxide-ts](https://github.com/traverse1984/oxide-ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
+- [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
