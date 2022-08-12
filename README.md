@@ -1066,6 +1066,7 @@
 
 ## TypeScript 
 
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuous K6 load tests on K8s.
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
