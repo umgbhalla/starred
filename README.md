@@ -66,7 +66,7 @@
 ## C 
 
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
-- [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - Snake game that plays itself in a terminal
+- [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - cli snake game that plays itself
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
@@ -92,7 +92,7 @@
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors (WIP: https://github.com/vilhalmer/oguri/milestone/1)
+- [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
 - [r1ri/minifm](https://github.com/r1ri/minifm) - A terminal based visual file manager, used similar to programs like fzf, and fzy
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
@@ -219,10 +219,11 @@
 
 - [Apeiros-46B/hlwm-dots](https://github.com/Apeiros-46B/hlwm-dots) - Config files for my herbstluftwm setup (mostly finished)
 - [patriciogonzalezvivo/.glslScreenSaver](https://github.com/patriciogonzalezvivo/.glslScreenSaver) - Make your own custom ScreenSaver in linux using GlslViewer
-- [vcyzteen/dotbaka](https://github.com/vcyzteen/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
+- [xealea/dotbaka](https://github.com/xealea/dotbaka) - 🍂 Dotbaka Specially Minimalist & Easy To Use & Lazy User & Everything Simple | Dotfiles [ Bspwm ]
 
 ## Go 
 
+- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [grafana/xk6-output-prometheus-remote](https://github.com/grafana/xk6-output-prometheus-remote) - K6 extension for Prometheus remote write
@@ -608,6 +609,7 @@
 
 ## Python 
 
+- [fivexl/kubernetes-events-to-slack](https://github.com/fivexl/kubernetes-events-to-slack) - Stream K8S events to Slack
 - [aws-quickstart/quickstart-amazon-eks](https://github.com/aws-quickstart/quickstart-amazon-eks) - Amazon EKS Quick Start
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [DemonKingSwarn/flix-cli](https://github.com/DemonKingSwarn/flix-cli) - A high efficient, powerful and fast movie scraper.
@@ -649,7 +651,7 @@
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [kiddae/dotfiles](https://github.com/kiddae/dotfiles) - Files that start with a dot (they're very cool).
 - [yodiaditya/slideshare-downloader](https://github.com/yodiaditya/slideshare-downloader) - Python script to download slideshare pdf. This script able to download slide and converted into pdf automatically.
@@ -701,6 +703,7 @@
 
 ## Rust 
 
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
@@ -1053,7 +1056,7 @@
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [Bugswriter/myyt](https://github.com/Bugswriter/myyt) - Script I wrote to search youtube with command line easily.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 
@@ -1084,7 +1087,7 @@
 - [K0IN/Notify](https://github.com/K0IN/Notify) - A small Cloudflare worker / self hosted solution to send web push notifications with webhooks
 - [traverse1984/oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [platers/MAL-Map](https://github.com/platers/MAL-Map) - Cluster and visualize relationships between anime on MyAnimeList
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
