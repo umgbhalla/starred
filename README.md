@@ -452,7 +452,7 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 
@@ -1019,7 +1019,7 @@
 - [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [jayden-chan/dotfiles](https://github.com/jayden-chan/dotfiles) - Holy smokes, these are some ballin dotfiles!
 - [totoro-ghost/alacritty-conf](https://github.com/totoro-ghost/alacritty-conf) - A simple bash script to change the basic settings of alacritty.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [piroor/tweet.sh](https://github.com/piroor/tweet.sh) - Twitter client written in simple Bash script
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
