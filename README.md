@@ -323,7 +323,7 @@
 - [QAInsights/Learn-k6-Series](https://github.com/QAInsights/Learn-k6-Series) - Learn k6 Series
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
-- [aayushrathor/hospitalizationSystem](https://github.com/aayushrathor/hospitalizationSystem) - 
+- [aayushrathor/hospitalizationSystem](https://github.com/aayushrathor/hospitalizationSystem) - 🏥 Hospital Admin Management System build in NodeJs SQL and docker
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
