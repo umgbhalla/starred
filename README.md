@@ -212,7 +212,7 @@
 
 ## Fennel 
 
-- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel and Rust. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GLSL 
@@ -258,6 +258,7 @@
 
 ## HCL 
 
+- [nalbam/terraform-aws-eks](https://github.com/nalbam/terraform-aws-eks) - 
 - [darkn3rd/eks-basic](https://github.com/darkn3rd/eks-basic) - This creates a basic EKS Cluster similiar to `eksclt create cluster` command
 
 ## HTML 
