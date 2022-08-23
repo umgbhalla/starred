@@ -258,6 +258,7 @@
 
 ## HCL 
 
+- [itninja-hue/aws-production-eks](https://github.com/itninja-hue/aws-production-eks) - Terraform script for production grade eks provisioning
 - [nalbam/terraform-aws-eks](https://github.com/nalbam/terraform-aws-eks) - 
 - [darkn3rd/eks-basic](https://github.com/darkn3rd/eks-basic) - This creates a basic EKS Cluster similiar to `eksclt create cluster` command
 
@@ -468,7 +469,7 @@
 ## Mustache 
 
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Complete stack of integrated Kubernetes applications
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform for Kubernetes
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
@@ -611,6 +612,7 @@
 
 ## Python 
 
+- [Turall/FastApi-boilerplate](https://github.com/Turall/FastApi-boilerplate) - Project template for python  FastApi
 - [msr8/markify](https://github.com/msr8/markify) - Markify is an open source command line application written in python which scrapes data from your social media(s) (ie reddit, discord, and twitter for now) and generates new setences based on them usi
 - [fivexl/kubernetes-events-to-slack](https://github.com/fivexl/kubernetes-events-to-slack) - Stream K8S events to Slack
 - [aws-quickstart/quickstart-amazon-eks](https://github.com/aws-quickstart/quickstart-amazon-eks) - Amazon EKS Quick Start
@@ -961,6 +963,7 @@
 
 ## Shell 
 
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
 - [1995parham/dotfiles](https://github.com/1995parham/dotfiles) - :rocket: @1995parham Linux / OSx configurations files
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [rv178/.dotfiles](https://github.com/rv178/.dotfiles) - My Arch Linux installation's dotfiles!
