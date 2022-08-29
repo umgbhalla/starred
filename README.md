@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [waterkube/waterkube](https://github.com/waterkube/waterkube) - ☸️ Underwater Archaeology game for Kubernetes, Docker or Terminal.
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
@@ -460,6 +461,7 @@
 
 ## Makefile 
 
+- [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 - [SmartFinn/Dockerfiles](https://github.com/SmartFinn/Dockerfiles) - My collection of Dockerfiles (FlexGet, Monitorrent, ReleaseBell, Transmission, VPNBook2proxy  ...)
 
 ## Markdown 
@@ -733,7 +735,6 @@
 - [FreeCX/programming-challenges](https://github.com/FreeCX/programming-challenges) - Pro/g/ramming Challenges v1.3 in rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
-- [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go
 - [m-ou-se/auto-import](https://github.com/m-ou-se/auto-import) - Please do not use this.
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
@@ -1077,6 +1078,7 @@
 
 ## TypeScript 
 
+- [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuous K6 load tests on K8s.
