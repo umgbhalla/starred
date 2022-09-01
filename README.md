@@ -773,7 +773,7 @@
 - [milliams/plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
 - [PumpkinDB/PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) - Immutable Ordered Key-Value Database Engine
-- [arctic-hen7/perseus](https://github.com/arctic-hen7/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
+- [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust
 - [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
