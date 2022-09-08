@@ -18,6 +18,7 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
+- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -214,6 +215,10 @@
 
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+
+## Fluent 
+
+- [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
 
 ## GLSL 
 
@@ -867,7 +872,7 @@
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [rustkas/Traits-from-the-Ground-Up](https://github.com/rustkas/Traits-from-the-Ground-Up) - This is a source code which I implemented while study presentation material with is at https://media.ccc.de/v/rustcologne.2018.09.generalists-view-traits#t=24 (Traits from the Ground Up)
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [benwilber/exitcode](https://github.com/benwilber/exitcode) - Preferred system exit codes as defined by sysexits.h
