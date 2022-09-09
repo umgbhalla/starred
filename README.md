@@ -264,6 +264,7 @@
 
 ## HCL 
 
+- [doitintl/gke-ssh](https://github.com/doitintl/gke-ssh) - 
 - [itninja-hue/aws-production-eks](https://github.com/itninja-hue/aws-production-eks) - Terraform script for production grade eks provisioning
 - [nalbam/terraform-aws-eks](https://github.com/nalbam/terraform-aws-eks) - 
 - [darkn3rd/eks-basic](https://github.com/darkn3rd/eks-basic) - This creates a basic EKS Cluster similiar to `eksclt create cluster` command
@@ -323,6 +324,7 @@
 
 ## JavaScript 
 
+- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [bob-fornal/work-notes](https://github.com/bob-fornal/work-notes) - General Work Notes. These are often paper-notes, converted ... I have a lot of paper.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
