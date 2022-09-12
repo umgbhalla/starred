@@ -111,6 +111,7 @@
 - [zarc1411/dotfiles](https://github.com/zarc1411/dotfiles) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
+- [tonijarjour/autorice](https://github.com/tonijarjour/autorice) - Autorice 9001 ~ Simple and fast arch setup
 - [Federico-abss/CS50-intro-course](https://github.com/Federico-abss/CS50-intro-course) - Harvard's cs50: Introduction To CS 2020 - solutions to every pset plus final project!
 - [phillipberndt/pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -1059,7 +1060,6 @@
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
 - [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
-- [tonijarjour/autorice](https://github.com/tonijarjour/autorice) - Autorice 9001 ~ Simple and fast arch setup in minutes
 - [RoyalEagle73/dotfiles](https://github.com/RoyalEagle73/dotfiles) - 
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -1085,6 +1085,7 @@
 
 ## TypeScript 
 
+- [gregogun/xyz](https://github.com/gregogun/xyz) - 
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
