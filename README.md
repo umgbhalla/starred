@@ -553,7 +553,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [uncomfyhalomacro/waterfall](https://github.com/uncomfyhalomacro/waterfall) - a curation of all rice and configs for https://github.com/riverwm/river
 - [thomas-lowry/figma-plugins-on-github](https://github.com/thomas-lowry/figma-plugins-on-github) - A list of Figma Plugins that have been shared on Github.
-- [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
+- [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [icy/bash-coding-style](https://github.com/icy/bash-coding-style) - A Bash coding style
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [CesiumLabs/conventional-commit-messages](https://github.com/CesiumLabs/conventional-commit-messages) - See how a minor change to your commit message style can make a difference.
