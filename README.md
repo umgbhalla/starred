@@ -286,7 +286,7 @@
 - [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [ayroui/bootstrap-ui-components](https://github.com/ayroui/bootstrap-ui-components) - Bootstrap UI Components - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
-- [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the YouTube channel "julia for talented amateurs".
+- [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the "doggo dot jl" YouTube channel (fka "julia for talented amateurs").
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨 Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
@@ -326,6 +326,7 @@
 
 ## JavaScript 
 
+- [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [bob-fornal/work-notes](https://github.com/bob-fornal/work-notes) - General Work Notes. These are often paper-notes, converted ... I have a lot of paper.
