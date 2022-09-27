@@ -498,6 +498,7 @@
 
 ## Others 
 
+- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
@@ -1118,7 +1119,7 @@
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
 - [mikker/mikkelmalmberg-next](https://github.com/mikker/mikkelmalmberg-next) - 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
