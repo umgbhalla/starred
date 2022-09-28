@@ -624,6 +624,7 @@
 
 ## Python 
 
+- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [Turall/FastApi-boilerplate](https://github.com/Turall/FastApi-boilerplate) - Project template for python  FastApi
 - [msr8/markify](https://github.com/msr8/markify) - Markify is an open source command line application written in python which scrapes data from your social media(s) (ie reddit, discord, and twitter for now) and generates new setences based on them usi
@@ -1121,7 +1122,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [elianiva/umaru-chat](https://github.com/elianiva/umaru-chat) - Realtime chat app built using React and Firebase. My first fullstack app.
