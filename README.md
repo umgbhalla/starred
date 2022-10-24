@@ -173,7 +173,7 @@
 - [JavaCafe01/javacafe01.github.io](https://github.com/JavaCafe01/javacafe01.github.io) - My website
 - [channel-42/dotfiles](https://github.com/channel-42/dotfiles) - My dotfiles for my Arch-Install(s)
 - [caffeine01/arch-monochrome](https://github.com/caffeine01/arch-monochrome) - My monochromatic rice for BSPWM on arch linux
-- [galihwisnuaji99/dotfiles](https://github.com/galihwisnuaji99/dotfiles) - 🏡 Comfy home for linux user
+- [nekonako/dotfiles](https://github.com/nekonako/dotfiles) - 🏡 Comfy home for linux user
 - [TheGreatMcPain/gruvbox-material-gtk](https://github.com/TheGreatMcPain/gruvbox-material-gtk) - Gruvbox Material for GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
@@ -229,7 +229,6 @@
 
 ## Go 
 
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [coroot/coroot](https://github.com/coroot/coroot) - A monitoring and troubleshooting tool for microservice architectures.
@@ -329,6 +328,8 @@
 
 ## JavaScript 
 
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -628,6 +629,7 @@
 
 ## Python 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
@@ -731,6 +733,7 @@
 
 ## Rust 
 
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
@@ -1103,6 +1106,7 @@
 
 ## TypeScript 
 
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart and more
 - [gregogun/xyz](https://github.com/gregogun/xyz) - 
