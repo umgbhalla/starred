@@ -733,7 +733,8 @@
 
 ## Rust 
 
-- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust
+- [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
+- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - 👄 The most accurate natural language detection library for Rust, suitable for long and short text alike
