@@ -972,7 +972,6 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-- [geckolang/gecko](https://github.com/geckolang/gecko) - Strongly-typed, general purpose programming language based on Rust
 - [vandadnp/rust-tips-and-tricks](https://github.com/vandadnp/rust-tips-and-tricks) - A Collection of Rust Tips and Tricks
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
