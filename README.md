@@ -16,6 +16,7 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [GLSL](#glsl)
@@ -205,6 +206,10 @@
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
 
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
 ## Emacs Lisp 
 
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
@@ -371,7 +376,6 @@
 - [kekkorider/codrops-tutorial-ogl-image-carousel](https://github.com/kekkorider/codrops-tutorial-ogl-image-carousel) - Repository for a Codrops tutorial about the creation of an image carousel with GSAP and OGL
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [mTvare6/htBrowser](https://github.com/mTvare6/htBrowser) - A hotkey browser made for developers to have easy doc access on any screen
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [wooosh/themewiki](https://github.com/wooosh/themewiki) - 
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
@@ -598,6 +602,7 @@
 - [learn-anything/youtube](https://github.com/learn-anything/youtube) - Awesome YouTube channels
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [larryhynes/oh-my-zsh-themes](https://github.com/larryhynes/oh-my-zsh-themes) - Images to make your theme choice easier.
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [nodes-io/nodes-io](https://github.com/nodes-io/nodes-io) - A new way to create with code.
@@ -624,6 +629,7 @@
 
 ## Python 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
@@ -697,7 +703,6 @@
 - [codota/tabnine-vim](https://github.com/codota/tabnine-vim) - Vim client for TabNine. https://vimawesome.com/plugin/tabnine-vim
 - [abey79/vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [yadavnarun/optionchain_visualization](https://github.com/yadavnarun/optionchain_visualization) - 
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
@@ -728,6 +733,7 @@
 
 ## Rust 
 
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [Ogeon/rustful](https://github.com/Ogeon/rustful) - [OUTDATED] A light HTTP framework for Rust
 - [ddimaria/rust-actix-starter](https://github.com/ddimaria/rust-actix-starter) - A production-quality starter app using Actix 1.x
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
