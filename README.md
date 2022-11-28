@@ -728,6 +728,11 @@
 
 ## Rust 
 
+- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+- [hyperium/h2](https://github.com/hyperium/h2) - HTTP 2.0 client & server implementation for Rust.
+- [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
+- [jgarzik/kvapp](https://github.com/jgarzik/kvapp) - Rust microservice template.  Fork-and-go app exposing HTTP REST API to database.
+- [google/evcxr](https://github.com/google/evcxr) - 
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [Ogeon/rustful](https://github.com/Ogeon/rustful) - [OUTDATED] A light HTTP framework for Rust
