@@ -728,6 +728,8 @@
 
 ## Rust 
 
+- [argmin-rs/argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust
+- [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [hyperium/h2](https://github.com/hyperium/h2) - HTTP 2.0 client & server implementation for Rust.
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
@@ -1007,7 +1009,7 @@
 - [coursehero/slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
 - [1995parham/dotfiles](https://github.com/1995parham/dotfiles) - :rocket: @1995parham Linux / OSx configurations files
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
+- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [rv178/.dotfiles](https://github.com/rv178/.dotfiles) - My Arch Linux installation's dotfiles!
 - [Gwynsav/messydots](https://github.com/Gwynsav/messydots) - Good Luck.
