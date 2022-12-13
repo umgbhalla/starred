@@ -214,6 +214,7 @@
 
 ## Fennel 
 
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## GLSL 
@@ -432,7 +433,6 @@
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
@@ -739,6 +739,7 @@
 
 ## Rust 
 
+- [maxday/yt-lambda-rust](https://github.com/maxday/yt-lambda-rust) - 
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
