@@ -739,6 +739,7 @@
 
 ## Rust 
 
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [maxday/yt-lambda-rust](https://github.com/maxday/yt-lambda-rust) - 
 - [Xudong-Huang/may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
