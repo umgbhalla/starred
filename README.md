@@ -659,7 +659,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [Tempest20/sorti-py](https://github.com/Tempest20/sorti-py) - 
+- [Tempest20/sorti-py](https://github.com/Tempest20/sorti-py) - File manager sorting tool written in Python
 - [FlynnOwen/Python-utils](https://github.com/FlynnOwen/Python-utils) - A folder to be used for working through intermediate / advanced Python concepts.
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
