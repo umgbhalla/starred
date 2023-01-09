@@ -286,7 +286,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A web-based PDF Editor tool
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) - Hugo Shell theme : Terminal-like theme with selectable color schemes.
@@ -351,6 +350,7 @@
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
 - [aayushrathor/hospitalizationSystem](https://github.com/aayushrathor/hospitalizationSystem) - 🏥 Hospital Admin Management System build in NodeJs SQL and docker
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -757,6 +757,8 @@
 
 ## Rust 
 
+- [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
 - [second-state/microservice-rust-mysql](https://github.com/second-state/microservice-rust-mysql) - A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
