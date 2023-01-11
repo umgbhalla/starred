@@ -283,7 +283,7 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [dipankardas011/PDF-Editor](https://github.com/dipankardas011/PDF-Editor) - A web-based PDF Editor tool
@@ -1159,7 +1159,7 @@
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [boylemic/configs](https://github.com/boylemic/configs) - Configs
 - [VaughnValle/kofuku](https://github.com/VaughnValle/kofuku) - A Japanese/Nature Inspired Artix Rice
-- [zodd18/dotfiles](https://github.com/zodd18/dotfiles) - My bspwm dotfiles. Grab whatever you need! :)
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [RoyalEagle73/dotfiles](https://github.com/RoyalEagle73/dotfiles) - 
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
