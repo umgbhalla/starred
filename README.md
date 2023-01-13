@@ -514,6 +514,7 @@
 
 ## Others 
 
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
@@ -644,6 +645,7 @@
 
 ## Python 
 
+- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [Kav-K/GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. Chat just like ChatGPT right inside Discord! Generate beautiful AI art using DALL-E 2! Automatically moderate your server using AI!
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
@@ -655,7 +657,6 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [Turall/FastApi-boilerplate](https://github.com/Turall/FastApi-boilerplate) - Project template for python  FastApi
 - [msr8/markify](https://github.com/msr8/markify) - Markify is an open source command line application written in python which scrapes data from your social media(s) (ie reddit, discord, and twitter for now) and generates new setences based on them usi
@@ -757,6 +758,11 @@
 
 ## Rust 
 
+- [eliovir/rust-examples](https://github.com/eliovir/rust-examples) - Examples from tutorial and other documentations of Rust.
+- [move-language/move](https://github.com/move-language/move) - 
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Render your crate's module/item structure as a tree or graph
+- [MoonZoon/MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
@@ -1185,6 +1191,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [arn4v/arnavgosain.com](https://github.com/arn4v/arnavgosain.com) - ⌘
