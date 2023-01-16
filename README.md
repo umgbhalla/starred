@@ -294,7 +294,6 @@
 - [ECE-webdev-Bootcamp/techtronics](https://github.com/ECE-webdev-Bootcamp/techtronics) - A website to be designed especially for ECE students of IIITB, to get in touch with proper study material resource in a smoother way.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [consoledotdev/home](https://github.com/consoledotdev/home) - The Console website.
-- [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [ayroui/bootstrap-ui-components](https://github.com/ayroui/bootstrap-ui-components) - Bootstrap UI Components - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
 - [julia4ta/tutorials](https://github.com/julia4ta/tutorials) - This is the official repository for the "doggo dot jl" YouTube channel (fka "julia for talented amateurs").
@@ -758,6 +757,8 @@
 
 ## Rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
+- [sparshg/asteroids-genetic](https://github.com/sparshg/asteroids-genetic) - Interactive AI training simuation
 - [eliovir/rust-examples](https://github.com/eliovir/rust-examples) - Examples from tutorial and other documentations of Rust.
 - [move-language/move](https://github.com/move-language/move) - 
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Render your crate's module/item structure as a tree or graph
