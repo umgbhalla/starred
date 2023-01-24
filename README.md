@@ -647,6 +647,7 @@
 
 ## Python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [salian/pipi-gherkin-firmware](https://github.com/salian/pipi-gherkin-firmware) - Firmware for the PiPi Gherkin
 - [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
@@ -1197,7 +1198,7 @@
 
 ## TypeScript 
 
-- [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A Static Website Using Notion Database
+- [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A Static Blog Using Notion Database
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
