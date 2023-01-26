@@ -638,7 +638,6 @@
 
 ## Perl 
 
-- [bcrowell/when](https://github.com/bcrowell/when) - an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 
 ## PowerShell 
@@ -1077,7 +1076,7 @@
 
 ## SCSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 
 ## Shell 
