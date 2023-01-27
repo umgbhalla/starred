@@ -515,6 +515,8 @@
 
 ## Others 
 
+- [beekeeb/piantor](https://github.com/beekeeb/piantor) - The Piantor Keyboard is a beginner-friendly, easy-to-solder, 42-key or 36-key, diodeless, low profile aggressive column staggered, hotswappable and non-hotswappable, programmable ergonomic mechanical 
+- [TweetyDaBird/Lotus58](https://github.com/TweetyDaBird/Lotus58) - A 58 key split ergo linear keyboard derived from the Lily58 family
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [ai03-2725/Contra](https://github.com/ai03-2725/Contra) - Contra - Lowest cost ortholinear keyboard kit possible
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -647,6 +649,7 @@
 
 ## Python 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [salian/pipi-gherkin-firmware](https://github.com/salian/pipi-gherkin-firmware) - Firmware for the PiPi Gherkin
 - [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
@@ -762,6 +765,7 @@
 
 ## Rust 
 
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [sparshg/asteroids-genetic](https://github.com/sparshg/asteroids-genetic) - Interactive AI training simuation
 - [eliovir/rust-examples](https://github.com/eliovir/rust-examples) - Examples from tutorial and other documentations of Rust.
