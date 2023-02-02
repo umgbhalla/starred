@@ -163,6 +163,7 @@
 
 - [AmadeusWM/dotfiles-hyprland](https://github.com/AmadeusWM/dotfiles-hyprland) - 
 - [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [abhijith0505/GoChat](https://github.com/abhijith0505/GoChat) - Command Line Chatting utility
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - My personal website showcasing my experiences, projects and skillsets.
@@ -195,6 +196,7 @@
 
 ## Common Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [mattmundell/nightshade](https://github.com/mattmundell/nightshade) - Lisp environment with Emacs-like editor
 - [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - mostly practical and reasonably fast 2-4d vector and matrix operations with some broadcasting.
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
@@ -352,7 +354,6 @@
 - [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB
 - [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with
 - [aayushrathor/hospitalizationSystem](https://github.com/aayushrathor/hospitalizationSystem) - 🏥 Hospital Admin Management System build in NodeJs SQL and docker
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [jareer12/Discord-Bot-Dashboard](https://github.com/jareer12/Discord-Bot-Dashboard) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -510,7 +511,6 @@
 - [thomascft/dotfiles](https://github.com/thomascft/dotfiles) - 
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
 
@@ -662,7 +662,7 @@
 - [Grokzen/redis-py-cluster](https://github.com/Grokzen/redis-py-cluster) - Python cluster client for the official redis cluster. Redis 3.0+.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
