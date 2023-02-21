@@ -520,6 +520,8 @@
 
 ## Others 
 
+- [GroooveBob/DASBOB](https://github.com/GroooveBob/DASBOB) - 36 Key Diodeless Split Choc Keyboard
+- [weteor/3W6](https://github.com/weteor/3W6) - a small compact 3x5+3 split ortho keyboard
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [Pelicram/Pehmis-Sofle-Case](https://github.com/Pelicram/Pehmis-Sofle-Case) - A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 - [beekeeb/piantor](https://github.com/beekeeb/piantor) - The Piantor Keyboard is a beginner-friendly, easy-to-solder, 42-key or 36-key, diodeless, low profile aggressive column staggered, hotswappable and non-hotswappable, programmable ergonomic mechanical 
