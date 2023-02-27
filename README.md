@@ -408,7 +408,6 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
 - [flow-typed/flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
@@ -425,6 +424,7 @@
 
 ## Jupyter Notebook 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
@@ -521,6 +521,8 @@
 
 ## Others 
 
+- [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
+- [nilokr/cantor-remix](https://github.com/nilokr/cantor-remix) - Cantor keyboard by diepala with minor changes
 - [GroooveBob/DASBOB](https://github.com/GroooveBob/DASBOB) - 36 Key Diodeless Split Choc Keyboard
 - [weteor/3W6](https://github.com/weteor/3W6) - a small compact 3x5+3 split ortho keyboard
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
@@ -637,7 +639,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [nodes-io/nodes-io](https://github.com/nodes-io/nodes-io) - A new way to create with code.
 - [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There's no place like ~/
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [undiabler/nord-rofi-theme](https://github.com/undiabler/nord-rofi-theme) - An arctic, north-bluish clean and elegant rofi color theme.
@@ -659,9 +661,10 @@
 
 ## Python 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
@@ -782,6 +785,9 @@
 
 ## Rust 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Release rust packages without using the command line.
 - [colin-kiegel/rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - derive builder implementation for rust structs
 - [tandasat/Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust) - The materials of "Hypervisor 101 in Rust", a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors.
@@ -1274,6 +1280,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 
