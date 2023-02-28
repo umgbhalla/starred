@@ -198,7 +198,6 @@
 
 ## Common Lisp 
 
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [mattmundell/nightshade](https://github.com/mattmundell/nightshade) - Lisp environment with Emacs-like editor
 - [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - mostly practical and reasonably fast 2-4d vector and matrix operations with some broadcasting.
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
@@ -514,6 +513,7 @@
 
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
 
