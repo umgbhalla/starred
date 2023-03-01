@@ -31,7 +31,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Latte](#latte)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -198,6 +197,7 @@
 
 ## Common Lisp 
 
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [mattmundell/nightshade](https://github.com/mattmundell/nightshade) - Lisp environment with Emacs-like editor
 - [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - mostly practical and reasonably fast 2-4d vector and matrix operations with some broadcasting.
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
@@ -437,10 +437,6 @@
 
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
-## Latte 
-
-- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
-
 ## Lua 
 
 - [thomascft/dotfiles](https://github.com/thomascft/dotfiles) - 
@@ -513,7 +509,6 @@
 
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
 
@@ -937,7 +932,7 @@
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin.
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
@@ -1152,6 +1147,7 @@
 - [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [hxyro/rcli](https://github.com/hxyro/rcli) - CLI image Browser for Reddit Api
+- [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
