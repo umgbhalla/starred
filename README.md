@@ -38,6 +38,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -516,6 +517,11 @@
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
+## OpenSCAD 
+
+- [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
+- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
+
 ## Others 
 
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
@@ -783,6 +789,7 @@
 
 ## Rust 
 
+- [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [jeertmans/languagetool-rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
