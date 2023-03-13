@@ -72,6 +72,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - cli snake game that plays itself
@@ -344,6 +345,7 @@
 
 ## JavaScript 
 
+- [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based editor of ZMK keymaps.
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
@@ -519,11 +521,14 @@
 
 ## OpenSCAD 
 
+- [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
 - [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## Others 
 
+- [weteor/pcbsvgs](https://github.com/weteor/pcbsvgs) - open source keyboard pcb data converted to high res svgs
+- [weteor/LuttUnLutt](https://github.com/weteor/LuttUnLutt) - Lütt Un Lütt is a small 3x5+2 split ortho keyboard with encoder
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [nilokr/cantor-remix](https://github.com/nilokr/cantor-remix) - Cantor keyboard by diepala with minor changes
 - [GroooveBob/DASBOB](https://github.com/GroooveBob/DASBOB) - 36 Key Diodeless Split Choc Keyboard
@@ -664,6 +669,9 @@
 
 ## Python 
 
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize your keymap using hold-taps and combos quickly, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
@@ -790,6 +798,8 @@
 
 ## Rust 
 
+- [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙
+- [valentinegb/openai](https://github.com/valentinegb/openai) - An unofficial Rust library for the OpenAI API.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [jeertmans/languagetool-rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
@@ -1244,7 +1254,7 @@
 
 ## TypeScript 
 
-- [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A Static Blog Using Notion Database
+- [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A static blog using notion database
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
