@@ -960,7 +960,7 @@
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily parse command line arguments in bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create a feature-rich command-line application in Bash.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
@@ -975,7 +975,7 @@
 - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) - use zig code in rust - a medium effort shitpost
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
-- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artefacts from your projects.
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [hxyro/oi](https://github.com/hxyro/oi) - trivia on the command line
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
