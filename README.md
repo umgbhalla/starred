@@ -431,7 +431,7 @@
 
 ## Jupyter Notebook 
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
@@ -506,6 +506,7 @@
 
 ## Mustache 
 
+- [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -968,7 +970,7 @@
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create a feature-rich command-line application in Bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - An elegant command-line options, arguments and sub-commands parser for bash.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
@@ -1143,7 +1145,6 @@
 
 ## Shell 
 
-- [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [peej/lumberjack-keyboard](https://github.com/peej/lumberjack-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
 - [rothgar/bashScheduler](https://github.com/rothgar/bashScheduler) - Kubernetes scheduler written in less than 100 lines of bash :grimacing: :laughing:
