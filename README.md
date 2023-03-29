@@ -348,6 +348,7 @@
 
 ## JavaScript 
 
+- [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean and customizable browser start page for geeks. Has built-in editor for customizing.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based editor of ZMK keymaps.
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper) - A Rust data structure library built on state machines.
@@ -1146,6 +1147,7 @@
 
 ## Shell 
 
+- [yugabyte/gcp-deployment-manager](https://github.com/yugabyte/gcp-deployment-manager) - Google Cloud Deployment Manager scripts to deploy a multi-node YugabyteDB cluster
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [peej/lumberjack-keyboard](https://github.com/peej/lumberjack-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
