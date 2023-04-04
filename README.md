@@ -351,6 +351,7 @@
 
 ## JavaScript 
 
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean and customizable browser start page for geeks. Has built-in editor for customizing.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based editor of ZMK keymaps.
@@ -510,7 +511,7 @@
 
 ## Mustache 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
@@ -535,6 +536,7 @@
 
 ## Others 
 
+- [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [edd/zmk-config](https://github.com/edd/zmk-config) - ZMK firmware for nice!nanos in a Sofle
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [weteor/pcbsvgs](https://github.com/weteor/pcbsvgs) - open source keyboard pcb data converted to high res svgs
@@ -679,6 +681,9 @@
 
 ## Python 
 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -814,6 +819,7 @@
 
 ## Rust 
 
+- [metalbear-co/farm-operator](https://github.com/metalbear-co/farm-operator) - 
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [alexpusch/rust-magic-function-params](https://github.com/alexpusch/rust-magic-function-params) - Example for Axum style magic function parameter passing
@@ -1283,6 +1289,7 @@
 
 ## TypeScript 
 
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A static blog using notion database 😎
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
