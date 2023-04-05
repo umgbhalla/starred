@@ -351,7 +351,6 @@
 
 ## JavaScript 
 
-- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean and customizable browser start page for geeks. Has built-in editor for customizing.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based editor of ZMK keymaps.
@@ -495,7 +494,7 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [RishabhRD/archrice](https://github.com/RishabhRD/archrice) - Repository containing my arch ricing
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 
@@ -536,6 +535,7 @@
 
 ## Others 
 
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [edd/zmk-config](https://github.com/edd/zmk-config) - ZMK firmware for nice!nanos in a Sofle
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -819,6 +819,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [metalbear-co/farm-operator](https://github.com/metalbear-co/farm-operator) - 
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
@@ -1290,6 +1291,7 @@
 ## TypeScript 
 
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A static blog using notion database 😎
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
