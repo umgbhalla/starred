@@ -264,7 +264,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [jensoncs/go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero) - Golang Learning doc + programs
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Pretty simple and lightweight http server for serving local files.
+- [snwfdhmp/simplehttp](https://github.com/snwfdhmp/simplehttp) - Simple and lightweight http server for local files
 - [yory8/clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
@@ -535,6 +535,7 @@
 
 ## Others 
 
+- [zzeneg/pica40](https://github.com/zzeneg/pica40) - Split wired/wireless keyboard with 40 keys
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators.
 - [edd/zmk-config](https://github.com/edd/zmk-config) - ZMK firmware for nice!nanos in a Sofle
@@ -687,7 +688,7 @@
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
@@ -697,7 +698,7 @@
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
@@ -828,7 +829,7 @@
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.
 - [faradayio/falconeri](https://github.com/faradayio/falconeri) - Transform lots of data using a Kubernetes cluster
-- [spacedimp/rust-blog-example](https://github.com/spacedimp/rust-blog-example) - 
+- [spacedimp/rust-blog-example](https://github.com/spacedimp/rust-blog-example) - A simple example of building a blog using Rust, Axum, Tokio, and PostgreSQL.
 - [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙
 - [valentinegb/openai](https://github.com/valentinegb/openai) - An unofficial Rust library for the OpenAI API.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
