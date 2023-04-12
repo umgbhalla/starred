@@ -295,6 +295,7 @@
 
 ## HTML 
 
+- [snsten/Klein](https://github.com/snsten/Klein) - Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
@@ -537,6 +538,7 @@
 
 ## Others 
 
+- [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - ZMK Firmware for Klein keyboard
 - [infused-kim/zmk-config-sofle](https://github.com/infused-kim/zmk-config-sofle) - A zmk config optimized for the sofle keyboard
 - [zzeneg/pica40](https://github.com/zzeneg/pica40) - Split wired/wireless keyboard with 40 keys
 - [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
