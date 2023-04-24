@@ -838,6 +838,8 @@
 
 ## Rust 
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [reu/touche](https://github.com/reu/touche) - Synchronous HTTP library for Rust
@@ -923,7 +925,7 @@
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
-- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for RESEARCH PURPOSES
+- [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
