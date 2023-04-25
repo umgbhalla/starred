@@ -731,6 +731,7 @@
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [Grokzen/redis-py-cluster](https://github.com/Grokzen/redis-py-cluster) - Python cluster client for the official redis cluster. Redis 3.0+.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -753,7 +754,7 @@
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [NiklasTiede/Github-Trending-API](https://github.com/NiklasTiede/Github-Trending-API) - 📈 This API provides Data about Trending Repositories and Developers on Github.
 - [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web framework with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -838,6 +839,7 @@
 
 ## Rust 
 
+- [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
@@ -898,7 +900,6 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
-- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt) - a collection of well-tested, serializable CRDTs for Rust
