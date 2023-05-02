@@ -694,6 +694,7 @@
 
 ## Python 
 
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - 
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain apps automagically with FastApi
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -856,7 +857,7 @@
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [alexpusch/rust-magic-function-params](https://github.com/alexpusch/rust-magic-function-params) - Example for Axum style magic function parameter passing
-- [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [typst/comemo](https://github.com/typst/comemo) - Incremental computation through constrained memoization.
 - [readysettech/readyset](https://github.com/readysettech/readyset) - ReadySet is a lightweight SQL cache that enhances the performance and scalability of your DB without any code changes.
 - [faradayio/falconeri](https://github.com/faradayio/falconeri) - Transform lots of data using a Kubernetes cluster
