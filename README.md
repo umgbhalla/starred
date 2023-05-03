@@ -341,7 +341,6 @@
 
 ## Haskell 
 
-- [jwshi21/cis1940-spring23](https://github.com/jwshi21/cis1940-spring23) - 
 - [Alonely0/dotfiles-2.0](https://github.com/Alonely0/dotfiles-2.0) - My dotfiles but better
 
 ## Java 
@@ -694,7 +693,7 @@
 
 ## Python 
 
-- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - 
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain apps automagically with FastApi
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
