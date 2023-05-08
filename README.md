@@ -18,6 +18,7 @@
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [GLSL](#glsl)
@@ -79,6 +80,7 @@
 
 ## C 
 
+- [enzocoralc/Tiny20](https://github.com/enzocoralc/Tiny20) - Small and compact 20-keys keyboard
 - [manna-harbour/miryoku_zmk](https://github.com/manna-harbour/miryoku_zmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.
 - [Galzai/MK32](https://github.com/Galzai/MK32) - Keyboard firmware for ESP32 microcontrollers
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -224,6 +226,10 @@
 
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
+
+## Elixir 
+
+- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ## Emacs Lisp 
 
@@ -406,7 +412,7 @@
 - [Mezzky/web-dev-tools](https://github.com/Mezzky/web-dev-tools) - Website yang menyediakan tools untuk Web Developer
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [space-voyager-21/space-voyager](https://github.com/space-voyager-21/space-voyager) - Interactive Space App . Attention Contributers! join discord server for discussion of Issues, Pull requests https://discord.gg/FpEK9AqbCf
 - [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
 - [intern0t/blog-v2](https://github.com/intern0t/blog-v2) - Redesigning my already minimal Jekyll theme to a more minimal theme. :smile:
@@ -548,6 +554,7 @@
 
 ## Others 
 
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tamago324/nowt36lp](https://github.com/tamago324/nowt36lp) - 
@@ -733,7 +740,7 @@
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [salian/pipi-gherkin-firmware](https://github.com/salian/pipi-gherkin-firmware) - Firmware for the PiPi Gherkin
 - [blueswen/fastapi-observability](https://github.com/blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
@@ -851,6 +858,7 @@
 
 ## Rust 
 
+- [julianbuettner/swapvec](https://github.com/julianbuettner/swapvec) - A Rust Vector which swaps to disk based on given parameters
 - [hiro-codes/thebook](https://github.com/hiro-codes/thebook) - Search and read 'The Rust Book' from the terminal
 - [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
@@ -940,7 +948,7 @@
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [security-union/zoom-rs](https://github.com/security-union/zoom-rs) - zoom clone written in rust for research purposes
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. You can use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only S
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
