@@ -20,6 +20,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [Fennel](#fennel)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -154,7 +155,7 @@
 - [coder137/build_in_cpp](https://github.com/coder137/build_in_cpp) - Build C, C++ and ASM files in C++
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
 - [swharden/code-notes](https://github.com/swharden/code-notes) - notes and reusable code for various programming languages
@@ -175,7 +176,7 @@
 
 ## CSS 
 
-- [mrrfv/linux-android-backup](https://github.com/mrrfv/linux-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
+- [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [AmadeusWM/dotfiles-hyprland](https://github.com/AmadeusWM/dotfiles-hyprland) - 
 - [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
@@ -236,6 +237,10 @@
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## Fennel 
 
@@ -554,6 +559,9 @@
 
 ## Others 
 
+- [ergohaven/su120-keyboard](https://github.com/ergohaven/su120-keyboard) - Expandable keyboard with up to 120 keys
+- [Apsu/aptmak](https://github.com/Apsu/aptmak) - The aptmak keyboard layout
+- [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -708,6 +716,8 @@
 
 ## Python 
 
+- [elenacliu/pytorch_cuda_driver_compatibilities](https://github.com/elenacliu/pytorch_cuda_driver_compatibilities) - Quick check of compatible versions of PyTorch, Python, CUDA, cuDNN, NVIDIA driver! 实现 PyTorch, Python, CUDA, cuDNN, NVIDIA driver 兼容版本速查！
+- [rajtilakjee/langchain-cli](https://github.com/rajtilakjee/langchain-cli) - CLI for LangChain.
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain apps automagically with FastApi
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
