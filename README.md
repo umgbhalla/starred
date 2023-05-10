@@ -81,6 +81,7 @@
 
 ## C 
 
+- [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [enzocoralc/Tiny20](https://github.com/enzocoralc/Tiny20) - Small and compact 20-keys keyboard
 - [manna-harbour/miryoku_zmk](https://github.com/manna-harbour/miryoku_zmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.
 - [Galzai/MK32](https://github.com/Galzai/MK32) - Keyboard firmware for ESP32 microcontrollers
@@ -559,6 +560,7 @@
 
 ## Others 
 
+- [jcmkk3/trochilidae](https://github.com/jcmkk3/trochilidae) - A from-scratch recreation of the Hummingbird keyboard using ergogen
 - [ergohaven/su120-keyboard](https://github.com/ergohaven/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [Apsu/aptmak](https://github.com/Apsu/aptmak) - The aptmak keyboard layout
 - [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
@@ -716,6 +718,8 @@
 
 ## Python 
 
+- [Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural :brain: forecasting algorithms.
+- [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [elenacliu/pytorch_cuda_driver_compatibilities](https://github.com/elenacliu/pytorch_cuda_driver_compatibilities) - Quick check of compatible versions of PyTorch, Python, CUDA, cuDNN, NVIDIA driver! 实现 PyTorch, Python, CUDA, cuDNN, NVIDIA driver 兼容版本速查！
 - [rajtilakjee/langchain-cli](https://github.com/rajtilakjee/langchain-cli) - CLI for LangChain.
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
@@ -868,6 +872,8 @@
 
 ## Rust 
 
+- [daboross/fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust
+- [softprops/envy](https://github.com/softprops/envy) - deserialize env vars into typesafe structs with rust
 - [julianbuettner/swapvec](https://github.com/julianbuettner/swapvec) - A Rust Vector which swaps to disk based on given parameters
 - [hiro-codes/thebook](https://github.com/hiro-codes/thebook) - Search and read 'The Rust Book' from the terminal
 - [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
@@ -1347,6 +1353,7 @@
 
 ## TypeScript 
 
+- [vendetta-mod/Vendetta](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
