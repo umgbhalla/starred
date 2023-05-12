@@ -498,6 +498,7 @@
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
+- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repo
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -806,7 +807,6 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 - [marticliment/win32mica](https://github.com/marticliment/win32mica) - Win32mica: a simple module to add the Mica effect on legacy python windows.
-- [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [serycjon/vpype-flow-imager](https://github.com/serycjon/vpype-flow-imager) - vpype plug-in to convert images to flow field line art.
 - [Kungger-git/moviesdl](https://github.com/Kungger-git/moviesdl) - CLI tool that scrapes yts.mx, and Downloads Movie Torrents.
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -1234,6 +1234,7 @@
 
 ## Shell 
 
+- [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
 - [yugabyte/gcp-deployment-manager](https://github.com/yugabyte/gcp-deployment-manager) - Google Cloud Deployment Manager scripts to deploy a multi-node YugabyteDB cluster
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
