@@ -552,6 +552,7 @@
 
 ## OpenSCAD 
 
+- [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) - Parametric Key Caps
 - [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
@@ -722,7 +723,6 @@
 - [Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural :brain: forecasting algorithms.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [elenacliu/pytorch_cuda_driver_compatibilities](https://github.com/elenacliu/pytorch_cuda_driver_compatibilities) - Quick check of compatible versions of PyTorch, Python, CUDA, cuDNN, NVIDIA driver! 实现 PyTorch, Python, CUDA, cuDNN, NVIDIA driver 兼容版本速查！
-- [rajtilakjee/langchain-cli](https://github.com/rajtilakjee/langchain-cli) - CLI for LangChain.
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
 - [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain apps automagically with FastApi
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
