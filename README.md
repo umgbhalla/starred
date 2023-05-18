@@ -21,6 +21,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fennel](#fennel)
+- [G-code](#g-code)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -244,6 +245,10 @@
 
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+
+## G-code 
+
+- [AlaaSaadAbdo/battoota](https://github.com/AlaaSaadAbdo/battoota) - Keyboards
 
 ## GLSL 
 
@@ -561,6 +566,7 @@
 
 ## Others 
 
+- [jdart/chortyl](https://github.com/jdart/chortyl) - 
 - [jcmkk3/trochilidae](https://github.com/jcmkk3/trochilidae) - A from-scratch recreation of the Hummingbird keyboard using ergogen
 - [ergohaven/su120-keyboard](https://github.com/ergohaven/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [Apsu/aptmak](https://github.com/Apsu/aptmak) - The aptmak keyboard layout
