@@ -7,6 +7,7 @@
 
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
@@ -71,12 +72,17 @@
 - [slowy07/asmSourceCode](https://github.com/slowy07/asmSourceCode) - my task with assembly
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## AutoHotkey 
 
 - [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout
 
 ## C 
 
+- [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
 - [enzocoralc/Tiny20](https://github.com/enzocoralc/Tiny20) - Small and compact 20-keys keyboard
@@ -566,6 +572,7 @@
 
 ## Others 
 
+- [hazels-garage/bad-wings](https://github.com/hazels-garage/bad-wings) - Bad Wings
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
 - [jcmkk3/trochilidae](https://github.com/jcmkk3/trochilidae) - A from-scratch recreation of the Hummingbird keyboard using ergogen
 - [ergohaven/su120-keyboard](https://github.com/ergohaven/su120-keyboard) - Expandable keyboard with up to 120 keys
@@ -1408,7 +1415,6 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [elianiva/umaru-chat](https://github.com/elianiva/umaru-chat) - Realtime chat app built using React and Firebase. My first fullstack app.
