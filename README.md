@@ -567,6 +567,7 @@
 
 ## Others 
 
+- [Germain-Gadel/faw36](https://github.com/Germain-Gadel/faw36) - split keyboard powered by ZMK
 - [hazels-garage/bad-wings](https://github.com/hazels-garage/bad-wings) - Bad Wings
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
 - [jcmkk3/trochilidae](https://github.com/jcmkk3/trochilidae) - A from-scratch recreation of the Hummingbird keyboard using ergogen
