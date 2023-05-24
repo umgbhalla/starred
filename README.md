@@ -55,6 +55,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -567,6 +568,7 @@
 
 ## Others 
 
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [Germain-Gadel/faw36](https://github.com/Germain-Gadel/faw36) - split keyboard powered by ZMK
 - [hazels-garage/bad-wings](https://github.com/hazels-garage/bad-wings) - Bad Wings
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
@@ -728,6 +730,8 @@
 
 ## Python 
 
+- [steamship-packages/langchain-agent-production-starter](https://github.com/steamship-packages/langchain-agent-production-starter) - Deploy LangChain Agents and connect them to Telegram
+- [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [pudae/kaggle-understanding-clouds](https://github.com/pudae/kaggle-understanding-clouds) - Code for 1st place solution in Understanding Clouds from Satellite Images Challenge.
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural :brain: forecasting algorithms.
@@ -757,7 +761,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize your keymap using hold-taps and combos quickly, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An AI Logic Server that helps developers ship and serve #AI apps in production
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1356,6 +1360,10 @@
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+
+## Svelte 
+
+- [semicognitive/sveltekit-modal-ocr](https://github.com/semicognitive/sveltekit-modal-ocr) - 
 
 ## TeX 
 
