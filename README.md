@@ -568,6 +568,8 @@
 
 ## Others 
 
+- [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
+- [yangit/flactyl](https://github.com/yangit/flactyl) - Flactyl keyboard
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [Germain-Gadel/faw36](https://github.com/Germain-Gadel/faw36) - split keyboard powered by ZMK
 - [hazels-garage/bad-wings](https://github.com/hazels-garage/bad-wings) - Bad Wings
@@ -761,7 +763,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize your keymap using hold-taps and combos quickly, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An AI Logic Server that helps developers ship and serve #AI apps in production
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
