@@ -374,6 +374,7 @@
 
 ## JavaScript 
 
+- [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
 - [villuminati/GPTIceBreakerBot](https://github.com/villuminati/GPTIceBreakerBot) - 
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -487,7 +488,7 @@
 - [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
 - [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -541,7 +542,7 @@
 
 ## Mustache 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Kubernetes based PaaS
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
@@ -569,6 +570,7 @@
 
 ## Others 
 
+- [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
 - [yangit/flactyl](https://github.com/yangit/flactyl) - Flactyl keyboard
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -752,7 +754,7 @@
 - [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - A Jupyter server based on FastAPI :rocket:
 - [haxsaw/hikaru](https://github.com/haxsaw/hikaru) - Move smoothly between Kubernetes YAML and Python for creating/updating/componentizing configurations.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -1377,6 +1379,7 @@
 
 ## TypeScript 
 
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [vendetta-mod/Vendetta](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
 - [lagonapp/lagon](https://github.com/lagonapp/lagon) - Deploy Serverless Functions at the Edge. Current status: Alpha
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1468,7 +1471,7 @@
 
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
