@@ -890,6 +890,7 @@
 
 ## Rust 
 
+- [gorgarp/ChatGPT-Code-Review](https://github.com/gorgarp/ChatGPT-Code-Review) - ChatGPT-Code-Review is a Rust application that uses the OpenAI GPT-3.5 language model to review code. It accepts a local path to a folder containing code, and generates a review for each file in the f
 - [hiro-codes/amongrust](https://github.com/hiro-codes/amongrust) - Reveal the imposters hiding in your sus code
 - [security-union/code-muse-rs](https://github.com/security-union/code-muse-rs) - generate apps using prompt engineering and the OpenAI API
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
@@ -1440,7 +1441,7 @@
 
 ## V 
 
-- [tobealive/bartender](https://github.com/tobealive/bartender) - Customizable bars for V term apps.
+- [tobealive/bartender](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## Vim Script 
 
