@@ -78,6 +78,7 @@
 
 ## C 
 
+- [manna-harbour/miryoku_kmk](https://github.com/manna-harbour/miryoku_kmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMK is the Miryoku implementation for KMK.
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [getreuer/qmk-keymap](https://github.com/getreuer/qmk-keymap) - My keymap & reusable QMK gems
@@ -462,6 +463,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -537,6 +539,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -552,7 +555,7 @@
 ## Nix 
 
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## OCaml 
@@ -735,6 +738,7 @@
 
 ## Python 
 
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [steamship-packages/langchain-agent-production-starter](https://github.com/steamship-packages/langchain-agent-production-starter) - Deploy LangChain Agents and connect them to Telegram
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [pudae/kaggle-understanding-clouds](https://github.com/pudae/kaggle-understanding-clouds) - Code for 1st place solution in Understanding Clouds from Satellite Images Challenge.
@@ -1369,6 +1373,7 @@
 
 ## Svelte 
 
+- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🌟 GitHub & GitLab notifications on your desktop
 - [semicognitive/sveltekit-modal-ocr](https://github.com/semicognitive/sveltekit-modal-ocr) - 
 
 ## TeX 
