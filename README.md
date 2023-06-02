@@ -566,6 +566,7 @@
 
 ## OpenSCAD 
 
+- [yangit/flactyl](https://github.com/yangit/flactyl) - Flactyl keyboard
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) - Parametric Key Caps
 - [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
@@ -576,7 +577,6 @@
 
 - [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
-- [yangit/flactyl](https://github.com/yangit/flactyl) - Flactyl keyboard
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [Germain-Gadel/faw36](https://github.com/Germain-Gadel/faw36) - split keyboard powered by ZMK
 - [hazels-garage/bad-wings](https://github.com/hazels-garage/bad-wings) - Bad Wings
