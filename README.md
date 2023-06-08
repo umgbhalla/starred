@@ -897,6 +897,7 @@
 
 ## Rust 
 
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [WaffleLapkin/kiam](https://github.com/WaffleLapkin/kiam) - Better syntax for if/else chains
 - [risoflora/wethr](https://github.com/risoflora/wethr) - 🌤️ Command line weather tool.
 - [gorgarp/ChatGPT-Code-Review](https://github.com/gorgarp/ChatGPT-Code-Review) - ChatGPT-Code-Review is a Rust application that uses the OpenAI GPT-3.5 language model to review code. It accepts a local path to a folder containing code, and generates a review for each file in the f
@@ -908,7 +909,7 @@
 - [julianbuettner/swapvec](https://github.com/julianbuettner/swapvec) - A Rust Vector which swaps to disk based on given parameters
 - [hiro-codes/thebook](https://github.com/hiro-codes/thebook) - Search and read 'The Rust Book' from the terminal
 - [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
