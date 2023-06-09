@@ -754,7 +754,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [VerosK/kubernetes-kopf-demo](https://github.com/VerosK/kubernetes-kopf-demo) - Pycon.sk 2022 Kopf demo
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
-- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A programming language for large language models.
 - [robin900/gspread-dataframe](https://github.com/robin900/gspread-dataframe) - Read/write Google spreadsheets using pandas DataFrames
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
