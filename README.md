@@ -237,7 +237,6 @@
 
 ## Emacs Lisp 
 
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -507,6 +506,7 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repo
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
@@ -587,7 +587,7 @@
 - [ergohaven/su120-keyboard](https://github.com/ergohaven/su120-keyboard) - Expandable keyboard with up to 120 keys
 - [Apsu/aptmak](https://github.com/Apsu/aptmak) - The aptmak keyboard layout
 - [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tamago324/nowt36lp](https://github.com/tamago324/nowt36lp) - 
@@ -741,6 +741,7 @@
 
 ## Python 
 
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [Safiullah-Rahu/CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and anal
@@ -1269,6 +1270,7 @@
 
 ## Shell 
 
+- [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems the
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
 - [yugabyte/gcp-deployment-manager](https://github.com/yugabyte/gcp-deployment-manager) - Google Cloud Deployment Manager scripts to deploy a multi-node YugabyteDB cluster
@@ -1449,6 +1451,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [franksinankaya/bash2cpp](https://github.com/franksinankaya/bash2cpp) - Converts bash script to C++ code. Useful for simple shell scripts that can be converted to C++ for speed.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [elianiva/umaru-chat](https://github.com/elianiva/umaru-chat) - Realtime chat app built using React and Firebase. My first fullstack app.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
