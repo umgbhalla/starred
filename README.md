@@ -8,6 +8,7 @@
 - [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -75,6 +76,10 @@
 ## AutoHotkey 
 
 - [Apsu/Canary](https://github.com/Apsu/Canary) - Canary keyboard layout
+
+## Blade 
+
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 
 ## C 
 
@@ -1402,6 +1407,7 @@
 
 ## TypeScript 
 
+- [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
 - [Cincinnati-Ventures/rapid](https://github.com/Cincinnati-Ventures/rapid) - The intersection between developer experience and scalability.
 - [NikolaiT/Crawling-Infrastructure](https://github.com/NikolaiT/Crawling-Infrastructure) - Distributed crawling infrastructure running on top of severless computation, cloud storage (such as S3) and sophisticated queues.
