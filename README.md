@@ -746,6 +746,9 @@
 
 ## Python 
 
+- [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
@@ -1499,6 +1502,7 @@
 
 ## Vue 
 
+- [Animeshz/site](https://github.com/Animeshz/site) - (Home | Blog | Notes | Projects | Reflect Back)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hxyro/frizzle](https://github.com/hxyro/frizzle) - Frizzle - A decentralized social media app
 
