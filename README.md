@@ -544,6 +544,7 @@
 
 ## MDX 
 
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [consoledotdev/home](https://github.com/consoledotdev/home) - Discover the best tools for developers. Console is a free weekly email digest of the best tools for developers.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -1373,7 +1374,6 @@
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
-- [Praxylmx/dotFiles](https://github.com/Praxylmx/dotFiles) - Repository for my linux config files.
 - [6gk/shnippets](https://github.com/6gk/shnippets) - collection of small snippets
 - [lharding/lsh-bin](https://github.com/lharding/lsh-bin) - Shell utilities toolkit
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -1436,7 +1436,6 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
@@ -1503,6 +1502,7 @@
 - [Everblush/everblush.vim](https://github.com/Everblush/everblush.vim) - 🎨 A beautiful and dark vim colorscheme.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [sansyrox/macsimus](https://github.com/sansyrox/macsimus) - A custom editor based on NeoVim and inspired from Vim and Emacs to maximise productivity.
+- [Praxylmx/dotFiles](https://github.com/Praxylmx/dotFiles) - Repository for my linux config files.
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [Tanish2002/dot-files](https://github.com/Tanish2002/dot-files) - Dotfiles for Linux, managed by GNU stow.
 - [whatyouhide/vim-gotham](https://github.com/whatyouhide/vim-gotham) - Code never sleeps in Gotham City. 🌃
