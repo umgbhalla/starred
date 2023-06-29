@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -591,6 +592,8 @@
 
 ## Others 
 
+- [replicate/setup-cog](https://github.com/replicate/setup-cog) - A GitHub Action for installing and using Cog so you can run, test, and push machine learning models
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [AlaaSaadAbdo/Rommana](https://github.com/AlaaSaadAbdo/Rommana) - A 30 key well powered by Xiao BLE
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard
@@ -757,6 +760,8 @@
 
 ## Python 
 
+- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
+- [cubiq/OPK](https://github.com/cubiq/OPK) - Open Programmatic Keycap is a spherical top keycap profile developed in CadQuery
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with  three rows of five or six keys, aggressive column stagger, a generous thumb arc and most have a partial bottom utility row
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
