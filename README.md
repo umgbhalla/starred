@@ -478,6 +478,7 @@
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
+- [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
@@ -511,7 +512,7 @@
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
-- [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - Post-install script for EndeavourOS and my dotfiles
+- [Vanderscycle/dot-config](https://github.com/Vanderscycle/dot-config) - my configuration
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
@@ -789,7 +790,6 @@
 - [steamship-packages/langchain-production-starter](https://github.com/steamship-packages/langchain-production-starter) - Deploy LangChain Agents and connect them to Telegram
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [pudae/kaggle-understanding-clouds](https://github.com/pudae/kaggle-understanding-clouds) - Code for 1st place solution in Understanding Clouds from Satellite Images Challenge.
-- [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [Nixtla/neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural :brain: forecasting algorithms.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [elenacliu/pytorch_cuda_driver_compatibilities](https://github.com/elenacliu/pytorch_cuda_driver_compatibilities) - Quick check of compatible versions of PyTorch, Python, CUDA, cuDNN, NVIDIA driver! 实现 PyTorch, Python, CUDA, cuDNN, NVIDIA driver 兼容版本速查！
@@ -819,7 +819,7 @@
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
@@ -940,7 +940,7 @@
 
 ## Rust 
 
-- [conradludgate/arc-discharge](https://github.com/conradludgate/arc-discharge) - arc-discharge
+- [conradludgate/arc-discharge](https://github.com/conradludgate/arc-discharge) - Fast and correct async IO runtime in a small amount of readable code. Inspired by tokio
 - [ChrisChrisLoLo/keezyboost40](https://github.com/ChrisChrisLoLo/keezyboost40) - 4x10 ortholinear with an LCD in the middle. Uses the Raspberry Pi Pico, as well as Rust firmware
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
