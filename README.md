@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -764,6 +765,7 @@
 
 ## Python 
 
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [rogeriochaves/litechain](https://github.com/rogeriochaves/litechain) - Build robust LLM applications with true composability 🔗
@@ -790,7 +792,7 @@
 - [Safiullah-Rahu/CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and anal
 - [matobodo/DiscordWebhookLogging](https://github.com/matobodo/DiscordWebhookLogging) - Simple Discord webhook logger
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
-- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [steamship-packages/langchain-production-starter](https://github.com/steamship-packages/langchain-production-starter) - Deploy LangChain Agents and connect them to Telegram
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [pudae/kaggle-understanding-clouds](https://github.com/pudae/kaggle-understanding-clouds) - Code for 1st place solution in Understanding Clouds from Satellite Images Challenge.
