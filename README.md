@@ -388,7 +388,7 @@
 
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
 - [villuminati/GPTIceBreakerBot](https://github.com/villuminati/GPTIceBreakerBot) - 
-- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
