@@ -766,6 +766,7 @@
 
 ## Python 
 
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [AlaaSaadAbdo/zmk-config](https://github.com/AlaaSaadAbdo/zmk-config) - ZMK config for 30/32/34 key keyboards
@@ -828,7 +829,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM experimentation, response validation and monitoring toolkit.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize your keymap using hold-taps and combos quickly, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
