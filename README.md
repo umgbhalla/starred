@@ -1520,7 +1520,7 @@
 
 ## V 
 
-- [tobealive/bartender](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
+- [ttytm/bartender](https://github.com/ttytm/bartender) - Customizable progress indicators for V terminal applications.
 
 ## Vim Script 
 
