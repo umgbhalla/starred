@@ -779,7 +779,7 @@
 - [rogeriochaves/litechain](https://github.com/rogeriochaves/litechain) - Build robust LLM applications with true composability 🔗
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
 - [e-hulten/july](https://github.com/e-hulten/july) - A small library for creating pretty heatmaps of daily data.
