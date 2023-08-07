@@ -767,6 +767,7 @@
 
 ## Python 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
@@ -955,6 +956,7 @@
 
 ## Rust 
 
+- [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [lehmanju/corne-xiao](https://github.com/lehmanju/corne-xiao) - Rust firmware for crkbd with Seeeduino Xiao
 - [conradludgate/arc-discharge](https://github.com/conradludgate/arc-discharge) - Fast and correct async IO runtime in a small amount of readable code. Inspired by tokio
 - [ChrisChrisLoLo/keezyboost40](https://github.com/ChrisChrisLoLo/keezyboost40) - 4x10 ortholinear with an LCD in the middle. Uses the Raspberry Pi Pico, as well as Rust firmware
