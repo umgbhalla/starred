@@ -798,7 +798,7 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [Safiullah-Rahu/CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and anal
 - [matobodo/DiscordWebhookLogging](https://github.com/matobodo/DiscordWebhookLogging) - Simple Discord webhook logger
