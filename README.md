@@ -595,6 +595,7 @@
 
 ## Others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
@@ -1460,7 +1461,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [Cincinnati-Ventures/rapid](https://github.com/Cincinnati-Ventures/rapid) - The intersection between developer experience and scalability.
+- [Cincinnati-Ventures/rapid](https://github.com/Cincinnati-Ventures/rapid) - Build type-safe web apps with Rust and Typescript
 - [NikolaiT/Crawling-Infrastructure](https://github.com/NikolaiT/Crawling-Infrastructure) - Distributed crawling infrastructure running on top of severless computation, cloud storage (such as S3) and sophisticated queues.
 - [EmanuelCampos/monorepo-llama-index](https://github.com/EmanuelCampos/monorepo-llama-index) - Packages to use llama indexes on a react app with flask
 - [tarikrazine/multi-User-Chatbot-langChain-pinecone](https://github.com/tarikrazine/multi-User-Chatbot-langChain-pinecone) - Multi-User Chatbot with LangChainAI and pinecone with next.js
