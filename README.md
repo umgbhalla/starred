@@ -595,6 +595,7 @@
 
 ## Others 
 
+- [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
@@ -767,6 +768,7 @@
 
 ## Python 
 
+- [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
@@ -812,7 +814,7 @@
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [elenacliu/pytorch_cuda_driver_compatibilities](https://github.com/elenacliu/pytorch_cuda_driver_compatibilities) - Quick check of compatible versions of PyTorch, Python, CUDA, cuDNN, NVIDIA driver! 实现 PyTorch, Python, CUDA, cuDNN, NVIDIA driver 兼容版本速查！
 - [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
-- [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain apps automagically with FastApi
+- [msoedov/langcorn](https://github.com/msoedov/langcorn) - ⛓️ Serving LangChain LLM apps automagically with FastApi
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [VerosK/kubernetes-kopf-demo](https://github.com/VerosK/kubernetes-kopf-demo) - Pycon.sk 2022 Kopf demo
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
@@ -957,6 +959,7 @@
 
 ## Rust 
 
+- [m1guelpf/commit](https://github.com/m1guelpf/commit) - Command palette-style Git client for blazing-fast commits.
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [lehmanju/corne-xiao](https://github.com/lehmanju/corne-xiao) - Rust firmware for crkbd with Seeeduino Xiao
 - [conradludgate/arc-discharge](https://github.com/conradludgate/arc-discharge) - Fast and correct async IO runtime in a small amount of readable code. Inspired by tokio
