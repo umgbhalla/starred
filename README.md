@@ -117,7 +117,7 @@
 - [emersion/hello-wayland](https://github.com/emersion/hello-wayland) - A hello world Wayland client, 2018 edition
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [ponylang/ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -768,6 +768,7 @@
 
 ## Python 
 
+- [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
