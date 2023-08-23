@@ -84,6 +84,7 @@
 
 ## C 
 
+- [e3w2q/Pangaea-keyboard](https://github.com/e3w2q/Pangaea-keyboard) - Parts adjustable keyboard.
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather
 - [manna-harbour/miryoku_kmk](https://github.com/manna-harbour/miryoku_kmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMK is the Miryoku implementation for KMK.
 - [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
@@ -559,7 +560,6 @@
 ## Makefile 
 
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -598,6 +598,7 @@
 
 ## Others 
 
+- [beekeeb/FelixKeeb](https://github.com/beekeeb/FelixKeeb) - The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -689,6 +690,7 @@
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
@@ -965,6 +967,7 @@
 
 ## Rust 
 
+- [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [m1guelpf/commit](https://github.com/m1guelpf/commit) - Command palette-style Git client for blazing-fast commits.
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
