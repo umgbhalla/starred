@@ -1159,7 +1159,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin.
+- [lojewalo/paste](https://github.com/lojewalo/paste) - A sensible, modern pastebin.
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
