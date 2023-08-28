@@ -133,7 +133,7 @@
 - [Smart6502/plutonem](https://github.com/Smart6502/plutonem) - A C, C++, Rust and COBOL library to draw graphics with pixels in the terminal
 - [MaxFork/MegaTools](https://github.com/MaxFork/MegaTools) - Open-source command line tools for accessing Mega.co.nz cloud storage.
 - [wmutils/opt](https://github.com/wmutils/opt) - optional addons to wmutils
-- [sdothum/dotfiles](https://github.com/sdothum/dotfiles) - 
+- [sdothum/dotfiles-archive-2023](https://github.com/sdothum/dotfiles-archive-2023) - 
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [wolkykim/qlibc](https://github.com/wolkykim/qlibc) - qLibc is a simple and yet powerful C library providing generic data structures and algorithms.
 - [zarc1411/dotfiles](https://github.com/zarc1411/dotfiles) - 
@@ -331,6 +331,7 @@
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [snsten/Klein](https://github.com/snsten/Klein) - Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
+- [TweetyDaBird/Lotus-Keyboard](https://github.com/TweetyDaBird/Lotus-Keyboard) - A split ergo linear keyboard derived from the Lily58 family
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -475,6 +476,7 @@
 
 ## Jupyter Notebook 
 
+- [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [abhuse/cyclic-cosine-decay](https://github.com/abhuse/cyclic-cosine-decay) - Pytorch cyclic cosine decay learning rate scheduler
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
@@ -640,7 +642,6 @@
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [Pelicram/Pehmis-Sofle-Case](https://github.com/Pelicram/Pehmis-Sofle-Case) - A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 - [beekeeb/piantor](https://github.com/beekeeb/piantor) - The Piantor Keyboard is a beginner-friendly, easy-to-solder, 42-key or 36-key, diodeless, low profile aggressive column staggered, hotswappable and non-hotswappable, programmable ergonomic mechanical 
-- [TweetyDaBird/Lotus-Keyboard](https://github.com/TweetyDaBird/Lotus-Keyboard) - A split ergo linear keyboard derived from the Lily58 family
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [ai03-2725/Contra](https://github.com/ai03-2725/Contra) - Contra - Lowest cost ortholinear keyboard kit possible
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -733,7 +734,6 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [javacafe01/javacafe01.github.io](https://github.com/javacafe01/javacafe01.github.io) - My website
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Alonely0/Wallpapers](https://github.com/Alonely0/Wallpapers) - A couple of wallpapers that I've made or modified.
 - [Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
@@ -774,6 +774,7 @@
 
 ## Python 
 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [normal-computing/outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
@@ -1493,7 +1494,7 @@
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
 - [gregogun/xyz](https://github.com/gregogun/xyz) - 
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
