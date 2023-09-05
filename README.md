@@ -602,6 +602,7 @@
 
 ## Others 
 
+- [MogmaProducts/Keybernetes](https://github.com/MogmaProducts/Keybernetes) - 
 - [beekeeb/FelixKeeb](https://github.com/beekeeb/FelixKeeb) - The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
@@ -776,7 +777,8 @@
 
 ## Python 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [elastic/ecs-logging-python](https://github.com/elastic/ecs-logging-python) - Logging formatters for the Elastic Common Schema (ECS) in Python
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
@@ -797,7 +799,6 @@
 - [rogeriochaves/langstream](https://github.com/rogeriochaves/langstream) - Build robust LLM applications with true composability 🔗
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
@@ -986,13 +987,11 @@
 - [WaffleLapkin/kiam](https://github.com/WaffleLapkin/kiam) - Better syntax for if/else chains
 - [risoflora/wethr](https://github.com/risoflora/wethr) - 🌤️ Command line weather tool.
 - [gorgarp/ChatGPT-Code-Review](https://github.com/gorgarp/ChatGPT-Code-Review) - ChatGPT-Code-Review is a Rust application that uses the OpenAI GPT-3.5 language model to review code. It accepts a local path to a folder containing code, and generates a review for each file in the f
-- [hiro-codes/amongrust](https://github.com/hiro-codes/amongrust) - Reveal the imposters hiding in your sus code
 - [security-union/code-muse-rs](https://github.com/security-union/code-muse-rs) - generate apps using prompt engineering and the OpenAI API
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [daboross/fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust
 - [softprops/envy](https://github.com/softprops/envy) - deserialize env vars into typesafe structs with rust
 - [julianbuettner/swapvec](https://github.com/julianbuettner/swapvec) - A Rust Vector which swaps to disk based on given parameters
-- [hiro-codes/thebook](https://github.com/hiro-codes/thebook) - Search and read 'The Rust Book' from the terminal
 - [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1478,6 +1477,7 @@
 
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [Cincinnati-Ventures/rapid](https://github.com/Cincinnati-Ventures/rapid) - Build type-safe web apps with Rust and Typescript
