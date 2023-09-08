@@ -477,7 +477,7 @@
 
 ## Jupyter Notebook 
 
-- [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
+- [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [abhuse/cyclic-cosine-decay](https://github.com/abhuse/cyclic-cosine-decay) - Pytorch cyclic cosine decay learning rate scheduler
@@ -809,7 +809,7 @@
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [cubiq/OPK](https://github.com/cubiq/OPK) - Open Programmatic Keycap is a spherical top keycap profile developed in CadQuery
-- [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with  three rows of five or six keys, aggressive column stagger, a generous thumb arc and most have a partial bottom utility row
+- [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of five or six keys, aggressive column stagger, generous thumb arc and optional bottom utility keys
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
