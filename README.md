@@ -85,6 +85,7 @@
 
 ## C 
 
+- [MythosMann/tg4x](https://github.com/MythosMann/tg4x) - A cheap, open source 45% keyboard
 - [e3w2q/Pangaea-keyboard](https://github.com/e3w2q/Pangaea-keyboard) - Parts adjustable keyboard.
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather
 - [manna-harbour/miryoku_kmk](https://github.com/manna-harbour/miryoku_kmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMK is the Miryoku implementation for KMK.
@@ -270,7 +271,7 @@
 ## Go 
 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [aqueducthq/aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
+- [runllm/aqueduct](https://github.com/runllm/aqueduct) - Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -329,7 +330,7 @@
 
 ## HTML 
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [snsten/Klein](https://github.com/snsten/Klein) - Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
@@ -392,6 +393,7 @@
 
 ## JavaScript 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
 - [villuminati/GPTIceBreakerBot](https://github.com/villuminati/GPTIceBreakerBot) - 
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
@@ -604,6 +606,7 @@
 
 ## Others 
 
+- [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe) - 
 - [MogmaProducts/Keybernetes](https://github.com/MogmaProducts/Keybernetes) - 
 - [beekeeb/FelixKeeb](https://github.com/beekeeb/FelixKeeb) - The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
@@ -813,7 +816,6 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [cubiq/OPK](https://github.com/cubiq/OPK) - Open Programmatic Keycap is a spherical top keycap profile developed in CadQuery
 - [mmccoyd/hillside](https://github.com/mmccoyd/hillside) - Family of split ergonomic keyboards with three rows of five or six keys, aggressive column stagger, generous thumb arc and optional bottom utility keys
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -853,7 +855,7 @@
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM experimentation, response validation and monitoring toolkit.
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
@@ -978,6 +980,7 @@
 
 ## Rust 
 
+- [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
 - [zzeneg/qmk-hid-host](https://github.com/zzeneg/qmk-hid-host) - 
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [haileys/bark](https://github.com/haileys/bark) - live sync audio streaming for local networks
