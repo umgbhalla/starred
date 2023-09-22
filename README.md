@@ -330,6 +330,7 @@
 
 ## HTML 
 
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [snsten/Klein](https://github.com/snsten/Klein) - Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
@@ -605,7 +606,6 @@
 
 ## Others 
 
-- [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe) - 
 - [MogmaProducts/Keybernetes](https://github.com/MogmaProducts/Keybernetes) - 
 - [beekeeb/FelixKeeb](https://github.com/beekeeb/FelixKeeb) - The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
@@ -782,9 +782,9 @@
 
 ## Python 
 
+- [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe) - 
 - [google-research/arco-era5](https://github.com/google-research/arco-era5) - Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets.
 - [ecmwf-lab/ai-models-panguweather](https://github.com/ecmwf-lab/ai-models-panguweather) - 
-- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [elastic/ecs-logging-python](https://github.com/elastic/ecs-logging-python) - Logging formatters for the Elastic Common Schema (ECS) in Python
@@ -1199,7 +1199,7 @@
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Composable unified data streaming platform powered by Rust and Web Assembly
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
