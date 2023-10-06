@@ -30,6 +30,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Haxe](#haxe)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -379,6 +380,10 @@
 ## Haskell 
 
 - [Alonely0/dotfiles-2.0](https://github.com/Alonely0/dotfiles-2.0) - My dotfiles but better
+
+## Haxe 
+
+- [YAL-Tools/vial-to-keymap-drawer](https://github.com/YAL-Tools/vial-to-keymap-drawer) - Helps you show off your Vial keymaps!
 
 ## Java 
 
@@ -782,6 +787,7 @@
 
 ## Python 
 
+- [abacaj/fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe) - 
 - [google-research/arco-era5](https://github.com/google-research/arco-era5) - Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets.
@@ -1201,7 +1207,7 @@
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
