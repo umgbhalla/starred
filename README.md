@@ -610,7 +610,6 @@
 
 ## Others 
 
-- [arko9699/re-entry](https://github.com/arko9699/re-entry) - An external MCU hotswap 40s keyboard with an OLED Screen
 - [MogmaProducts/Keybernetes](https://github.com/MogmaProducts/Keybernetes) - 
 - [beekeeb/FelixKeeb](https://github.com/beekeeb/FelixKeeb) - The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.
 - [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - 
