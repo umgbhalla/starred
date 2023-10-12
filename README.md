@@ -490,7 +490,6 @@
 - [abhuse/cyclic-cosine-decay](https://github.com/abhuse/cyclic-cosine-decay) - Pytorch cyclic cosine decay learning rate scheduler
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -623,6 +622,7 @@
 - [AlaaSaadAbdo/Rommana](https://github.com/AlaaSaadAbdo/Rommana) - A 30 key well powered by Xiao BLE
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [foureight84/sofle-keyboard-pimoroni](https://github.com/foureight84/sofle-keyboard-pimoroni) - Pimoroni Trackball integration with Sofle Keyboard
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side.
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [Germain-Gadel/faw36](https://github.com/Germain-Gadel/faw36) - split keyboard powered by ZMK
@@ -855,7 +855,7 @@
 - [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse) - A Jupyter server based on FastAPI :rocket:
 - [haxsaw/hikaru](https://github.com/haxsaw/hikaru) - Move smoothly between Kubernetes YAML and Python for creating/updating/componentizing configurations.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
