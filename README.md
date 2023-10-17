@@ -56,7 +56,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -1360,10 +1359,6 @@
 
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
-## Sass 
-
-- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
-
 ## Scala 
 
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -1377,6 +1372,7 @@
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [peej/lumberjack-keyboard](https://github.com/peej/lumberjack-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
 - [rothgar/bashScheduler](https://github.com/rothgar/bashScheduler) - Kubernetes scheduler written in less than 100 lines of bash :grimacing: :laughing:
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
 - [coursehero/slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [1995parham/dotfiles](https://github.com/1995parham/dotfiles) - :rocket: @1995parham Linux / OSx configurations files
