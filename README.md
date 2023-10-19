@@ -85,6 +85,7 @@
 
 ## C 
 
+- [hide-key/testamatta](https://github.com/hide-key/testamatta) - 
 - [MythosMann/tg4x](https://github.com/MythosMann/tg4x) - A cheap, open source 45% keyboard
 - [e3w2q/Pangaea-keyboard](https://github.com/e3w2q/Pangaea-keyboard) - Parts adjustable keyboard.
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather
@@ -270,6 +271,7 @@
 
 ## Go 
 
+- [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [runllm/aqueduct](https://github.com/runllm/aqueduct) - Aqueduct allows you to run LLM and ML workloads on any cloud infrastructure.
