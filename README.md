@@ -1018,7 +1018,7 @@
 - [softprops/envy](https://github.com/softprops/envy) - deserialize env vars into typesafe structs with rust
 - [julianbuettner/swapvec](https://github.com/julianbuettner/swapvec) - A Rust Vector which swaps to disk based on given parameters
 - [RReverser/cow-utils-rs](https://github.com/RReverser/cow-utils-rs) - Copy-on-write string utilities for Rust
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
