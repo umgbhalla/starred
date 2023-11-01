@@ -614,6 +614,7 @@
 
 ## Others 
 
+- [dilshod/36-choc-key-ortholinear-split](https://github.com/dilshod/36-choc-key-ortholinear-split) - 36 (choc/kailhx) key ortholinear split keyboard
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [TilliFe/Infermo](https://github.com/TilliFe/Infermo) - Tensors and dynamic Neural Networks in Mojo
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
