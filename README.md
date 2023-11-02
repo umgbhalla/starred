@@ -614,6 +614,7 @@
 
 ## Others 
 
+- [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) - 
 - [dilshod/36-choc-key-ortholinear-split](https://github.com/dilshod/36-choc-key-ortholinear-split) - 36 (choc/kailhx) key ortholinear split keyboard
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [TilliFe/Infermo](https://github.com/TilliFe/Infermo) - Tensors and dynamic Neural Networks in Mojo
@@ -811,7 +812,7 @@
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro Symbolic Text Generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neuro-symbolic Text Generation
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
