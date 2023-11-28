@@ -800,6 +800,7 @@
 
 ## Python 
 
+- [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
 - [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for 7B on RTX4090 and 34B on A100)
 - [thuml/iTransformer](https://github.com/thuml/iTransformer) - Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
