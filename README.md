@@ -1073,7 +1073,7 @@
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [maxday/lambda-perf](https://github.com/maxday/lambda-perf) - Lambda Cold Starts analysis, updated daily
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [sparshg/asteroids-genetic](https://github.com/sparshg/asteroids-genetic) - Interactive AI training simuation
 - [eliovir/rust-examples](https://github.com/eliovir/rust-examples) - Examples from tutorial and other documentations of Rust.
@@ -1335,7 +1335,7 @@
 - [JoshMcguigan/bubble-shell](https://github.com/JoshMcguigan/bubble-shell) - A simple shell
 - [russelltg/web-mic](https://github.com/russelltg/web-mic) - Use your phone as a microphone
 - [xlmnxp/blue-recorder](https://github.com/xlmnxp/blue-recorder) - Simple Screen Recorder written in Rust based on Green Recorder
-- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - Clipcat is a clipboard manager written in Rust Programming Language.
 - [psinghal20/rush](https://github.com/psinghal20/rush) - Rusty Shell - A experimental shell written in rust :smile:
 - [bluss/matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 - [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust
