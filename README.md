@@ -620,6 +620,7 @@
 
 ## Others 
 
+- [XueFuzhao/awesome-mixture-of-experts](https://github.com/XueFuzhao/awesome-mixture-of-experts) - A collection of AWESOME things about mixture-of-experts
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) - 
 - [dilshod/36-choc-key-ortholinear-split](https://github.com/dilshod/36-choc-key-ortholinear-split) - 36 (choc/kailhx) key ortholinear split keyboard
@@ -1474,7 +1475,7 @@
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
-- [6gk/shnippets](https://github.com/6gk/shnippets) - collection of small snippets
+- [eepykate/shnippets](https://github.com/eepykate/shnippets) - collection of small snippets
 - [lharding/lsh-bin](https://github.com/lharding/lsh-bin) - Shell utilities toolkit
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [jain-aayush/dotfiles-bspwm](https://github.com/jain-aayush/dotfiles-bspwm) - 
