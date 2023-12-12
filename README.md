@@ -264,6 +264,7 @@
 ## G-code 
 
 - [AlaaSaadAbdo/battoota](https://github.com/AlaaSaadAbdo/battoota) - Keyboards
+- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## GLSL 
 
@@ -616,7 +617,6 @@
 - [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) - Parametric Key Caps
 - [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
-- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## Others 
 
@@ -1170,7 +1170,7 @@
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [mrshmllow/gh-cal](https://github.com/mrshmllow/gh-cal) - View your github contribution calander in unicode.
