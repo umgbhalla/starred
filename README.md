@@ -801,6 +801,7 @@
 
 ## Python 
 
+- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
 - [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
@@ -1079,7 +1080,7 @@
 - [sparshg/asteroids-genetic](https://github.com/sparshg/asteroids-genetic) - Interactive AI training simuation
 - [eliovir/rust-examples](https://github.com/eliovir/rust-examples) - Examples from tutorial and other documentations of Rust.
 - [move-language/move](https://github.com/move-language/move) - 
-- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Render your crate's module/item structure as a tree or graph
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [MoonZoon/MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
