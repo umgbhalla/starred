@@ -1595,7 +1595,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
-- [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
+- [gridaco/grida](https://github.com/gridaco/grida) - 🎥 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
 
 ## V 
 
