@@ -60,6 +60,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -893,7 +894,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's AI SQL Server connects AI models to real time data
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1515,6 +1516,10 @@
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🌟 GitHub & GitLab notifications on your desktop
 - [semicognitive/sveltekit-modal-ocr](https://github.com/semicognitive/sveltekit-modal-ocr) - 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+
+## Swift 
+
+- [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 
 ## TeX 
 
