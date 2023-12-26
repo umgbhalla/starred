@@ -621,6 +621,7 @@
 
 ## Others 
 
+- [jsallan/trinidox](https://github.com/jsallan/trinidox) - A dactyl manuform keyboard with integrated trackball.
 - [XueFuzhao/awesome-mixture-of-experts](https://github.com/XueFuzhao/awesome-mixture-of-experts) - A collection of AWESOME things about mixture-of-experts
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) - 
