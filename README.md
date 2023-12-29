@@ -804,6 +804,7 @@
 
 ## Python 
 
+- [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
