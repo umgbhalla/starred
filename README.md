@@ -90,6 +90,7 @@
 
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kreme123/Kolibrimini](https://github.com/kreme123/Kolibrimini) - Kolibrimini is 40% Alice-style keyboard with arrow cluster
+- [mzaks/mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
 - [hide-key/testamatta](https://github.com/hide-key/testamatta) - 
 - [MythosMann/tg4x](https://github.com/MythosMann/tg4x) - A cheap, open source 45% keyboard
 - [e3w2q/Pangaea-keyboard](https://github.com/e3w2q/Pangaea-keyboard) - Parts adjustable keyboard.
@@ -267,7 +268,6 @@
 ## G-code 
 
 - [AlaaSaadAbdo/battoota](https://github.com/AlaaSaadAbdo/battoota) - Keyboards
-- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## GLSL 
 
@@ -622,6 +622,7 @@
 - [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) - Parametric Key Caps
 - [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
+- [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
 ## Others 
 
@@ -809,6 +810,9 @@
 
 ## Python 
 
+- [cgarciae/einop](https://github.com/cgarciae/einop) - 
+- [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
@@ -1028,7 +1032,6 @@
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
-- [mzaks/mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
 - [Snojj25/linalg-rs](https://github.com/Snojj25/linalg-rs) - Common linear algebra in rust
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
@@ -1071,7 +1074,7 @@
 - [valentinegb/openai](https://github.com/valentinegb/openai) - An unofficial Rust library for the OpenAI API.
 - [thruster-rs/Thruster](https://github.com/thruster-rs/Thruster) - A fast, middleware based, web framework written in Rust
 - [jeertmans/languagetool-rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust
-- [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
+- [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
@@ -1262,7 +1265,7 @@
 - [khonsulabs/nebari](https://github.com/khonsulabs/nebari) - A pure Rust database implementation using an append-only B-Tree file format.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [joone/rust-animation](https://github.com/joone/rust-animation) - OpenGL based animation toolkit written in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
