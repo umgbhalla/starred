@@ -810,6 +810,8 @@
 
 ## Python 
 
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
+- [boriel/configmanager](https://github.com/boriel/configmanager) - Simple config manager for python programs
 - [cgarciae/einop](https://github.com/cgarciae/einop) - 
 - [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
