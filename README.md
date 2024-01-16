@@ -587,7 +587,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -810,6 +810,7 @@
 
 ## Python 
 
+- [Muhtasham/summarization-eval](https://github.com/Muhtasham/summarization-eval) - 📝 Reference-Free automatic summarization evaluation with potential hallucination detection
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [boriel/configmanager](https://github.com/boriel/configmanager) - Simple config manager for python programs
 - [cgarciae/einop](https://github.com/cgarciae/einop) - 
