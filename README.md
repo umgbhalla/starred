@@ -45,6 +45,7 @@
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
+- [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -404,6 +405,7 @@
 
 ## JavaScript 
 
+- [C0deMunk33/bespoke_automata](https://github.com/C0deMunk33/bespoke_automata) - Bespoke Automata is a GUI and deployment pipline for making complex AI agents locally and offline
 - [tangrams/heightmapper](https://github.com/tangrams/heightmapper) - interactive heightmaps from terrain data
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -493,6 +495,7 @@
 
 ## Jupyter Notebook 
 
+- [praveentn/hgwxx7](https://github.com/praveentn/hgwxx7) - Data Science, Machine Learning, Natural Language Processing, Deep Learning, Quantum Information Processing, Quantum Computing
 - [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [abhuse/cyclic-cosine-decay](https://github.com/abhuse/cyclic-cosine-decay) - Pytorch cyclic cosine decay learning rate scheduler
@@ -614,6 +617,10 @@
 
 - [geoffder/dometyl-keyboard](https://github.com/geoffder/dometyl-keyboard) - A parametric generator for designing split, concave, ergonomic keyboards written in ocaml.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
+
+## Objective-C 
+
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
 ## OpenSCAD 
 
@@ -810,6 +817,9 @@
 
 ## Python 
 
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+- [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
+- [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
 - [Muhtasham/summarization-eval](https://github.com/Muhtasham/summarization-eval) - 📝 Reference-Free automatic summarization evaluation with potential hallucination detection
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [boriel/configmanager](https://github.com/boriel/configmanager) - Simple config manager for python programs
@@ -1476,7 +1486,7 @@
 - [jitessh/dotfiles](https://github.com/jitessh/dotfiles) - Well documented & structured, 0 plugin manager, minimal, modular dotfiles!
 - [uncomfyhalomacro/river-paper-theme](https://github.com/uncomfyhalomacro/river-paper-theme) - A sample configuration for river - Paper Theme
 - [uncomfyhalomacro/river-matcha-theme](https://github.com/uncomfyhalomacro/river-matcha-theme) - Matcha Theme for river
-- [twpsx/YT-Feeder](https://github.com/twpsx/YT-Feeder) - Rofi-Based YouTube RSS Reader
+- [xcdkz/YT-Feeder](https://github.com/xcdkz/YT-Feeder) - Rofi-Based YouTube RSS Reader
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
@@ -1579,7 +1589,7 @@
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [gregogun/xyz](https://github.com/gregogun/xyz) - 
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
