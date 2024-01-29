@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
@@ -69,10 +68,6 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
 ## Assembly 
 
 - [slowy07/asmSourceCode](https://github.com/slowy07/asmSourceCode) - my task with assembly
@@ -98,7 +93,6 @@
 - [enzocoralc/Tiny20](https://github.com/enzocoralc/Tiny20) - Small and compact 20-keys keyboard
 - [manna-harbour/miryoku_zmk](https://github.com/manna-harbour/miryoku_zmk) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku ZMK is the Miryoku implementation for ZMK.
 - [Galzai/MK32](https://github.com/Galzai/MK32) - Keyboard firmware for ESP32 microcontrollers
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) - cli snake game that plays itself
@@ -160,6 +154,7 @@
 ## C++ 
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [rnayabed/rangoli](https://github.com/rnayabed/rangoli) - Free, Open Source, Lightweight, Cross-platform Software for Royal Kludge Keyboards
 - [lighthousand/books](https://github.com/lighthousand/books) - book list
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
@@ -375,6 +370,7 @@
 - [30DaysofWebDEV/DSC-30-Days-of-Web](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web) - 
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 ## Handlebars 
 
@@ -400,6 +396,7 @@
 
 ## JavaScript 
 
+- [Gaafar/curl-worker](https://github.com/Gaafar/curl-worker) - 
 - [C0deMunk33/bespoke_automata](https://github.com/C0deMunk33/bespoke_automata) - Bespoke Automata is a GUI and deployment pipline for making complex AI agents locally and offline
 - [tangrams/heightmapper](https://github.com/tangrams/heightmapper) - interactive heightmaps from terrain data
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -814,6 +811,8 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [RyanBaig/Unofficial-Phind-API](https://github.com/RyanBaig/Unofficial-Phind-API) - An Unofficial Phind API I made using Selenium and BS4 Web Scraping on a request by [umgbhalla](https://github.com/umgbhalla)
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [crides/kleeb](https://github.com/crides/kleeb) - Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation
@@ -827,7 +826,7 @@
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
-- [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (Support 70B+ full tuning & LoRA & Mixtral)
+- [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (Support 70B+ full tuning & LoRA & Mixtral & KTO)
 - [thuml/iTransformer](https://github.com/thuml/iTransformer) - Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -867,7 +866,7 @@
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
 - [e-hulten/july](https://github.com/e-hulten/july) - A small library for creating pretty heatmaps of daily data.
