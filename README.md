@@ -488,6 +488,7 @@
 
 ## Jupyter Notebook 
 
+- [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [praveentn/hgwxx7](https://github.com/praveentn/hgwxx7) - Data Science, Machine Learning, Natural Language Processing, Deep Learning, Quantum Information Processing, Quantum Computing
 - [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
@@ -628,6 +629,7 @@
 
 ## Others 
 
+- [fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar) - The NYU Systems Seminar
 - [PolarityWorks/CRBN-Featherlight](https://github.com/PolarityWorks/CRBN-Featherlight) - 
 - [cbskii/storyboard-keyboard](https://github.com/cbskii/storyboard-keyboard) - 5x12 split ortholinear keyboard with an E-INK display
 - [jsallan/trinidox](https://github.com/jsallan/trinidox) - A dactyl manuform keyboard with integrated trackball.
@@ -810,6 +812,7 @@
 
 ## Python 
 
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [RyanBaig/Unofficial-Phind-API](https://github.com/RyanBaig/Unofficial-Phind-API) - An Unofficial Phind API I made using Selenium and BS4 Web Scraping on a request by [umgbhalla](https://github.com/umgbhalla)
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -1537,7 +1540,7 @@
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🌟 GitHub & GitLab notifications on your desktop
+- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [semicognitive/sveltekit-modal-ocr](https://github.com/semicognitive/sveltekit-modal-ocr) - 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
