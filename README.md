@@ -812,6 +812,7 @@
 
 ## Python 
 
+- [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [RyanBaig/Unofficial-Phind-API](https://github.com/RyanBaig/Unofficial-Phind-API) - An Unofficial Phind API I made using Selenium and BS4 Web Scraping on a request by [umgbhalla](https://github.com/umgbhalla)
@@ -910,7 +911,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
@@ -1031,6 +1032,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -1557,7 +1559,6 @@
 
 ## TypeScript 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [luizkc/next-notion-portfolio-starter](https://github.com/luizkc/next-notion-portfolio-starter) - A starter template for an elegant portfolio built with Next and Notion
 - [terkelg/terkelg](https://github.com/terkelg/terkelg) - A website inside an SVG, inside an image, inside HTML, inside markdown, inside a GitHub readme.md.
