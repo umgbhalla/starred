@@ -122,7 +122,7 @@
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [vilhalmer/oguri](https://github.com/vilhalmer/oguri) - A very nice animated wallpaper daemon for Wayland compositors
-- [r1ri/minifm](https://github.com/r1ri/minifm) - A terminal based visual file manager, used similar to programs like fzf, and fzy
+- [hacke2man/minifm](https://github.com/hacke2man/minifm) - A terminal based visual file manager, used similar to programs like fzf, and fzy
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -221,7 +221,7 @@
 ## Common Lisp 
 
 - [mattmundell/nightshade](https://github.com/mattmundell/nightshade) - Lisp environment with Emacs-like editor
-- [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - Vector mathematics DSL and utilities in Common Lisp
+- [inconvergent/cl-veq](https://github.com/inconvergent/cl-veq) - DSL and utilities for vector mathematics in Common Lisp
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp
 
 ## Dart 
@@ -1005,7 +1005,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [rafaqz/.dotfiles](https://github.com/rafaqz/.dotfiles) - 
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
-- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - files that start . and makes my Linux box awesome.
+- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - .files, that makes my Linux machine awesome.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY) - Project planning from the terminal
 - [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) - 🏭 convert any image to the gruvbox pallete
