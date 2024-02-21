@@ -922,7 +922,7 @@
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with Multi-Task Experts".
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
@@ -1253,7 +1253,7 @@
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
-- [sigoden/argc](https://github.com/sigoden/argc) - Argc helps you create CLI through comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create feature-rich CLIs in bash.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
@@ -1568,7 +1568,7 @@
 
 - [luizkc/next-notion-portfolio-starter](https://github.com/luizkc/next-notion-portfolio-starter) - A starter template for an elegant portfolio built with Next and Notion
 - [terkelg/terkelg](https://github.com/terkelg/terkelg) - A website inside an SVG, inside an image, inside HTML, inside markdown, inside a GitHub readme.md.
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
