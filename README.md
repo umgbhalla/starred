@@ -333,7 +333,7 @@
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [snsten/Klein](https://github.com/snsten/Klein) - Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
-- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C (nRF52840-based)
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C
 - [TweetyDaBird/Lotus-Keyboard](https://github.com/TweetyDaBird/Lotus-Keyboard) - A split ergo linear keyboard derived from the Lily58 family
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
@@ -1046,6 +1046,7 @@
 
 ## Rust 
 
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - Source available infrastructure for enterprise search teams.  Trieve combines search language models with tools for human fine-tuning.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
