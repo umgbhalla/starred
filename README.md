@@ -490,6 +490,7 @@
 
 ## Jupyter Notebook 
 
+- [rgbkrk/chatlab](https://github.com/rgbkrk/chatlab) - ⚡️🧪 Fast LLM Tool Calling Experimentation, big and smol
 - [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [praveentn/hgwxx7](https://github.com/praveentn/hgwxx7) - Data Science, Machine Learning, Natural Language Processing, Deep Learning, Quantum Information Processing, Quantum Computing
@@ -1046,7 +1047,7 @@
 
 ## Rust 
 
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - Source available infrastructure for enterprise search teams.  Trieve combines search language models with tools for human fine-tuning.
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - Source available infrastructure for enterprise search teams.  Trieve combines search language models with tools for human fine-tuning for retrieval and RAG.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
