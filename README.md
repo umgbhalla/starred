@@ -838,7 +838,7 @@
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
-- [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (Support 70B+ full tuning & LoRA & Mixtral & KTO)
+- [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO)
 - [thuml/iTransformer](https://github.com/thuml/iTransformer) - Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting" (ICLR 2024 Spotlight), https://openreview.net/forum?id=JePfAI8fah
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1047,7 +1047,7 @@
 
 ## Rust 
 
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - Source available infrastructure for enterprise search teams.  Trieve combines search language models with tools for human fine-tuning for retrieval and RAG.
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search teams building retrieval and RAG. Trieve combines search language models with tools for tuning.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
