@@ -928,7 +928,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with Multi-Task Experts".
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [chezou/tabula-py](https://github.com/chezou/tabula-py) - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1572,6 +1572,8 @@
 
 ## TypeScript 
 
+- [Whomane/Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [luizkc/next-notion-portfolio-starter](https://github.com/luizkc/next-notion-portfolio-starter) - A starter template for an elegant portfolio built with Next and Notion
 - [terkelg/terkelg](https://github.com/terkelg/terkelg) - A website inside an SVG, inside an image, inside HTML, inside markdown, inside a GitHub readme.md.
