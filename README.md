@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
@@ -73,6 +74,10 @@
 
 - [slowy07/asmSourceCode](https://github.com/slowy07/asmSourceCode) - my task with assembly
 - [davidcallanan/os-series](https://github.com/davidcallanan/os-series) - 
+
+## Astro 
+
+- [arn4v/arnavgosain.com](https://github.com/arn4v/arnavgosain.com) - ⌘
 
 ## AutoHotkey 
 
@@ -379,6 +384,7 @@
 
 ## Handlebars 
 
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mathieudutour/jsonresume-theme-github](https://github.com/mathieudutour/jsonresume-theme-github) - A theme for JSON Resume based on Primer
 
 ## Haskell 
@@ -496,7 +502,8 @@
 
 ## Jupyter Notebook 
 
-- [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - This repository contains codes required to build a Small Language Model, using data gathered from Youtube Videos. My main goal is to try to build a SLM
+- [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
+- [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - this repository contains codes required to build a Small Language Model, using data gathered from Youtube Videos
 - [rgbkrk/chatlab](https://github.com/rgbkrk/chatlab) - ⚡️🧪 Fast LLM Tool Calling Experimentation, big and smol
 - [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -504,13 +511,14 @@
 - [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [abhuse/cyclic-cosine-decay](https://github.com/abhuse/cyclic-cosine-decay) - Pytorch cyclic cosine decay learning rate scheduler
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 - [aditya-grover/climate-learn](https://github.com/aditya-grover/climate-learn) - Source code for ClimateLearn
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+- [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -583,7 +591,6 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [arn4v/arnavgosain.com](https://github.com/arn4v/arnavgosain.com) - ⌘
 - [cristicretu/cretu.dev](https://github.com/cristicretu/cretu.dev) - Personal Portfolio built with NextJS, TailwindCSS, and MDX
 - [karanpratapsingh/portfolio](https://github.com/karanpratapsingh/portfolio) - My portfolio website with built-in blogs and courses support
 - [consoledotdev/home](https://github.com/consoledotdev/home) - Discover the best tools for developers. Console is a free weekly email digest of the best tools for developers.
@@ -638,7 +645,6 @@
 - [yangit/flactyl](https://github.com/yangit/flactyl) - Flactyl keyboard
 - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library
 - [pseudoku/PseudoMakeMeKeyCapProfiles](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) - Parametric Key Caps
-- [Sandalmoth/keyboards](https://github.com/Sandalmoth/keyboards) - 
 - [gleorepo/Keyboard-Case-Generator](https://github.com/gleorepo/Keyboard-Case-Generator) - An openscad keyboard case generator.
 - [50an6xy06r6n/hotswap_pcb_generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator) - OpenSCAD script for generating 3D-printable hotswap keyboard PCBs.
 
@@ -679,7 +685,6 @@
 - [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tamago324/nowt36lp](https://github.com/tamago324/nowt36lp) - 
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - ZMK Firmware for Klein keyboard
@@ -828,6 +833,10 @@
 
 ## Python 
 
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+- [apple/axlearn](https://github.com/apple/axlearn) - 
 - [joey00072/Tinytorch](https://github.com/joey00072/Tinytorch) - A really tiny autograd engine
 - [puravparab/Script2Scene](https://github.com/puravparab/Script2Scene) - Upload a manim script and generate an animation
 - [Rustam-Z/senior-python-engineer](https://github.com/Rustam-Z/senior-python-engineer) - Advanced Python for Senior Software Engineers • Design Patterns • S.O.L.I.D • OOP • Concurrency • Python Libraries
@@ -1067,7 +1076,6 @@
 
 ## Rust 
 
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to generate LLM prompts from your codebase with prompt templating and token counting.
 - [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) - Blazingly fast interpolated LUT generator and applicator for arbitrary and popular color palettes.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building retrieval and RAG. Trieve combines search language models with tools for tuning.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
@@ -1460,10 +1468,12 @@
 
 ## Shell 
 
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems the
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
 - [yugabyte/gcp-deployment-manager](https://github.com/yugabyte/gcp-deployment-manager) - Google Cloud Deployment Manager scripts to deploy a multi-node YugabyteDB cluster
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
@@ -1594,6 +1604,7 @@
 
 ## TypeScript 
 
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [Whomane/Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
