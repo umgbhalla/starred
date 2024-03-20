@@ -218,6 +218,7 @@
 
 ## Clojure 
 
+- [veikman/dactyl-keyboard](https://github.com/veikman/dactyl-keyboard) - Programmatic keyboard CAD
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
 - [drorchen/dactyl-manuform-tight-trackball](https://github.com/drorchen/dactyl-manuform-tight-trackball) - 
@@ -685,6 +686,7 @@
 - [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tamago324/nowt36lp](https://github.com/tamago324/nowt36lp) - 
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - ZMK Firmware for Klein keyboard
@@ -838,7 +840,7 @@
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [apple/axlearn](https://github.com/apple/axlearn) - 
+- [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [joey00072/Tinytorch](https://github.com/joey00072/Tinytorch) - A really tiny autograd engine
 - [puravparab/Script2Scene](https://github.com/puravparab/Script2Scene) - Upload a manim script and generate an animation
 - [Rustam-Z/senior-python-engineer](https://github.com/Rustam-Z/senior-python-engineer) - Advanced Python for Senior Software Engineers • Design Patterns • S.O.L.I.D • OOP • Concurrency • Python Libraries
@@ -891,7 +893,7 @@
 - [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗 AutoTrain Advanced
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
@@ -1020,7 +1022,7 @@
 - [ErickMwazonga/sifu](https://github.com/ErickMwazonga/sifu) - Data Structures and Algorithms(DSA)
 - [salt-die/Advent-of-Code](https://github.com/salt-die/Advent-of-Code) - My solutions or attempts at solutions to the Advent of Code event.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
@@ -1078,6 +1080,7 @@
 
 ## Rust 
 
+- [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) - Blazingly fast interpolated LUT generator and applicator for arbitrary and popular color palettes.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building retrieval and RAG. Trieve combines search language models with tools for tuning.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
@@ -1475,7 +1478,6 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems the
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
 - [yugabyte/gcp-deployment-manager](https://github.com/yugabyte/gcp-deployment-manager) - Google Cloud Deployment Manager scripts to deploy a multi-node YugabyteDB cluster
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
