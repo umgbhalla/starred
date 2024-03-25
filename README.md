@@ -506,6 +506,7 @@
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
 - [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - this repository contains codes required to build a Small Language Model, using data gathered from Youtube Videos
 - [rgbkrk/chatlab](https://github.com/rgbkrk/chatlab) - ⚡️🧪 Fast LLM Tool Calling Experimentation, big and smol
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [praveentn/hgwxx7](https://github.com/praveentn/hgwxx7) - Data Science, Machine Learning, Natural Language Processing, Deep Learning, Quantum Information Processing, Quantum Computing
@@ -651,6 +652,7 @@
 
 ## Others 
 
+- [sadekbaroudi/bgkeeb](https://github.com/sadekbaroudi/bgkeeb) - 
 - [george-norton/peacock](https://github.com/george-norton/peacock) - A big QMK powered trackpad
 - [fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar) - The NYU Systems Seminar
 - [PolarityWorks/CRBN-Featherlight](https://github.com/PolarityWorks/CRBN-Featherlight) - 
@@ -835,6 +837,8 @@
 
 ## Python 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
@@ -853,7 +857,6 @@
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [RyanBaig/Unofficial-Phind-API](https://github.com/RyanBaig/Unofficial-Phind-API) - An Unofficial Phind API I made using Selenium and BS4 Web Scraping on a request by [umgbhalla](https://github.com/umgbhalla)
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -1609,7 +1612,7 @@
 ## TypeScript 
 
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [Whomane/Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
+- [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [luizkc/next-notion-portfolio-starter](https://github.com/luizkc/next-notion-portfolio-starter) - A starter template for an elegant portfolio built with Next and Notion
@@ -1716,7 +1719,7 @@
 
 ## Zig 
 
-- [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
