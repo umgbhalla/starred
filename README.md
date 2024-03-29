@@ -39,6 +39,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -89,7 +90,6 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kreme123/Kolibrimini](https://github.com/kreme123/Kolibrimini) - Kolibrimini is 40% Alice-style keyboard with arrow cluster
-- [mzaks/mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
 - [hide-key/testamatta](https://github.com/hide-key/testamatta) - 
 - [MythosMann/tg4x](https://github.com/MythosMann/tg4x) - A cheap, open source 45% keyboard
 - [e3w2q/Pangaea-keyboard](https://github.com/e3w2q/Pangaea-keyboard) - Parts adjustable keyboard.
@@ -163,6 +163,7 @@
 
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
+- [mzaks/mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [rnayabed/rangoli](https://github.com/rnayabed/rangoli) - Free, Open Source, Lightweight, Cross-platform Software for Royal Kludge Keyboards
@@ -613,6 +614,11 @@
 - [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mojo 
+
+- [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) - 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Mustache 
 
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps PaaS for Kubernetes
@@ -664,7 +670,6 @@
 - [jsallan/trinidox](https://github.com/jsallan/trinidox) - A dactyl manuform keyboard with integrated trackball.
 - [XueFuzhao/awesome-mixture-of-experts](https://github.com/XueFuzhao/awesome-mixture-of-experts) - A collection of AWESOME things about mixture-of-experts
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
-- [mzaks/mojo-csv](https://github.com/mzaks/mojo-csv) - 
 - [dilshod/36-choc-key-ortholinear-split](https://github.com/dilshod/36-choc-key-ortholinear-split) - 36 (choc/kailhx) key ortholinear split keyboard
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [TilliFe/Infermo](https://github.com/TilliFe/Infermo) - Tensors and dynamic Neural Networks in Mojo
@@ -692,7 +697,6 @@
 - [LuarRaNa/tlalocohyla_smithii](https://github.com/LuarRaNa/tlalocohyla_smithii) - 
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mindhatch/keyboards](https://github.com/mindhatch/keyboards) - bluetooth-only low-profile choc-spaced smol split keyboards
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [tamago324/nowt36lp](https://github.com/tamago324/nowt36lp) - 
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [snsten/Klein-zmk](https://github.com/snsten/Klein-zmk) - ZMK Firmware for Klein keyboard
@@ -915,7 +919,7 @@
 - [rogeriochaves/langstream](https://github.com/rogeriochaves/langstream) - Build robust LLM applications with true composability 🔗
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [swansonk14/typed-argument-parser](https://github.com/swansonk14/typed-argument-parser) - Typed argument parser for Python
@@ -1517,7 +1521,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
 - [hxyro/rcli](https://github.com/hxyro/rcli) - CLI image Browser for Reddit Api
