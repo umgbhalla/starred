@@ -86,6 +86,7 @@
 
 ## C 
 
+- [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 - [penk/Haori36](https://github.com/penk/Haori36) - 36-key monoblock split ortho keyboard
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
@@ -238,7 +239,6 @@
 
 ## Dart 
 
-- [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [creativecreatorormaybenot/funvas](https://github.com/creativecreatorormaybenot/funvas) - Fun canvas animations in Flutter based on time and math functions.
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
@@ -1092,7 +1092,7 @@
 
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
 - [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) - Blazingly fast interpolated LUT generator and applicator for arbitrary and popular color palettes.
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building retrieval and RAG. Trieve combines search language models with tools for tuning.
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
 - [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
