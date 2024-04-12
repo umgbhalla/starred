@@ -1245,7 +1245,7 @@
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [Eoin-McMahon/blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
-- [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
+- [plotly/plotly.rs](https://github.com/plotly/plotly.rs) - Plotly for Rust
 - [FreeCX/programming-challenges](https://github.com/FreeCX/programming-challenges) - Pro/g/ramming Challenges v1.3 in rust
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
