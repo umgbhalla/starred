@@ -665,6 +665,7 @@
 
 ## Others 
 
+- [aroum/zmk-enki42-dongle](https://github.com/aroum/zmk-enki42-dongle) - ZMK config for corne-like keyboard with dongle
 - [instructor-ai/evals](https://github.com/instructor-ai/evals) - Using various instructor clients evaluating the quality and capabilities of extractions and reasoning.
 - [themaxbang/MRIYA](https://github.com/themaxbang/MRIYA) - MRIYA is a 42-key column-staggered split keyboard based on the Corne Cherry v.3.0.1
 - [sadekbaroudi/bgkeeb](https://github.com/sadekbaroudi/bgkeeb) - 
@@ -1621,6 +1622,7 @@
 
 ## TypeScript 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -1724,6 +1726,7 @@
 
 ## Vue 
 
+- [JanLunge/pog](https://github.com/JanLunge/pog) - A Kmk firmware flashing and configuration tool
 - [Animeshz/site](https://github.com/Animeshz/site) - (Home | Blog | Notes | Projects | Reflect Back)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hxyro/frizzle](https://github.com/hxyro/frizzle) - Frizzle - A decentralized social media app
