@@ -1308,7 +1308,7 @@
 - [krustlet/krustlet](https://github.com/krustlet/krustlet) - Kubernetes Rust Kubelet
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [jonhoo/roget](https://github.com/jonhoo/roget) - Wordle Solver inspired by 3blue1brown
-- [sigoden/argc](https://github.com/sigoden/argc) - A bash cli framework, also a task management & automation tool.
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash-based command runner.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
@@ -1622,6 +1622,7 @@
 
 ## TypeScript 
 
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
