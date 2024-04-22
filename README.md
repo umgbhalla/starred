@@ -202,7 +202,6 @@
 - [abhijith0505/GoChat](https://github.com/abhijith0505/GoChat) - Command Line Chatting utility
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [Vanderscycle/dotFiles](https://github.com/Vanderscycle/dotFiles) - my configuration
 - [adamsyy/portfolio](https://github.com/adamsyy/portfolio) - My personal website showcasing my experiences, projects and skillsets.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [ashzero2/dotfiles](https://github.com/ashzero2/dotfiles) - 
@@ -545,7 +544,7 @@
 ## Lua 
 
 - [ImRayy/dotfiles](https://github.com/ImRayy/dotfiles) - 
-- [barelyhuman/reaper.is](https://github.com/barelyhuman/reaper.is) - Reaper Blog
+- [barelyhuman/reaper.is](https://github.com/barelyhuman/reaper.is) - My blog, built with [alvu](http://github.com/barelyhuman/alvu)
 - [thomascft/dotfiles](https://github.com/thomascft/dotfiles) - 
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
@@ -636,6 +635,7 @@
 
 - [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix) - Configuration files for my NixOS machine, declared by home-manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [Vanderscycle/dotFiles](https://github.com/Vanderscycle/dotFiles) - my configuration
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 
 ## Nushell 
