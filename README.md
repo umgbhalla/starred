@@ -666,6 +666,7 @@
 
 ## Others 
 
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
 - [aroum/zmk-enki42-dongle](https://github.com/aroum/zmk-enki42-dongle) - ZMK config for corne-like keyboard with dongle
 - [themaxbang/MRIYA](https://github.com/themaxbang/MRIYA) - MRIYA is a 42-key column-staggered split keyboard based on the Corne Cherry v.3.0.1
 - [sadekbaroudi/bgkeeb](https://github.com/sadekbaroudi/bgkeeb) - 
