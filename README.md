@@ -282,6 +282,7 @@
 
 ## Go 
 
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -511,7 +512,7 @@
 ## Jupyter Notebook 
 
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
-- [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - this repository contains codes required to build a Small Language Model, using data gathered from Youtube Videos
+- [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - a LLM cookbook, for building your own from scratch, all the way from gathering data to training a model
 - [rgbkrk/chatlab](https://github.com/rgbkrk/chatlab) - ⚡️🧪 Fast LLM Tool Calling Experimentation, big and smol
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [binarybottle/engram](https://github.com/binarybottle/engram) - Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o
