@@ -346,6 +346,7 @@
 
 ## HTML 
 
+- [yoheinakajima/prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
@@ -625,7 +626,7 @@
 
 ## Mustache 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
@@ -670,7 +671,6 @@
 
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [aroum/zmk-enki42-dongle](https://github.com/aroum/zmk-enki42-dongle) - ZMK config for corne-like keyboard with dongle
 - [themaxbang/MRIYA](https://github.com/themaxbang/MRIYA) - MRIYA is a 42-key column-staggered split keyboard based on the Corne Cherry v.3.0.1
 - [sadekbaroudi/bgkeeb](https://github.com/sadekbaroudi/bgkeeb) - 
@@ -1524,7 +1524,7 @@
 - [javaducky/k6-office-hours-047](https://github.com/javaducky/k6-office-hours-047) - k6 Office Hours session 47, https://www.youtube.com/watch?v=IW7I_vWV93A
 - [ANSSI-FR/rust-guide](https://github.com/ANSSI-FR/rust-guide) - Recommendations for secure applications development with Rust
 - [Wint3rmute/arch-linux-on-kindle](https://github.com/Wint3rmute/arch-linux-on-kindle) - Arch Linux on a Kindle ebook (via Proot)
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
@@ -1640,7 +1640,7 @@
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
-- [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [luizkc/next-notion-portfolio-starter](https://github.com/luizkc/next-notion-portfolio-starter) - A starter template for an elegant portfolio built with Next and Notion
 - [terkelg/terkelg](https://github.com/terkelg/terkelg) - A website inside an SVG, inside an image, inside HTML, inside markdown, inside a GitHub readme.md.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
