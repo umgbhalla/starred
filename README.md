@@ -860,6 +860,7 @@
 
 ## Python 
 
+- [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [akhundMurad/typeid-python](https://github.com/akhundMurad/typeid-python) - Python implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [doitintl/gpu-finder](https://github.com/doitintl/gpu-finder) - 
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
