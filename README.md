@@ -1437,7 +1437,7 @@
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [yubrot/llrl](https://github.com/yubrot/llrl) - An experimental Lisp-like programming language
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
