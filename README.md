@@ -682,7 +682,7 @@
 - [themaxbang/MRIYA](https://github.com/themaxbang/MRIYA) - MRIYA is a 42-key column-staggered split keyboard based on the Corne Cherry v.3.0.1
 - [sadekbaroudi/bgkeeb](https://github.com/sadekbaroudi/bgkeeb) - 
 - [george-norton/peacock](https://github.com/george-norton/peacock) - A big QMK powered trackpad
-- [fruffy/nyu-systems-seminar](https://github.com/fruffy/nyu-systems-seminar) - The NYU Systems Seminar
+- [nyu-systems/nyu-systems-seminar](https://github.com/nyu-systems/nyu-systems-seminar) - The NYU Systems Seminar
 - [PolarityWorks/CRBN-Featherlight](https://github.com/PolarityWorks/CRBN-Featherlight) - 
 - [cbskii/storyboard-keyboard](https://github.com/cbskii/storyboard-keyboard) - 5x12 split ortholinear keyboard with an E-INK display
 - [jsallan/trinidox](https://github.com/jsallan/trinidox) - A dactyl manuform keyboard with integrated trackball.
