@@ -424,6 +424,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [sankalp1999/twitter-circle](https://github.com/sankalp1999/twitter-circle) - Uses Twitter archive to visualize your Twitter network based on your replies, quote tweets and direct messaging history. Get DM stats with leaderboard based on message count, bar graph of your messagi
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [Gaafar/curl-worker](https://github.com/Gaafar/curl-worker) - 
@@ -862,6 +863,7 @@
 
 ## Python 
 
+- [google/mesop](https://github.com/google/mesop) - 
 - [Globe-Engineer/semantic-commit](https://github.com/Globe-Engineer/semantic-commit) - 
 - [adithya-s-k/YoloGemma](https://github.com/adithya-s-k/YoloGemma) - Testing and evaluating the capabilities of Vision-Language models (PaliGemma) in performing computer vision tasks such as object detection and segmentation.
 - [AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers related to LLM based agent
