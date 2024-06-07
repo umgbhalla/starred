@@ -518,6 +518,7 @@
 
 ## Jupyter Notebook 
 
+- [Maplemx/Agently](https://github.com/Maplemx/Agently) - [AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
 - [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - a LLM cookbook, for building your own from scratch, all the way from gathering data to training a model
@@ -1652,7 +1653,7 @@
 
 ## TypeScript 
 
-- [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration.
+- [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
@@ -1687,7 +1688,7 @@
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
-- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
