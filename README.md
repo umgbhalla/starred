@@ -149,7 +149,6 @@
 - [zarc1411/dotfiles](https://github.com/zarc1411/dotfiles) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
-- [tonijarjour/autorice](https://github.com/tonijarjour/autorice) - Autorice 9001 ~ Simple and fast arch setup
 - [Federico-abss/CS50-intro-course](https://github.com/Federico-abss/CS50-intro-course) - Harvard's cs50: Introduction To CS 2020 - solutions to every pset plus final project!
 - [phillipberndt/pqiv](https://github.com/phillipberndt/pqiv) - Powerful image viewer with minimal UI
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -288,6 +287,7 @@
 
 ## Go 
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -518,6 +518,7 @@
 
 ## Jupyter Notebook 
 
+- [poloclub/unitable](https://github.com/poloclub/unitable) - UniTable: Towards a Unified Table Foundation Model
 - [Maplemx/Agently](https://github.com/Maplemx/Agently) - [AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
@@ -864,6 +865,13 @@
 
 ## Python 
 
+- [modal-labs/llm-finetuning](https://github.com/modal-labs/llm-finetuning) - Guide for fine-tuning Llama/Mistral/CodeLlama models and more
+- [lypsoty112/llm-project-skeleton](https://github.com/lypsoty112/llm-project-skeleton) - 
+- [castorini/pyserini](https://github.com/castorini/pyserini) - Pyserini is a Python toolkit for reproducible information retrieval research with sparse and dense representations.
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 - [google/mesop](https://github.com/google/mesop) - 
 - [Globe-Engineer/semantic-commit](https://github.com/Globe-Engineer/semantic-commit) - 
 - [adithya-s-k/YoloGemma](https://github.com/adithya-s-k/YoloGemma) - Testing and evaluating the capabilities of Vision-Language models (PaliGemma) in performing computer vision tasks such as object detection and segmentation.
@@ -891,7 +899,7 @@
 - [joey00072/Tinytorch](https://github.com/joey00072/Tinytorch) - A really tiny autograd engine
 - [puravparab/Script2Scene](https://github.com/puravparab/Script2Scene) - upload a manim script and generate an animation
 - [Rustam-Z/senior-python-engineer](https://github.com/Rustam-Z/senior-python-engineer) - Advanced Python for Senior Software Engineers • Design Patterns • S.O.L.I.D • OOP • Concurrency • Python Libraries
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
@@ -1130,7 +1138,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) - Blazingly fast interpolated LUT generator and applicator for arbitrary and popular color palettes.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
-- [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics provider and realtime dashboard designed for self-hosting.
+- [UdaraJay/Stats](https://github.com/UdaraJay/Stats) - Standalone analytics server and realtime dashboard designed for self-hosting.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
@@ -1519,6 +1527,7 @@
 
 ## Shell 
 
+- [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -1653,6 +1662,8 @@
 
 ## TypeScript 
 
+- [Chaoyingz/flect](https://github.com/Chaoyingz/flect) - A full-stack framework that integrates FastAPI and React.
+- [dromzeh/dromzeh.dev](https://github.com/dromzeh/dromzeh.dev) - Source code for my personal site, made with NextJS (app), Million & Tailwind - deployed on Cloudflare Pages
 - [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
