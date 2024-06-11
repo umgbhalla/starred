@@ -865,6 +865,7 @@
 
 ## Python 
 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [modal-labs/llm-finetuning](https://github.com/modal-labs/llm-finetuning) - Guide for fine-tuning Llama/Mistral/CodeLlama models and more
 - [lypsoty112/llm-project-skeleton](https://github.com/lypsoty112/llm-project-skeleton) - 
 - [castorini/pyserini](https://github.com/castorini/pyserini) - Pyserini is a Python toolkit for reproducible information retrieval research with sparse and dense representations.
