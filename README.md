@@ -867,6 +867,8 @@
 
 ## Python 
 
+- [PrefectHQ/ControlFlow](https://github.com/PrefectHQ/ControlFlow) - 🦾 Take control of your AI agents
+- [koaning/bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool
 - [OpenArchitectAI/open-architect](https://github.com/OpenArchitectAI/open-architect) - Your automated SWE fleet to get your tickets from the Backlog to Prod!
 - [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
