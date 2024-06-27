@@ -867,6 +867,7 @@
 
 ## Python 
 
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [PrefectHQ/ControlFlow](https://github.com/PrefectHQ/ControlFlow) - 🦾 Take control of your AI agents
 - [koaning/bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool
 - [OpenArchitectAI/open-architect](https://github.com/OpenArchitectAI/open-architect) - Your automated SWE fleet to get your tickets from the Backlog to Prod!
