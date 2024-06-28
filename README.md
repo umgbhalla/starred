@@ -225,7 +225,7 @@
 
 - [veikman/dactyl-keyboard](https://github.com/veikman/dactyl-keyboard) - Programmatic keyboard CAD
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
-- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
+- [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - ✨ Programming Language Research, Applied PLT & Compilers
 - [drorchen/dactyl-manuform-tight-trackball](https://github.com/drorchen/dactyl-manuform-tight-trackball) - 
 - [genmeblog/genuary](https://github.com/genmeblog/genuary) - Generative Art in January - Generative Artists Club
 
@@ -1232,7 +1232,7 @@
 - [move-language/move](https://github.com/move-language/move) - 
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [MoonZoon/MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework
-- [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
+- [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
