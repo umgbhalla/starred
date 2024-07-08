@@ -255,7 +255,7 @@
 
 ## Dockerfile 
 
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+- [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [cryonayes/ArchContainer](https://github.com/cryonayes/ArchContainer) - Arch Linux container with GUI support.
 
 ## Elixir 
@@ -432,6 +432,7 @@
 
 ## JavaScript 
 
+- [VictorTaelin/AI-scripts](https://github.com/VictorTaelin/AI-scripts) - Some handy AI scripts
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [sankalp1999/twitter-circle](https://github.com/sankalp1999/twitter-circle) - Uses Twitter archive to visualize your Twitter network based on your replies, quote tweets and direct messaging history. Get DM stats with leaderboard based on message count, bar graph of your messagi
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
@@ -526,6 +527,7 @@
 
 ## Jupyter Notebook 
 
+- [theonetruekn/interactive-learning](https://github.com/theonetruekn/interactive-learning) - An open source, locally runnable Coding Agent that doesn't need any APIs.
 - [Sentdex/LLM-Finetuning](https://github.com/Sentdex/LLM-Finetuning) - Some helpers and examples for creating an LLM fine-tuning dataset
 - [poloclub/unitable](https://github.com/poloclub/unitable) - UniTable: Towards a Unified Table Foundation Model
 - [Maplemx/Agently](https://github.com/Maplemx/Agently) - [AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI 
@@ -570,7 +572,7 @@
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [thibthib18/mongo-nvim](https://github.com/thibthib18/mongo-nvim) - Mongo Integration in Neovim
 - [neg-serg/arch-dotfiles](https://github.com/neg-serg/arch-dotfiles) - My old config for archlinux
-- [emilazy/mpv-notify-send](https://github.com/emilazy/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
+- [Parranoh/mpv-notify-send](https://github.com/Parranoh/mpv-notify-send) - A Lua script for mpv to send notifications with notify-send(1).
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
@@ -687,6 +689,8 @@
 
 ## Others 
 
+- [svfat/awesome-celery](https://github.com/svfat/awesome-celery) - A curated list of awesome things related to Celery (distributed task queue)
+- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
@@ -874,6 +878,8 @@
 
 ## Python 
 
+- [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [meetrais/LLM-Fine-Tuning](https://github.com/meetrais/LLM-Fine-Tuning) - 
@@ -1170,6 +1176,7 @@
 
 ## Rust 
 
+- [instructor-ai/instructor-rs](https://github.com/instructor-ai/instructor-rs) - 
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit) - A CLI tool that automatically writes commit messages for you.
