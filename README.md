@@ -289,6 +289,7 @@
 
 ## Go 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
@@ -480,7 +481,6 @@
 - [sachinl0har/JS-Animation](https://github.com/sachinl0har/JS-Animation) - Js Animation on Cursor Move
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
-- [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -690,6 +690,8 @@
 
 ## Others 
 
+- [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - 
+- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
 - [svfat/awesome-celery](https://github.com/svfat/awesome-celery) - A curated list of awesome things related to Celery (distributed task queue)
 - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
@@ -800,6 +802,7 @@
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [ChristianWitts/DevOpsPrimer](https://github.com/ChristianWitts/DevOpsPrimer) - A Brief List of Introductory Resources for Learning About DevOps
+- [primer/figma](https://github.com/primer/figma) - Primer, GitHub's design system, available on Figma.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [mcclure/NFTBlocker](https://github.com/mcclure/NFTBlocker) - Browser plugin to autoblock NFT users on Twitter.
@@ -879,6 +882,10 @@
 
 ## Python 
 
+- [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
+- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
+- [closeio/tasktiger](https://github.com/closeio/tasktiger) - Python task queue using Redis
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [moe18/DeepMLeet](https://github.com/moe18/DeepMLeet) - 
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets (or classifiers)!
@@ -946,7 +953,7 @@
 - [joey00072/Tinytorch](https://github.com/joey00072/Tinytorch) - A really tiny autograd engine
 - [puravparab/Script2Scene](https://github.com/puravparab/Script2Scene) - upload a manim script and generate an animation
 - [Rustam-Z/senior-python-engineer](https://github.com/Rustam-Z/senior-python-engineer) - Advanced Python for Senior Software Engineers • Design Patterns • S.O.L.I.D • OOP • Concurrency • Python Libraries
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
@@ -1181,6 +1188,7 @@
 
 ## Rust 
 
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [instructor-ai/instructor-rs](https://github.com/instructor-ai/instructor-rs) - Structured outputs for LLMs
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -1699,7 +1707,7 @@
 
 ## Swift 
 
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Inference of Whisper Speech Recognition Models for Apple Silicon
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
