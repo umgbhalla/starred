@@ -882,6 +882,7 @@
 
 ## Python 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [closeio/tasktiger](https://github.com/closeio/tasktiger) - Python task queue using Redis
@@ -953,7 +954,7 @@
 - [joey00072/Tinytorch](https://github.com/joey00072/Tinytorch) - A really tiny autograd engine
 - [puravparab/Script2Scene](https://github.com/puravparab/Script2Scene) - upload a manim script and generate an animation
 - [Rustam-Z/senior-python-engineer](https://github.com/Rustam-Z/senior-python-engineer) - Advanced Python for Senior Software Engineers • Design Patterns • S.O.L.I.D • OOP • Concurrency • Python Libraries
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
