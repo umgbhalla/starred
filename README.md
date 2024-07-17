@@ -88,6 +88,7 @@
 
 ## C 
 
+- [EurekaLabsAI/ngram](https://github.com/EurekaLabsAI/ngram) - The n-gram Language Model
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace
 - [penk/Haori36](https://github.com/penk/Haori36) - 36-key monoblock split ortho keyboard
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -904,7 +905,7 @@
 - [PrefectHQ/ControlFlow](https://github.com/PrefectHQ/ControlFlow) - 🦾 Take control of your AI agents
 - [koaning/bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool
 - [OpenArchitectAI/open-architect](https://github.com/OpenArchitectAI/open-architect) - Your automated SWE fleet to get your tickets from the Backlog to Prod!
-- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
+- [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
 - [TengHu/ActionWeaver](https://github.com/TengHu/ActionWeaver) - Make function calling with LLM easier
 - [shroominic/fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
 - [IIIS-Li-Group/OpenFE](https://github.com/IIIS-Li-Group/OpenFE) - OpenFE: automated feature generation with expert-level performance
@@ -979,7 +980,7 @@
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [darothen/ai-models-for-all](https://github.com/darothen/ai-models-for-all) - Run AI NWP forecasts hassle-free, serverless in the cloud!
-- [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & Mixtral)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & Mixtral)
 - [thuml/iTransformer](https://github.com/thuml/iTransformer) - Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting" (ICLR 2024 Spotlight), https://openreview.net/forum?id=JePfAI8fah
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1731,7 +1732,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
-- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
