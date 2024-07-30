@@ -841,7 +841,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [furkun/ProtectorHosts](https://github.com/furkun/ProtectorHosts) - Protect your IP address by blocking IP grabber and IP logger domains.
+- [furuycom/ProtectorHosts](https://github.com/furuycom/ProtectorHosts) - Protect your IP address by blocking IP grabber and IP logger domains.
 - [L04DB4L4NC3R/groff-cheatsheet](https://github.com/L04DB4L4NC3R/groff-cheatsheet) - GNU typesetting runoff ms macro cheatsheet with examples
 - [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I've been curating this for the past 7 years.
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
@@ -1096,7 +1096,7 @@
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Turall/FastApi-boilerplate](https://github.com/Turall/FastApi-boilerplate) - Project template for python  FastApi
