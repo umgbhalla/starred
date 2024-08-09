@@ -96,7 +96,7 @@
 - [Finnitio/3dpcorne-shield-nodefree](https://github.com/Finnitio/3dpcorne-shield-nodefree) - 3dpcorne-shield with urob's zmk nodefree
 - [caksoylar/zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget) - A ZMK module to add battery & BT indicators using an RGB LED (like in Xiao BLEs)
 - [EurekaLabsAI/ngram](https://github.com/EurekaLabsAI/ngram) - The n-gram Language Model
-- [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace
+- [BasedHardware/Omi](https://github.com/BasedHardware/Omi) - AI wearables
 - [penk/Haori36](https://github.com/penk/Haori36) - 36-key monoblock split ortho keyboard
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
@@ -642,6 +642,7 @@
 ## Makefile 
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
+- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust + Go — Call Rust code from Go using FFI
 
 ## Markdown 
@@ -769,7 +770,6 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
-- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
@@ -1331,7 +1331,7 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
