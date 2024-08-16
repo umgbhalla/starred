@@ -438,7 +438,6 @@
 - [jason-lang/jason](https://github.com/jason-lang/jason) - Jason is a fully-fledged interpreter for an extended version of AgentSpeak, a BDI agent-oriented logic programming language.
 - [MoKee/android_packages_apps_WarpShare](https://github.com/MoKee/android_packages_apps_WarpShare) - 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [bob-fornal/work-notes](https://github.com/bob-fornal/work-notes) - General Work Notes. These are often paper-notes, converted ... I have a lot of paper.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -469,6 +468,7 @@
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [bob-fornal/work-notes](https://github.com/bob-fornal/work-notes) - General Work Notes. These are often paper-notes, converted ... I have a lot of paper.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [yuriatgoogle/stack-doctor](https://github.com/yuriatgoogle/stack-doctor) - Repository for Stackdriver demos supporting the Stack Doctor series of videos and blog posts
 - [QAInsights/Learn-k6-Series](https://github.com/QAInsights/Learn-k6-Series) - Learn k6 Series
@@ -1211,6 +1211,7 @@
 
 ## Rust 
 
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - BAML is a templating language to write typed LLM functions. Check out the promptfiddle.com playground
 - [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [instructor-ai/instructor-rs](https://github.com/instructor-ai/instructor-rs) - Structured outputs for LLMs
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
