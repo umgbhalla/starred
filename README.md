@@ -796,7 +796,7 @@
 - [sumodirjo/engineering-blogs](https://github.com/sumodirjo/engineering-blogs) - A curated list of engineering blogs of startup and enterprise companies
 - [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
+- [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim Reference Guide for beginner to intermediate level users
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [pwittchen/learning-linux](https://github.com/pwittchen/learning-linux) - learning Linux (Unix) and collecting resources about it
