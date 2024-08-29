@@ -190,7 +190,7 @@
 - [coder137/build_in_cpp](https://github.com/coder137/build_in_cpp) - Build C, C++ and ASM files in C++
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
 - [swharden/code-notes](https://github.com/swharden/code-notes) - notes and reusable code for various programming languages
@@ -662,7 +662,7 @@
 
 ## Mustache 
 
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (and any other conformant K8s)
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 - [hisbaan/dotfiles](https://github.com/hisbaan/dotfiles) - There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.
 
 ## Nim 
