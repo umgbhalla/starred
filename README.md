@@ -95,7 +95,7 @@
 - [Finnitio/3dpcorne-shield-nodefree](https://github.com/Finnitio/3dpcorne-shield-nodefree) - 3dpcorne-shield with urob's zmk nodefree
 - [caksoylar/zmk-rgbled-widget](https://github.com/caksoylar/zmk-rgbled-widget) - A ZMK module to add battery & BT indicators using an RGB LED (like in Xiao BLEs)
 - [EurekaLabsAI/ngram](https://github.com/EurekaLabsAI/ngram) - The n-gram Language Model
-- [BasedHardware/Omi](https://github.com/BasedHardware/Omi) - AI wearables
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables
 - [penk/Haori36](https://github.com/penk/Haori36) - 36-key monoblock split ortho keyboard
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
@@ -275,6 +275,7 @@
 
 ## Emacs Lisp 
 
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -540,6 +541,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [andysingal/llm-course](https://github.com/andysingal/llm-course) - 
 - [theonetruekn/interactive-learning](https://github.com/theonetruekn/interactive-learning) - An open source, locally runnable Coding Agent that doesn't need any APIs.
 - [Sentdex/LLM-Finetuning](https://github.com/Sentdex/LLM-Finetuning) - Some helpers and examples for creating an LLM fine-tuning dataset
@@ -602,7 +604,6 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [tuffgniuz/nvim.lua](https://github.com/tuffgniuz/nvim.lua) - My neovim setup configured with Lua and a bunch of plugins.
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) - Yet another tree-sitter powered indent plugin for Neovim.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [luisalcarasr/dotfiles](https://github.com/luisalcarasr/dotfiles) - 🏠 There's no place like ~/.
 - [raven2cz/dotfiles](https://github.com/raven2cz/dotfiles) - Dotfiles are the customization files in GNU/Linux. This repository assembly together all my others github config repos to one union. You can choose this global conf for your system or check other repo
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
@@ -895,6 +896,7 @@
 
 ## Python 
 
+- [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [ShengranHu/ADAS](https://github.com/ShengranHu/ADAS) - Automated Design of Agentic Systems
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1742,13 +1744,14 @@
 
 ## TypeScript 
 
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [Chaoyingz/flect](https://github.com/Chaoyingz/flect) - A full-stack framework that integrates FastAPI and React.
-- [dromzeh/dromzeh.dev](https://github.com/dromzeh/dromzeh.dev) - Source code for my personal site & blog —  deployed on Cloudflare Pages
+- [dromzeh/dromzeh.dev](https://github.com/dromzeh/dromzeh.dev) - Source code for my personal site & blog —  built with NextJS and deployed on Cloudflare Pages
 - [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
