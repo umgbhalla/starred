@@ -546,7 +546,6 @@
 - [theonetruekn/interactive-learning](https://github.com/theonetruekn/interactive-learning) - An open source, locally runnable Coding Agent that doesn't need any APIs.
 - [Sentdex/LLM-Finetuning](https://github.com/Sentdex/LLM-Finetuning) - Some helpers and examples for creating an LLM fine-tuning dataset
 - [poloclub/unitable](https://github.com/poloclub/unitable) - UniTable: Towards a Unified Table Foundation Model
-- [Maplemx/Agently](https://github.com/Maplemx/Agently) - [AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI 
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [varunshenoy/super-json-mode](https://github.com/varunshenoy/super-json-mode) - Low latency JSON generation using LLMs ⚡️
 - [shivendrra/SmallLanguageModel-project](https://github.com/shivendrra/SmallLanguageModel-project) - a LLM cookbook, for building your own from scratch, all the way from gathering data to training a model
@@ -652,6 +651,7 @@
 
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mojo 
@@ -806,7 +806,6 @@
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd open-source licenses.
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
@@ -949,6 +948,7 @@
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+- [Maplemx/Agently](https://github.com/Maplemx/Agently) - [AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI 
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [Globe-Engineer/semantic-commit](https://github.com/Globe-Engineer/semantic-commit) - 
 - [adithya-s-k/YoloGemma](https://github.com/adithya-s-k/YoloGemma) - Testing and evaluating the capabilities of Vision-Language models (PaliGemma) in performing computer vision tasks such as object detection and segmentation.
@@ -1554,7 +1554,7 @@
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [drahnr/cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling and grammar mistakes with hunspell and a nlprule based checker for grammar
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
-- [pop-os/system76-power](https://github.com/pop-os/system76-power) - System76 Power Management
+- [pop-os/system76-power](https://github.com/pop-os/system76-power) - Power profile management for Linux
 - [amethyst/rustrogueliketutorial](https://github.com/amethyst/rustrogueliketutorial) - Roguelike Tutorial in Rust - using RLTK
 - [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) - This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
