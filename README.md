@@ -389,6 +389,7 @@
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [ECE-webdev-Bootcamp/techtronics](https://github.com/ECE-webdev-Bootcamp/techtronics) - A website to be designed especially for ECE students of IIITB, to get in touch with proper study material resource in a smoother way.
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [ayroui/bootstrap-ui-components](https://github.com/ayroui/bootstrap-ui-components) - Bootstrap UI Components - Free Core Version of Ayro UI, A Bootstrap HTML UI Library, with Beautiful & Essential UI Components and Minimal Design System.
 - [SerhatTeker/hugo-theme-hello-friend-ng](https://github.com/SerhatTeker/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing! https://github.com/serhatteker/hugo-theme…
@@ -493,7 +494,6 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [sachinl0har/JS-Animation](https://github.com/sachinl0har/JS-Animation) - Js Animation on Cursor Move
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
