@@ -896,6 +896,7 @@
 
 ## Python 
 
+- [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [not-lain/LowRes-Bot](https://github.com/not-lain/LowRes-Bot) - a discord bot for the official LowRes community
 - [not-lain/loadimg](https://github.com/not-lain/loadimg) - a python package for loading images
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
@@ -1751,6 +1752,7 @@
 
 ## TypeScript 
 
+- [DonTizi/ReMind](https://github.com/DonTizi/ReMind) - Your Local Artificial Memory on your Device.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
