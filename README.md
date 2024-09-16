@@ -300,6 +300,7 @@
 
 ## Go 
 
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -370,6 +371,7 @@
 
 ## HTML 
 
+- [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -896,6 +898,12 @@
 
 ## Python 
 
+- [zerowriter/zerowriter1](https://github.com/zerowriter/zerowriter1) - 
+- [fate-ubw/RAGLAB](https://github.com/fate-ubw/RAGLAB) - RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation
+- [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
+- [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+- [redis/redis-om-python](https://github.com/redis/redis-om-python) - Object mapping, and more, for Redis and Python
+- [pixqc/smalldiff](https://github.com/pixqc/smalldiff) - tinygrad-inspired autograd library
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [not-lain/LowRes-Bot](https://github.com/not-lain/LowRes-Bot) - a discord bot for the official LowRes community
 - [not-lain/loadimg](https://github.com/not-lain/loadimg) - a python package for loading images
@@ -1217,7 +1225,7 @@
 ## Rust 
 
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - BAML is a templating language to write typed LLM functions. Check out the promptfiddle.com playground
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - BAML is a language that helps you get structured data from LLMs, with the best DX possible. Check out the promptfiddle.com playground
 - [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [instructor-ai/instructor-rs](https://github.com/instructor-ai/instructor-rs) - Structured outputs for LLMs
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
@@ -1752,6 +1760,7 @@
 
 ## TypeScript 
 
+- [adithya-s-k/RAG-SaaS](https://github.com/adithya-s-k/RAG-SaaS) - ⚡Ship RAG Solutions Quickly and effortlessly
 - [DonTizi/ReMind](https://github.com/DonTizi/ReMind) - Your Local Artificial Memory on your Device.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
