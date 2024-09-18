@@ -899,6 +899,7 @@
 
 ## Python 
 
+- [1x-technologies/1xgpt](https://github.com/1x-technologies/1xgpt) - world modeling challenge for humanoid robots
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [zerowriter/zerowriter1](https://github.com/zerowriter/zerowriter1) - 
 - [fate-ubw/RAGLAB](https://github.com/fate-ubw/RAGLAB) - RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation
@@ -949,7 +950,7 @@
 - [robweber/omni-epd](https://github.com/robweber/omni-epd) - An EPD (electronic paper display) class abstraction to simplify communications across multiple display types.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [niklasf/python-agentspeak](https://github.com/niklasf/python-agentspeak) - A Python-based interpreter for the agent-oriented programming language JASON
-- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open Source Generative Process Automation (GPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
+- [OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) - A fast and lightweight framework for creating decentralized agents with ease.
 - [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A lightweight library that leverages Language Models (LLMs) to enable natural language interactions, allowing you to source and converse with data.
 - [anthonycorletti/snok](https://github.com/anthonycorletti/snok) - 🚀 A simple, modern, full-stack toolkit for Python 🐍
