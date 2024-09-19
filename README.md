@@ -899,6 +899,7 @@
 
 ## Python 
 
+- [magicproduct/hash-hop](https://github.com/magicproduct/hash-hop) - Long context evaluation for large language models
 - [1x-technologies/1xgpt](https://github.com/1x-technologies/1xgpt) - world modeling challenge for humanoid robots
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
 - [zerowriter/zerowriter1](https://github.com/zerowriter/zerowriter1) - 
