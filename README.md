@@ -363,7 +363,7 @@
 
 ## HCL 
 
-- [manestarlara/k8s-terrable](https://github.com/manestarlara/k8s-terrable) - Local Kubernetes automation with Terraform, Ansible, and VirtualBox.
+- [mnstrlara/k8s-terrable](https://github.com/mnstrlara/k8s-terrable) - Local Kubernetes automation with Terraform, Ansible, and VirtualBox.
 - [doitintl/gke-ssh](https://github.com/doitintl/gke-ssh) - 
 - [itninja-hue/aws-production-eks](https://github.com/itninja-hue/aws-production-eks) - Terraform script for production grade eks provisioning
 - [nalbam/terraform-aws-eks](https://github.com/nalbam/terraform-aws-eks) - 
@@ -710,6 +710,7 @@
 
 ## Others 
 
+- [kyon-eth/llim](https://github.com/kyon-eth/llim) - 
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
 - [svfat/awesome-celery](https://github.com/svfat/awesome-celery) - A curated list of awesome things related to Celery (distributed task queue)
@@ -899,6 +900,8 @@
 
 ## Python 
 
+- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
+- [FlorianDietz/comgra](https://github.com/FlorianDietz/comgra) - A tool to analyze and debug neural networks in pytorch. Use a GUI to traverse the computation graph and view the data from many different angles at the click of a button.
 - [magicproduct/hash-hop](https://github.com/magicproduct/hash-hop) - Long context evaluation for large language models
 - [1x-technologies/1xgpt](https://github.com/1x-technologies/1xgpt) - world modeling challenge for humanoid robots
 - [sentient-engineering/sentient](https://github.com/sentient-engineering/sentient) - the framework/ sdk that lets you build browser controlling agents in 3 lines of code. join chat @ https://discord.gg/umgnyQU2K8
@@ -1764,6 +1767,7 @@
 
 ## TypeScript 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [adithya-s-k/RAG-SaaS](https://github.com/adithya-s-k/RAG-SaaS) - ⚡Ship RAG Solutions Quickly and effortlessly
 - [DonTizi/ReMind](https://github.com/DonTizi/ReMind) - Your Local Artificial Memory on your Device.
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
